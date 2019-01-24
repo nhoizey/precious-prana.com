@@ -133,26 +133,6 @@ code {
   padding-right: 4px;
 }
 
-pre {
-  margin-top: 2em;
-  margin-bottom: 2em;
-  padding-top: 1em;
-  padding-bottom: 1em;
-  padding-left: 2em;
-  padding-right: 2em;
-  line-height: 1.2;
-  background-color: mix($accent-color, $page-color, 10%);
-  border: solid 1px mix($accent-color, $page-color, 30%);
-  overflow: auto;
-  code {
-    border-style: none;
-    padding-top: 0;
-    padding-bottom: 0;
-    padding-left: 0;
-    padding-right: 0;
-  }
-}
-
 footer {
   margin-top: 6em;
   padding-top: 4em;
