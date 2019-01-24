@@ -6,7 +6,6 @@
   padding: 0;
 }
 
-
 ::-moz-selection {
   background-color: $accent-color;
   color: $page-color;
@@ -16,8 +15,6 @@
   color: $page-color;
 }
 
-html {
-  background-color: $accent-color;
 @font-face {
   font-family: 'chewyregular';
   src: url('/fonts/chewy-regular.woff2') format('woff2'),
@@ -27,64 +24,53 @@ html {
 }
 
 body {
-  text-align: center;
   background-color: $page-color;
-  color: mix($text-color, $page-color, 80%);
-  font-family: sans-serif;
-  font-weight: 30;
-  font-size: 16px;
+  color: $text-color;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 300;
   line-height: 1.8;
   @include bp(mid) {
-    font-size: 18px;
+    font-size: 1.2em;
   }
 }
 
 .container {
   margin-left: auto;
   margin-right: auto;
-  width: 90%;
+  width: 90vw;
+  max-width: 50rem;
   text-align: left;
-  @include bp(mid) {
-    width: 600px;
-  }
-  @include bp(wide) {
-    width: 700px;
-  }
 }
 
-
-h1, h2, h3 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   color: $text-color;
   font-weight: 600;
-  margin-top:2.5em;
-  margin-bottom:1em;
-  line-height: 1em;
+  margin-top: 2.5em;
+  margin-bottom: 1em;
+  line-height: 1;
   font-family: 'chewyregular', sans-serif;
 }
 h1 {
-  margin-top:0.4em;
-  font-size: 4em;
-  line-height: 0.9em;
-
-  @include bp(mid) {
-    font-size: 5em;
-  }
-  @include bp(wide) {
-    font-size: 6em;
-  }
+  margin-top: 0.4em;
+  font-size: 5em;
 }
-
 
 p {
   margin-bottom: 1em;
 }
 
 .subtitle {
-  margin-top: -3em;
-  margin-bottom: 6em;
+  margin-bottom: 4em;
+  font-size: 1.5em;
 }
 
-ul, ol {
+ul,
+ol {
   padding-left: 1em;
 }
 
@@ -100,8 +86,6 @@ a:focus {
   border-bottom: solid 1px $accent-color;
 }
 
-
-
 .nav {
   padding-top: 3em;
 
@@ -112,7 +96,7 @@ a:focus {
   a:link,
   a:visited {
     display: inline-block;
-    border-top: solid 1px mix($text-color,$page-color, 60%);
+    border-top: solid 1px mix($text-color, $page-color, 60%);
     border-bottom-style: none;
     padding-top: 0.8em;
     padding-bottom: 2em;
@@ -120,27 +104,26 @@ a:focus {
     margin-right: 0.7em;
     width: 8em;
     text-align: left;
-    color: mix($text-color,$page-color, 80%);
+    color: mix($text-color, $page-color, 80%);
     text-decoration: none;
   }
   a:hover,
   a:focus {
-      color: $text-color;
-      border-top: solid 1px $accent-color;
-      border-bottom-style: none;
+    color: $text-color;
+    border-top: solid 1px $accent-color;
+    border-bottom-style: none;
   }
 
   small {
     display: block;
     font-size: 0.7em;
-    color: mix($text-color,$page-color, 60%);
+    color: mix($text-color, $page-color, 60%);
   }
 }
 
-
 code {
   font-size: 0.8em;
-  background-color:  mix($accent-color, $page-color, 10%);
+  background-color: mix($accent-color, $page-color, 10%);
   color: $text-color;
   padding-top: 2px;
   padding-bottom: 2px;
@@ -156,7 +139,7 @@ pre {
   padding-left: 2em;
   padding-right: 2em;
   line-height: 1.2;
-  background-color:  mix($accent-color, $page-color, 10%);
+  background-color: mix($accent-color, $page-color, 10%);
   border: solid 1px mix($accent-color, $page-color, 30%);
   overflow: auto;
   code {
@@ -167,10 +150,6 @@ pre {
     padding-right: 0;
   }
 }
-
-
-
-
 
 footer {
   margin-top: 6em;
