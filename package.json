@@ -1,8 +1,8 @@
 {
-  "name": "EleventyOne",
-  "version": "1.0.1",
-  "description": "A project bootstrap for Eleventy sites. With pipelines for Sass, Js, and Lambdas",
-  "author": "Phil Hawksworth",
+  "name": "precious-prana",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Jacqueline Oud",
   "license": "MIT",
   "scripts": {
     "gen": "gulp generate",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/philhawksworth/eleventyone"
+    "url": "https://github.com/nhoizey/precious-prana.com"
   },
   "dependencies": {
     "@11ty/eleventy": "^0.5.2",
