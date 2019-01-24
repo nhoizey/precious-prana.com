@@ -6,15 +6,6 @@
   padding: 0;
 }
 
-::-moz-selection {
-  background-color: $accent-color;
-  color: $page-color;
-}
-::selection {
-  background-color: $accent-color;
-  color: $page-color;
-}
-
 @font-face {
   font-family: 'chewyregular';
   src: url('/fonts/chewy-regular.woff2') format('woff2'),
@@ -29,17 +20,13 @@ body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: 300;
   line-height: 1.8;
-  @include bp(mid) {
-    font-size: 1.2em;
-  }
+  font-size: calc(0.9rem + 0.5vw);
 }
 
 .container {
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
   width: 90vw;
   max-width: 50rem;
-  text-align: left;
 }
 
 h1,
@@ -50,18 +37,29 @@ h5,
 h6 {
   color: $text-color;
   font-weight: 600;
-  margin-top: 2.5em;
+  margin-top: 2em;
   margin-bottom: 1em;
   line-height: 1;
   font-family: 'chewyregular', sans-serif;
 }
-h1 {
-  margin-top: 0.4em;
-  font-size: 5em;
+
 img {
   max-width: 100%;
 }
 
+.sitename {
+  margin: 3rem 0;
+  font-size: 12vw;
+  text-align: center;
+}
+
+@media screen and (min-width: 55rem) {
+  body {
+    font-size: 1.175rem; //calc(0.9rem + 55 / 100 * 0.5 * 1rem);
+  }
+  .sitename {
+    font-size: 6.6rem; //calc(55 / 100 * 12 * 1rem);
+  }
 }
 
 p {
@@ -70,7 +68,7 @@ p {
 
 .subtitle {
   margin-bottom: 4em;
-  font-size: 1.5em;
+  font-size: 1.2em;
 }
 
 ul,
@@ -173,4 +171,13 @@ footer {
     color: $accent-color;
     border-bottom: solid 1px $text-color;
   }
+}
+
+::-moz-selection {
+  background-color: $accent-color;
+  color: $page-color;
+}
+::selection {
+  background-color: $accent-color;
+  color: $page-color;
 }
