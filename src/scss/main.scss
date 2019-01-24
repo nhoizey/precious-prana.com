@@ -18,6 +18,12 @@
 
 html {
   background-color: $accent-color;
+@font-face {
+  font-family: 'chewyregular';
+  src: url('/fonts/chewy-regular.woff2') format('woff2'),
+    url('/fonts/chewy-regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 }
 
 body {
@@ -53,6 +59,7 @@ h1, h2, h3 {
   margin-top:2.5em;
   margin-bottom:1em;
   line-height: 1em;
+  font-family: 'chewyregular', sans-serif;
 }
 h1 {
   margin-top:0.4em;
