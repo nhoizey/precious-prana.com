@@ -124,22 +124,9 @@ a:focus {
   }
 }
 
-code {
-  font-size: 0.8em;
-  background-color: mix($accent-color, $page-color, 10%);
-  color: $text-color;
-  padding-top: 2px;
-  padding-bottom: 2px;
-  padding-left: 4px;
-  padding-right: 4px;
-}
-
 footer {
   margin-top: 6em;
   padding-top: 4em;
-  padding-bottom: 6em;
-  border-top: solid 1px mix($text-color, $page-color, 10%);
-  font-size: 0.7em;
   color: mix($text-color, $page-color, 40%);
 
   a:link,
