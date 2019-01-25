@@ -15,7 +15,11 @@
     </script>
 
     <link rel="stylesheet" href="/css/main.css" />
-    <title>{{ title }}</title>
+    {%- if title != 'Precious Prana' %}
+      <title>{{ title }} — Precious Prana</title>
+    {% else %}
+      <title>Precious Prana, communauté qui permet aux mères actives de se ressourcer</title>
+    {% endif %}
   </head>
   <body class="{{ bodyClass }}" >
     <div class="container">
