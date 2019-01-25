@@ -6,4 +6,5 @@ $bp-wide: '(min-width: 1200px)';
 // Colours
 $page-color: #f9d9db;
 $text-color: #222;
-$accent-color: #222;
+$link-color: darken($page-color, 60%);
+$facebook-color: #3c5a99;

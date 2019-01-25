@@ -64,7 +64,7 @@ img {
 }
 
 p {
-  margin-bottom: 1em;
+  margin: 1em 0;
 }
 
 .subtitle {
@@ -79,73 +79,62 @@ ol {
 
 a:link,
 a:visited {
-  color: $accent-color;
-  text-decoration: none;
-  border-bottom: solid 1px mix($text-color, $page-color, 10%);
-}
-a:hover,
-a:focus {
   color: $text-color;
-  border-bottom: solid 1px $accent-color;
+  text-decoration: underline solid mix($text-color, $page-color, 70%);
 }
 
-.nav {
-  padding-top: 3em;
-
-  li {
-    display: inline;
-  }
-
-  a:link,
-  a:visited {
-    display: inline-block;
-    border-top: solid 1px mix($text-color, $page-color, 60%);
-    border-bottom-style: none;
-    padding-top: 0.8em;
-    padding-bottom: 2em;
-    margin-left: 0;
-    margin-right: 0.7em;
-    width: 8em;
-    text-align: left;
-    color: mix($text-color, $page-color, 80%);
-    text-decoration: none;
-  }
-  a:hover,
-  a:focus {
-    color: $text-color;
-    border-top: solid 1px $accent-color;
-    border-bottom-style: none;
-  }
-
-  small {
-    display: block;
-    font-size: 0.7em;
-    color: mix($text-color, $page-color, 60%);
-  }
+a:hover,
+a:focus,
+a:active {
+  color: $link-color;
+  text-decoration: underline solid mix($link-color, $page-color, 70%);
 }
 
 footer {
-  margin-top: 6em;
-  padding-top: 4em;
-  color: mix($text-color, $page-color, 40%);
+  margin: 5em 0 2em;
+  padding: 0;
 
-  a:link,
-  a:visited {
-    color: mix($text-color, $page-color, 70%);
-    border-bottom: solid 1px mix($accent-color, $page-color, 70%);
-  }
-  a:hover,
-  a:focus {
-    color: $accent-color;
-    border-bottom: solid 1px $text-color;
+  .facebook-page {
+    display: flex;
+    align-items: flex-start;
+
+    a:link,
+    a:visited {
+      color: $facebook-color;
+      text-decoration: underline solid mix($facebook-color, $page-color, 70%);
+    }
+
+    a:hover,
+    a:focus,
+    a:active {
+      color: $link-color;
+      text-decoration: underline solid mix($link-color, $page-color, 70%);
+    }
+
+    .icon-link {
+      display: inline-block;
+      margin: 0 0.5em 0 0;
+      width: 7rem;
+      height: auto;
+      min-width: 30px;
+      max-width: 50px;
+      text-decoration: none;
+    }
+
+    svg {
+      width: 100%;
+      height: auto;
+    }
+
+    p {
+      margin: 0;
+      flex-grow: 1;
+      line-height: 1;
+    }
   }
 }
 
-::-moz-selection {
-  background-color: $accent-color;
-  color: $page-color;
-}
 ::selection {
-  background-color: $accent-color;
+  background-color: $text-color;
   color: $page-color;
 }
