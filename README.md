@@ -11,6 +11,7 @@ Communauté qui permet aux mères actives de se ressourcer.
 ### Suivi qualitatif
 
 - Qualité du référencement sur [Google Search Console](https://search.google.com/search-console?resource_id=https%3A%2F%2Fprecious-prana.com%2F&hl=fr)
+- [Prévisualiation des SERP](https://smartsearchmarketing.com/google-title-tag-serp-preview-tool) (à vérifier)
 
 ### Plateforme de déploiement
 
