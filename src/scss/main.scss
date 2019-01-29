@@ -81,6 +81,11 @@ a:link,
 a:visited {
   color: $text-color;
   text-decoration: underline solid mix($text-color, $page-color, 70%);
+
+  &.facebook {
+    color: $facebook-color;
+    text-decoration: underline solid mix($facebook-color, $page-color, 70%);
+  }
 }
 
 a:hover,
@@ -88,6 +93,11 @@ a:focus,
 a:active {
   color: $link-color;
   text-decoration: underline solid mix($link-color, $page-color, 70%);
+
+  &.facebook {
+    color: $link-color;
+    text-decoration: underline solid mix($link-color, $page-color, 70%);
+  }
 }
 
 footer {
@@ -97,19 +107,6 @@ footer {
   .facebook-page {
     display: flex;
     align-items: flex-start;
-
-    a:link,
-    a:visited {
-      color: $facebook-color;
-      text-decoration: underline solid mix($facebook-color, $page-color, 70%);
-    }
-
-    a:hover,
-    a:focus,
-    a:active {
-      color: $link-color;
-      text-decoration: underline solid mix($link-color, $page-color, 70%);
-    }
 
     .icon-link {
       display: inline-block;
