@@ -79,8 +79,8 @@ ol {
 
 a:link,
 a:visited {
-  color: $text-color;
-  text-decoration: underline solid mix($text-color, $page-color, 70%);
+  color: $link-color;
+  text-decoration: underline solid mix($link-color, $page-color, 70%);
 
   &.facebook {
     color: $facebook-color;
