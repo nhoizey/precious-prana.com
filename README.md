@@ -15,4 +15,4 @@ Communauté qui permet aux mères actives de se ressourcer.
 
 ### Plateforme de déploiement
 
-- État du déploiement sur [Netlify](https://app.netlify.com/sites/precious-prana/settings/general)
+- État du déploiement sur Netlify : [![Netlify Status](https://api.netlify.com/api/v1/badges/d460227d-8cdc-478c-a755-a02fe087954d/deploy-status)](https://app.netlify.com/sites/precious-prana/deploys)
