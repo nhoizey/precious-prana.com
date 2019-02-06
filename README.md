@@ -1,6 +1,6 @@
 # Precious Prana
 
-Communauté qui permet aux mères actives de se ressourcer.
+La communauté pour faire pétiller l’énergie vitale des mères actives
 
 ## Outils
 

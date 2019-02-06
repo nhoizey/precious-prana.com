@@ -1,6 +1,6 @@
 ---
 title: Precious Prana
-subtitle: Une communauté qui permet aux mères actives de se ressourcer, savoir auto-gérer son énergie et réussir l'équilibre vie personnelle - professionnelle - familiale.
+subtitle: La communauté pour faire pétiller l’énergie vitale des mères actives
 layout: layouts/base.njk
 ---
 
