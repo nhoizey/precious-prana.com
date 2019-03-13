@@ -7,10 +7,9 @@
   "scripts": {
     "gen": "gulp generate",
     "start": "yarn run build && yarn run serve",
-    "build": "gulp build && yarn run build:functions",
+    "build": "gulp build",
     "build:local": "gulp build:local",
-    "build:functions": "netlify-lambda build src/lambda",
-    "serve": "gulp watch & gulp serve & netlify-lambda serve src/lambda"
+    "serve": "gulp watch & gulp serve"
   },
   "repository": {
     "type": "git",
@@ -29,16 +28,7 @@
     "gulp-serve": "^1.4.0",
     "gulp-shell": "^0.6.5",
     "gulp-uglify": "^3.0.0",
-    "netlify-lambda": "^0.2.0",
     "pump": "^3.0.0",
     "require-dir": "^1.0.0"
-  },
-  "proxy": {
-    "/.netlify/functions": {
-      "target": "http://localhost:9000",
-      "pathRewrite": {
-        "^/\\.netlify/functions": ""
-      }
-    }
   }
 }
