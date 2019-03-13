@@ -5,9 +5,9 @@ date: 2019-02-19
 
 <figure class="poster">
   <img
-    src="/images/2019-02-19-atelier-auto-massage-shiatsu-320.jpg"
+    src="/images/2019-02-19-atelier-auto-massage-shiatsu-360.jpg"
     srcset="
-      /images/2019-02-19-atelier-auto-massage-shiatsu-320.jpg 320w,
+      /images/2019-02-19-atelier-auto-massage-shiatsu-360.jpg 360w,
       /images/2019-02-19-atelier-auto-massage-shiatsu-480.jpg 480w,
       /images/2019-02-19-atelier-auto-massage-shiatsu-640.jpg 640w,
       /images/2019-02-19-atelier-auto-massage-shiatsu-800.jpg 800w"
