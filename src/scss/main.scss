@@ -50,17 +50,13 @@ img {
   height: auto;
 }
 
-.sitename {
+.logo {
   margin: 1rem 0 3rem;
   text-align: center;
 
-  font-size: 12vw;
-  @media screen and (min-width: 55rem) {
-    font-size: 6.6rem; //calc(55 / 100 * 12 * 1rem);
-  }
-
   img {
     width: 25rem;
+    max-width: 75vw;
   }
 }
 
