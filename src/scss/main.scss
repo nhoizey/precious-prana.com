@@ -18,7 +18,7 @@ body {
   background-color: $page-color;
   color: $text-color;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font-display: swap;
+  font-display: optional;
   font-weight: 300;
   line-height: 1.8;
 
@@ -45,7 +45,7 @@ h6 {
   margin-top: 2em;
   margin-bottom: 1em;
   line-height: 1;
-  font-family: 'chewyregular', sans-serif;
+  // font-family: 'chewyregular', sans-serif;
 }
 
 img {
@@ -60,6 +60,10 @@ img {
   font-size: 12vw;
   @media screen and (min-width: 55rem) {
     font-size: 6.6rem; //calc(55 / 100 * 12 * 1rem);
+  }
+
+  img {
+    width: 10rem;
   }
 }
 
