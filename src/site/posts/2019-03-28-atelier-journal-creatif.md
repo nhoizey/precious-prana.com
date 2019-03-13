@@ -8,3 +8,5 @@ date: 2019-03-28
 Voyez plus de détails <a href="https://www.facebook.com/events/1101982766675294/" class="facebook">sur notre page Facebook</a>.
 
 Inscrivez-vous dès maintenant&nbsp;: <http://bit.ly/JournalCreatif-PreciousPrana>
+
+Pour plus de renseignements : <contact@precious-prana.com>
