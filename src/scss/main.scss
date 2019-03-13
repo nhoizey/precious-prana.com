@@ -96,10 +96,15 @@ a:active {
   width: 30%;
   float: right;
   margin: 0 0 1em 1em;
-  border: 1px solid #ccc;
+
+  img {
+    border: 1px solid #ccc;
+  }
 
   figcaption {
     text-align: center;
+    line-height: 1;
+    font-size: .9em;
   }
 }
 
