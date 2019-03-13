@@ -24,6 +24,13 @@ body {
   @media screen and (min-width: 55rem) {
     font-size: 1.45rem; //calc(0.9rem + 55 / 100 * 1 * 1rem);
   }
+
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
 }
 
 .container {
