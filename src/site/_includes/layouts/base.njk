@@ -24,8 +24,15 @@
   <body class="{{ bodyClass }}" >
     <div class="container">
       <header>
-        <h1 class="sitename"><a href="/"><img src="/images/logo-precious-prana.png" alt="Precious Prana" class="logo" /></a></h1>
-        {%- if subtitle %}<p class="subtitle">{{ subtitle }}</p>{% endif %}
+        <h1 class="sitename"><a href="/"><img
+          src="/images/logo-precious-prana-320.png"
+          srcset="
+            /images/logo-precious-prana-320.png 320w,
+            /images/logo-precious-prana-480.png 480w,
+            /images/logo-precious-prana-640.png 640w,
+            /images/logo-precious-prana-800.png 800w"
+          sizes="(min-width: 27rem) 25rem, 90vw"
+          alt="Precious Prana" /></a></h1>
       </header>
       <div class="container">
         {{ content | safe }}
