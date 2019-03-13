@@ -47,11 +47,11 @@ h6 {
 
 img {
   max-width: 100%;
-  display: inline-block;
+  height: auto;
 }
 
 .sitename {
-  margin: 3rem 0;
+  margin: 1rem 0 3rem;
   text-align: center;
 
   font-size: 12vw;
@@ -97,9 +97,14 @@ a:active {
 }
 
 .poster {
-  width: 25%;
+  width: 30%;
   float: right;
   margin: 0 0 1em 1em;
+  border: 1px solid #ccc;
+
+  figcaption {
+    text-align: center;
+  }
 }
 
 footer {
