@@ -4,7 +4,8 @@ subtitle: La communauté pour faire pétiller l’énergie vitale des mères act
 layout: layouts/base.njk
 ---
 
-Ne ratez pas notre prochain événement Journal Créatif, jeudi 28 mars. Voyez plus de détails <a href="https://www.facebook.com/events/1101982766675294/" class="facebook">sur notre page Facebook</a>.
+Ne ratez pas notre prochain événement Journal Créatif, jeudi 28 mars.
+Voyez plus de détails <a href="https://www.facebook.com/events/1101982766675294/" class="facebook">sur notre page Facebook</a>.
 
 Inscrivez-vous dès maintenant&nbsp;: <http://bit.ly/JournalCreatif-PreciousPrana>
 
