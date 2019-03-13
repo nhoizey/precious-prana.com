@@ -22,8 +22,8 @@
     {% endif %}
   </head>
   <body class="{{ bodyClass }}" >
-    <div class="container">
-      <header>
+    <header>
+      <div class="container">
         <h1 class="sitename"><a href="/"><img
           src="/images/logo-precious-prana-320.png"
           srcset="
@@ -33,11 +33,11 @@
             /images/logo-precious-prana-800.png 800w"
           sizes="(min-width: 27rem) 25rem, 90vw"
           alt="Precious Prana" /></a></h1>
-      </header>
-      <div class="container">
-        {{ content | safe }}
       </div>
-      {% include "footer.njk" %}
+    </header>
+    <div class="container">
+      {{ content | safe }}
     </div>
+    {% include "footer.njk" %}
   </body>
 </html>

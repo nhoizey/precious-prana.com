@@ -4,7 +4,7 @@ subtitle: La communauté pour faire pétiller l’énergie vitale des mères act
 layout: layouts/base.njk
 ---
 
-Ne ratez pas notre prochain événement jeudi 28 mars&nbsp;: Journal&nbsp;Créatif.
+Ne ratez pas notre prochain événement **jeudi 28 mars**&nbsp;: Journal&nbsp;Créatif.
 
 Plus de détails <a href="https://www.facebook.com/events/1101982766675294/" class="facebook">sur notre page Facebook</a>.
 
