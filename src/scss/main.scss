@@ -80,11 +80,11 @@ ol {
 a:link,
 a:visited {
   color: $link-color;
-  text-decoration: underline solid mix($link-color, $page-color, 70%);
+  text-decoration: underline solid mix($link-color, $page-background, 70%);
 
   &.facebook {
     color: $facebook-color;
-    text-decoration: underline solid mix($facebook-color, $page-color, 70%);
+    text-decoration: underline solid mix($facebook-color, $page-background, 70%);
   }
 }
 
@@ -92,11 +92,11 @@ a:hover,
 a:focus,
 a:active {
   color: $link-color;
-  text-decoration: underline solid mix($link-color, $page-color, 70%);
+  text-decoration: underline solid mix($link-color, $page-background, 70%);
 
   &.facebook {
     color: $link-color;
-    text-decoration: underline solid mix($link-color, $page-color, 70%);
+    text-decoration: underline solid mix($link-color, $page-background, 70%);
   }
 }
 
