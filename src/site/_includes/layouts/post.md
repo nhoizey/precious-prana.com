@@ -4,6 +4,6 @@ pageClass: posts
 templateEngineOverride: njk, md
 ---
 
-<h1>{{ title }}</h1>
+<h2>{{ title }}</h2>
 <p class="date">Événement du <time datetime="{{ date }}">{{ date | dateDisplay }}</time></p>
 {{ content | safe }}

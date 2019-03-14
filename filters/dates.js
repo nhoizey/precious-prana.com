@@ -7,27 +7,18 @@ module.exports = function(date, part) {
     return d.getUTCFullYear();
   }
   var month = [
-    "January",
-    "February",
-    "March",
-    "April",
-    "May",
-    "June",
-    "July",
-    "August",
-    "September",
-    "October",
-    "November",
-    "December"
+    "janvier",
+    "février",
+    "mars",
+    "avril",
+    "mai",
+    "juin",
+    "juillet",
+    "août",
+    "septembre",
+    "octobre",
+    "novembre",
+    "décembre"
   ];
-  var ordinal = {
-    1 : "st",
-    2 : "nd",
-    3 : "rd",
-    21 : "st",
-    22 : "nd",
-    23 : "rd",
-    31 : "st"
-  };
-  return month[d.getMonth()] + " " + d.getDate() + (ordinal[d.getDate()] || "th") + " " +d.getUTCFullYear();
+  return d.getDate() + " " + month[d.getMonth()] + " " + sd.getUTCFullYear();
 }
