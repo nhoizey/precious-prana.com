@@ -1,5 +1,5 @@
 {
-  "layout" : "layouts/event.md",
-  "tags" : "event",
+  "layout" : "layouts/evenement.md",
+  "tags" : "evenement",
   "templateEngineOverride": "njk,md"
 }
