@@ -2,9 +2,17 @@
 @import '_mixins';
 
 @font-face {
-  font-family: 'chewyregular';
-  src: url('/fonts/chewy-regular.woff2') format('woff2'),
-    url('/fonts/chewy-regular.woff') format('woff');
+  font-family: 'dosis';
+  src: url('/fonts/dosis-regular.woff2') format('woff2'),
+    url('/fonts/dosis-regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'roboto';
+  src: url('/fonts/roboto-regular.woff2') format('woff2'),
+    url('/fonts/roboto-regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
@@ -16,8 +24,8 @@ body {
   background-color: #fff;
   color: #222;
 
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font-display: optional;
+  font-family: roboto, sans-serif;
+  font-display: fallback;
   font-weight: 300;
   line-height: 1.8;
   font-size: calc(0.9rem + 1vw);
@@ -46,11 +54,14 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 600;
   margin-top: 2em;
   margin-bottom: 1em;
+
+  font-family: dosis, sans-serif;
+  font-display: fallback;
+  font-weight: 600;
+
   line-height: 1;
-  // font-family: 'chewyregular', sans-serif;
 }
 
 img {
