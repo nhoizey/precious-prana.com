@@ -1,6 +1,6 @@
 ---
 layout: layouts/base.njk
-pageClass: evenement
+pageClass: evenements
 templateEngineOverride: njk, md
 ---
 
