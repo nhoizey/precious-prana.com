@@ -70,7 +70,7 @@ img {
 }
 
 .logo {
-  margin: 1rem 0 3rem;
+  margin: 2rem 0 3rem;
   text-align: center;
 
   img {
@@ -130,8 +130,10 @@ a:active {
 footer {
   margin: 5em 0 0;
   padding: 1em 0;
-  background-color: #98BF55;
-  border-top: 2px solid #5F9A51;
+  background-color: $footer-background;
+  border-top: 2px solid $footer-border;
+  // background-color: #98BF55;
+  // border-top: 2px solid #5F9A51;
 
   .facebook-page {
     display: flex;

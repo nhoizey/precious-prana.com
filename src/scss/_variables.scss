@@ -3,8 +3,19 @@ $bp-narrow: '(min-width: 400px)';
 $bp-mid: '(min-width: 740px)';
 $bp-wide: '(min-width: 1200px)';
 
-// Colours
+// Brand colours
+$brand-green: rgb(72, 158, 71);
+$brand-red: rgb(238, 52, 73);
+$brand-orange: rgb(244, 118, 61);
+$brand-yellow: rgb(251, 182, 22);
+$brand-blue: rgb(39, 196, 158);
+$brand-purple: rgb(135, 68, 178);
+
+// Other colors
 $page-background: #fff;
+$footer-background: mix($brand-green, $page-background, 60%);
+$footer-border: darken($brand-green, 10%);
+
 $facebook-color: #3c5a99;
 
 $link-color: $facebook-color;
