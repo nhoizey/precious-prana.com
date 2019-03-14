@@ -13,7 +13,7 @@ Ne ratez pas notre prochain événement **jeudi 28 mars**&nbsp;: Journal&nbsp;Cr
 
 Plus de détails <a href="https://www.facebook.com/events/1101982766675294/" class="facebook">sur notre page Facebook</a>.
 
-Inscrivez-vous dès maintenant&nbsp;: <http://bit.ly/JournalCreatif-PreciousPrana>
+Inscrivez-vous dès maintenant&nbsp;:<br /><http://bit.ly/JournalCreatif-PreciousPrana>
 
-Pour plus de renseignements&nbsp;: <contact@precious-prana.com>
+Pour plus de renseignements&nbsp;:<br /><contact@precious-prana.com>
 
