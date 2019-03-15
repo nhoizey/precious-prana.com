@@ -21,9 +21,9 @@ $brand-purple-light: rgb(188, 145, 229);
 
 // Other colors
 $page-background: #fff;
-$footer-background: mix($brand-green, $page-background, 60%);
-$footer-border: darken($brand-green, 10%);
+$footer-background: $brand-green-light;
+$footer-border: $brand-green;
 
 $facebook-color: #3c5a99;
 
-$link-color: $facebook-color;
+$link-color: $brand-blue;

@@ -90,8 +90,8 @@ ol {
 
 a:link,
 a:visited {
-  color: $link-color;
-  text-decoration: underline solid mix($brand-purple, $page-background, 60%);
+  color: $brand-blue;
+  text-decoration: underline solid $brand-blue-light;
 
   &.facebook {
     color: $facebook-color;
@@ -102,11 +102,11 @@ a:visited {
 a:hover,
 a:focus,
 a:active {
-  color: $link-color;
-  text-decoration: underline solid $brand-purple;
+  color: $brand-blue;
+  text-decoration: underline solid $brand-blue;
 
   &.facebook {
-    color: $link-color;
+    color: $facebook-color;
     text-decoration: underline solid $facebook-color;
   }
 }
@@ -117,7 +117,7 @@ a:active {
   margin: 0 0 1em 1em;
 
   img {
-    border: 1px solid #ccc;
+    border: 2px solid #ccc;
   }
 
   figcaption {
@@ -131,9 +131,12 @@ footer {
   margin: 5em 0 0;
   padding: 1em 0;
   background-color: $footer-background;
+  background: linear-gradient(
+    335deg,
+    $brand-green 0%,
+    $brand-green-light 100%
+  );
   border-top: 2px solid $footer-border;
-  // background-color: #98BF55;
-  // border-top: 2px solid #5F9A51;
 
   .facebook-page {
     display: flex;
