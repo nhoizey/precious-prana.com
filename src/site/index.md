@@ -1,7 +1,10 @@
 ---
-title: Precious Prana
+title: Accueil
 subtitle: La communauté pour faire pétiller l’énergie vitale des mères actives
 layout: layouts/base.njk
+tags:
+  - navigation
+navorder: 1
 ---
 
 <figure class="poster">

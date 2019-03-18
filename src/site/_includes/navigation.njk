@@ -1,10 +1,9 @@
 <nav id="navigation">
   <div class="container">
     <ul>
-      <li><a href="/" class="accueil">Accueil</a></li>
-      <li><a href="/a-propos/" class="a-propos">À propos</a></li>
-      <li><a href="/evenements/" class="evenements">Événements</a></li>
-      <li><a href="/contact/" class="contact">Contact</a></li>
+      {%- for item in collections.navigation -%}
+        <li{% if page.url == item.url %} class="active"{% endif %}><a href="{{ item.url }}">{{ item.data.title }}</a></li>
+      {%- endfor -%}
     </ul>
   </div>
 </nav>

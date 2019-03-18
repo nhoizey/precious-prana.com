@@ -4,6 +4,12 @@ module.exports = function(config) {
   config.addFilter('timestamp', require('./filters/timestamp.js'));
   config.addFilter('squash', require('./filters/squash.js'));
 
+  config.addCollection("navigation", function(collection) {
+    return collection.getFilteredByTag("navigation").sort((a, b) => {
+      return a.data.navorder - b.data.navorder;
+    });
+  });
+
   return {
     dir: {
       input: 'src/site',
