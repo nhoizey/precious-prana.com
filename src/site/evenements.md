@@ -5,6 +5,9 @@ layout: layouts/base.njk
 
 <ul>
 {%- for evenement in collections.evenements -%}
-  <li><time datetime="{{ evenement.data.date }}">{{ evenement.data.date | dateDisplay }}</time> : <a href="{{ evenement.data.url }}">{{ evenement.data.title }}</a></li>
+  <dl>
+    <dt>{{ evenement.data.date | dateDisplay }}</dt>
+    <dd><a href="{{ evenement.data.url }}">{{ evenement.data.title }}</a></dd>
+  </dl>
 {%- endfor -%}
 </ul>
