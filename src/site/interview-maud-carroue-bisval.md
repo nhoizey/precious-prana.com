@@ -1,5 +1,6 @@
 ---
 title: Interview de Maud Carroué-Bisval
+eleventyExcludeFromCollections: true
 ---
 
 Interview de Maud Carroué-Bisval, intervenante Art Thérapie / Journal Créatif®
