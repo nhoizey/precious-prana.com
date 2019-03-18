@@ -6,6 +6,8 @@ tags:
 navorder: 3
 ---
 
+# Événements
+
 <ul>
 {%- for evenement in collections.evenements | reverse -%}
   <dl>
