@@ -226,6 +226,17 @@ blockquote {
   }
 }
 
+.note {
+  margin: 2em 0;
+  padding: .5em 1em;
+  color: #333;
+  background: linear-gradient(
+    335deg,
+    lighten($brand-green, 50) 0%,
+    lighten($brand-green-light, 50) 100%
+  );
+  border: 2px solid $brand-green;
+}
 
 footer {
   margin: 5em 0 0;
