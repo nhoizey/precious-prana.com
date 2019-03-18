@@ -13,7 +13,7 @@ layout: layouts/evenement.njk
       /images/2019-02-19-atelier-auto-massage-shiatsu-480.png 480w,
       /images/2019-02-19-atelier-auto-massage-shiatsu-640.png 640w,
       /images/2019-02-19-atelier-auto-massage-shiatsu-800.png 800w"
-    sizes="(min-width: 55rem) 15rem, 27vw"
+    sizes="(min-width: 66rem) 20rem, 30vw"
     alt="Atelier auto-massage shiatsu le 19 février 2019, par Precious Prana" />
   <figcaption>&#128269; <a href="/images/2019-02-19-atelier-auto-massage-shiatsu.png" target="_blank">zoomer</a></figcaption>
 </figure>

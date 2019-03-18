@@ -13,7 +13,7 @@ layout: layouts/evenement.njk
       /images/2019-03-28-atelier-journal-creatif-480.jpg 480w,
       /images/2019-03-28-atelier-journal-creatif-640.jpg 640w,
       /images/2019-03-28-atelier-journal-creatif-800.jpg 800w"
-    sizes="(min-width: 55rem) 15rem, 27vw"
+    sizes="(min-width: 66rem) 20rem, 30vw"
     alt="Atelier Journal Créatif le jeudi 28 mars 2019, par Precious Prana" />
   <figcaption>&#128269; <a href="/images/2019-03-28-atelier-journal-creatif.jpg" target="_blank">zoomer</a></figcaption>
 </figure>
