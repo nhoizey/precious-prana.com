@@ -38,6 +38,42 @@ body {
   min-height: 100vh;
 }
 
+#navigation {
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+
+    background: linear-gradient(
+      335deg,
+      $brand-green 0%,
+      $brand-green-light 100%
+    );
+  }
+
+  li {
+    flex: 1 0 auto;
+    white-space: nowrap;
+    margin: 0;
+    padding: 0;
+  }
+
+  a:link, a:visited {
+    display: inline-block;
+    width: 100%;
+    padding: .1em .5em;
+    text-decoration: none;
+    // background-color: $brand-green-light;
+    color: #fff;
+  }
+
+  a:hover, a:active {
+    text-decoration: underline #fff;
+  }
+}
+
 main {
   flex: 1;
 }

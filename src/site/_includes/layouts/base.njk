@@ -52,8 +52,11 @@
           alt="Precious Prana" /></a></h1>
       </div>
     </header>
-    <main class="container">
-      {{ content | safe }}
+    {% include "navigation.njk" %}
+    <main>
+      <div class="container">
+        {{ content | safe }}
+      </div>
     </main>
     {% include "footer.njk" %}
   </body>
