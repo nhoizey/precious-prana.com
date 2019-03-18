@@ -1,6 +1,8 @@
 ---
 title: Atelier Journal Créatif
 date: 2019-03-28
+tags: evenements
+layout: layouts/evenement.njk
 ---
 
 <figure class="poster">
