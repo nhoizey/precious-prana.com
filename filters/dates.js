@@ -20,5 +20,5 @@ module.exports = function(date, part) {
     "novembre",
     "décembre"
   ];
-  return d.getDate() + " " + month[d.getMonth()] + " " + sd.getUTCFullYear();
+  return d.getDate() + " " + month[d.getMonth()] + " " + d.getUTCFullYear();
 }
