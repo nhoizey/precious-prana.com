@@ -12,7 +12,7 @@ navorder: 1
   <figcaption>&#128269; <a href="/images/2019-03-28-atelier-journal-creatif.jpg" target="_blank">zoomer</a></figcaption>
 </figure>
 
-Ne ratez pas notre prochain événement **jeudi 28 mars**&nbsp;: Journal&nbsp;Créatif.
+Ne ratez pas notre [prochain événement **jeudi 28 mars**&nbsp;: Journal&nbsp;Créatif](/evenements/2019/03/28/atelier-journal-creatif/).
 
 Plus de détails <a href="https://www.facebook.com/events/1101982766675294/" class="facebook">sur notre page Facebook</a>.
 

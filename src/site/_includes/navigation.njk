@@ -2,7 +2,7 @@
   <div class="container">
     <ul>
       {%- for item in collections.navigation -%}
-        <li{% if page.url == item.url %} class="active"{% endif %}><a href="{{ item.url }}">{{ item.data.title }}</a></li>
+        <li{% if item.url != '/' %}{% if item.url in page.url %} class="active"{% endif %}{% endif %}><a href="{{ item.url }}">{{ item.data.title }}</a></li>
       {%- endfor -%}
     </ul>
   </div>

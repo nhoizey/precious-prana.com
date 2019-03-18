@@ -167,10 +167,8 @@ a:active {
   }
 }
 
-.poster {
-  width: 33%;
-  float: right;
-  margin: 0 0 1em 1em;
+figure {
+  margin: 1em 0;
 
   img {
     border: 2px solid #ccc;
@@ -182,6 +180,52 @@ a:active {
     font-size: .9em;
   }
 }
+
+.poster {
+  width: 33%;
+  float: right;
+  margin: 0 0 1em 1em;
+}
+
+blockquote {
+  margin: 2em 0;
+  position: relative;
+  overflow: hidden;
+
+  padding: 1vw 5vw;
+
+  color: #333;
+  background: linear-gradient(
+    335deg,
+    lighten($brand-green, 40) 0%,
+    lighten($brand-green-light, 40) 100%
+  );
+  border-left: 1vw solid $brand-green;
+
+  font-style: italic;
+
+  &::before {
+    position: absolute;
+    left: 0vw;
+    top: 0;
+
+    content: '\201C';
+
+    color: $brand-green;
+
+    font-size: 10vw;
+    line-height: 1;
+  }
+
+  p:first-child {
+    margin-top: 1vw;
+  }
+
+  p:last-child {
+    margin-bottom: 1vw;
+  }
+}
+
 
 footer {
   margin: 5em 0 0;
