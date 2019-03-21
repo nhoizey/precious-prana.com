@@ -1,21 +1,6 @@
 @import '_variables';
 @import '_mixins';
-
-@font-face {
-  font-family: 'dosis';
-  src: url('/fonts/dosis-regular.woff2') format('woff2'),
-    url('/fonts/dosis-regular.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'roboto';
-  src: url('/fonts/roboto-regular.woff2') format('woff2'),
-    url('/fonts/roboto-regular.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
+@import '_fonts';
 
 // Box sizing:
 // http://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
