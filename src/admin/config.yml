@@ -21,15 +21,4 @@ collections:
       - { label: 'Tags', name: 'tags', widget: 'list', defaults: ['evenements'] }
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'layouts/evenement.njk' }
       - { label: 'Body', name: 'body', widget: 'markdown', buttons: ['bold', 'italic', 'link', 'heading-two', 'quote', 'bulleted-list', 'numbered-list'] }
-      - label: 'Featured Image'
-        name: 'thumbnail'
-        required: false
-        widget: 'image'
-        media_library:
-          config:
-            multiple: false
 
-# title: Atelier Journal Créatif
-# date: 2019-03-28
-# tags: evenements
-# layout: layouts/evenement.njk
