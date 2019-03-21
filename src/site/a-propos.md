@@ -15,7 +15,7 @@ Plus concrètement, Precious Prana est une communauté de bien-être qui permet 
 ## La démarche
 
 Cette démarche s’appuie sur trois axes :
-1. Des événements dédiés
+1. Des [événements](/evenements/) dédiés
 2. Un site internet dédié
 3. Un réseau fermé pour partager et s’encourager en dehors des événements
  
