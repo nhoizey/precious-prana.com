@@ -50,6 +50,10 @@ body {
   min-height: 100vh;
 }
 
+strong {
+  font-weight: bold;
+}
+
 #navigation {
   background: linear-gradient(
     335deg,
@@ -118,6 +122,16 @@ h6 {
   color: $brand-green;
 
   line-height: 1.2;
+
+  .direct-link:link, .direct-link:visited {
+    opacity: 0;
+  }
+
+  &:hover {
+    .direct-link:link, .direct-link:visited {
+      opacity: 1;
+    }
+  }
 }
 
 img {

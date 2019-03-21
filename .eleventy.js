@@ -10,6 +10,32 @@ module.exports = function(config) {
     });
   });
 
+  /* Markdown */
+  let markdownIt = require('markdown-it')
+  let markdownItOptions = {
+    html: true,
+    breaks: true,
+    linkify: true,
+  }
+  let markdownItAnchor = require('markdown-it-anchor')
+  let slugify = require('@sindresorhus/slugify')
+  let markdownItAnchorOptions = {
+    permalink: true,
+    permalinkClass: 'direct-link',
+    permalinkSymbol: '#',
+    slugify: function(s) {
+			return slugify(s);
+    },
+  }
+  let markdownItContainer = require('markdown-it-container')
+  config.setLibrary(
+    'md',
+    markdownIt(markdownItOptions)
+      .use(markdownItAnchor, markdownItAnchorOptions)
+      .use(markdownItContainer, 'warning')
+      .use(markdownItContainer, 'info')
+  )
+  
   return {
     dir: {
       input: 'src/site',
