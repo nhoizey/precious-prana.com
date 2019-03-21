@@ -23,6 +23,7 @@ module.exports = function(config) {
     permalink: true,
     permalinkClass: 'direct-link',
     permalinkSymbol: '#',
+    level: [2,3,4],
     slugify: function(s) {
 			return slugify(s);
     },
