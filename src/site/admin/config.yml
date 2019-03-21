@@ -1,0 +1,35 @@
+backend:
+  name: git-gateway
+  branch: master
+
+publish_mode: editorial_workflow
+
+media_folder: "src/images/"
+public_folder: "/images/"
+
+collections:
+  - name: 'evenements'
+    label: 'Événements'
+    folder: 'site/evenements'
+    extension: 'md'
+    preview_path: "evenements/{{year}}/{{month}}/{{day}}/{{slug}}/"
+    create: true
+    slug: '{{year}}/{{month}}/{{day}}/{{slug}}/index.md' # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Date', name: 'date', widget: 'datetime', format: 'YYYY-MM-DD' }
+      - { label: 'Tags', name: 'tags', widget: 'list', defaults: ['evenements'] }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'layouts/evenement.njk' }
+      - { label: 'Body', name: 'body', widget: 'markdown', buttons: ['bold', 'italic', 'link', 'heading-two', 'quote', 'bulleted-list', 'numbered-list'] }
+      - label: 'Featured Image'
+        name: 'thumbnail'
+        required: false
+        widget: 'image'
+        media_library:
+          config:
+            multiple: false
+
+# title: Atelier Journal Créatif
+# date: 2019-03-28
+# tags: evenements
+# layout: layouts/evenement.njk
