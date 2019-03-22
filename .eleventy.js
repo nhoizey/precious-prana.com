@@ -39,6 +39,22 @@ module.exports = function(eleventyConfig) {
     });
   });
 
+  eleventyConfig.addCollection('evenements_futurs', function(collection) {
+    return collection.getFilteredByTag('evenements').filter((evenement) => {
+      return DateTime
+        .fromJSDate(evenement.date, {zone: 'Europe/Paris'})
+        .diffNow() >= 0;
+    });
+  });
+
+  eleventyConfig.addCollection('evenements_passes', function(collection) {
+    return collection.getFilteredByTag('evenements').filter((evenement) => {
+      return DateTime
+        .fromJSDate(evenement.date, {zone: 'Europe/Paris'})
+        .diffNow() < 0;
+    });
+  });
+
   // ------------------------------------------------------------------------
   // Markdown
   // ------------------------------------------------------------------------
