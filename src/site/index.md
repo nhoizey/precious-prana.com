@@ -7,16 +7,13 @@ tags:
 navorder: 1
 ---
 
-<figure class="poster">
-  <img src="/images/2019-03-28-atelier-journal-creatif-360.jpg" srcset="/images/2019-03-28-atelier-journal-creatif-360.jpg 360w, /images/2019-03-28-atelier-journal-creatif-480.jpg 480w, /images/2019-03-28-atelier-journal-creatif-640.jpg 640w, /images/2019-03-28-atelier-journal-creatif-800.jpg 800w" sizes="(min-width: 66rem) 20rem, 30vw" alt="Atelier Journal Créatif le jeudi 28 mars 2019" />
-  <figcaption>&#128269; <a href="/images/2019-03-28-atelier-journal-creatif.jpg" target="_blank">zoomer</a></figcaption>
-</figure>
+{% poster src="/images/2019-03-28-atelier-journal-creatif.jpg", alt="Atelier Journal Créatif le jeudi 28 mars 2019, par Precious Prana", zoom="true" %}
 
 Ne ratez pas notre [prochain événement **jeudi 28 mars**&nbsp;: Journal&nbsp;Créatif](/evenements/2019/03/28/atelier-journal-creatif/).
 
 Retrouvez [l'interview de Maud Carroué-Bisval](/evenements/2019/03/28/interview-de-maud-carroue-bisval/), qui animera cet atelier.
 
-Plus de détails <a href="https://www.facebook.com/events/1101982766675294/" class="facebook">sur notre page Facebook</a>.
+Plus de détails sur [notre page Facebook](https://www.facebook.com/events/1101982766675294/).
 
 Inscrivez-vous dès maintenant&nbsp;:<br /><http://bit.ly/JournalCreatif-PreciousPrana>
 

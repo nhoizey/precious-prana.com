@@ -2,18 +2,7 @@
 title: Atelier Journal Créatif
 ---
 
-<figure class="poster">
-  <img
-    src="/images/2019-03-28-atelier-journal-creatif-360.jpg"
-    srcset="
-      /images/2019-03-28-atelier-journal-creatif-360.jpg 360w,
-      /images/2019-03-28-atelier-journal-creatif-480.jpg 480w,
-      /images/2019-03-28-atelier-journal-creatif-640.jpg 640w,
-      /images/2019-03-28-atelier-journal-creatif-800.jpg 800w"
-    sizes="(min-width: 66rem) 20rem, 30vw"
-    alt="Atelier Journal Créatif le jeudi 28 mars 2019, par Precious Prana" />
-  <figcaption>&#128269; <a href="/images/2019-03-28-atelier-journal-creatif.jpg" target="_blank">zoomer</a></figcaption>
-</figure>
+{% poster src="/images/2019-03-28-atelier-journal-creatif.jpg", alt="Atelier Journal Créatif le jeudi 28 mars 2019, par Precious Prana", zoom="true" %}
 
 Le printemps est synonyme de création, connexion et renouveau. La créativité aide à détourner notre attention de nos tracas et nous redonne de l’énergie. C’est donc le moment parfait pour un atelier Journal Créatif®.
 
@@ -31,6 +20,6 @@ Vous vous demandez si c’est bien pour vous ? Sachez que le Journal Créatif® 
 
 Je l’ai testé. Cela m’a remis les idées claires et c’était un moment où je m’occupais de moi et de mes besoins, de manière spontanée et tout naturellement. Vous l’avez compris, le Journal Créatif® n’a rien d’enfantin et c’est un outil très puissant.
 
-Voyez plus de détails <a href="https://www.facebook.com/events/1101982766675294/" class="facebook">sur notre page Facebook</a>.
+Voyez plus de détails [sur notre page Facebook](https://www.facebook.com/events/1101982766675294/).
 
 Inscrivez-vous dès maintenant&nbsp;: <http://bit.ly/JournalCreatif-PreciousPrana>

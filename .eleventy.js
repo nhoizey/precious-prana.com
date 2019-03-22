@@ -30,6 +30,47 @@ module.exports = function(eleventyConfig) {
   });
 
   // ------------------------------------------------------------------------
+  // Shortcodes
+  // ------------------------------------------------------------------------
+
+  function genericImage(image, cssClass, sizes) {
+    let imageName = image.src.replace(/\.[^.]+$/, '');
+    let imageExtension = image.src.replace(/^.*\.([^.]+)$/, '$1');
+    return `<figure class="${cssClass}">
+<img
+src="${imageName}-360.${imageExtension}"
+srcset="
+${imageName}-360.${imageExtension} 360w,
+${imageName}-480.${imageExtension} 480w,
+${imageName}-640.${imageExtension} 640w,
+${imageName}-800.${imageExtension} 800w,
+${imageName}-1024.${imageExtension} 1024w"
+sizes="${sizes}"
+${image.alt ? `alt="${image.alt}"` : ''} />
+<figcaption>
+${image.caption ? `<p>${image.caption}</p>`: ''}
+${image.zoom ? `<p class="zoom">&#128269;&nbsp;<a href="${image.src}" target="_blank">zoomer</a></p>`: ''}
+</figcaption>
+</figure>`;
+  }
+
+  eleventyConfig.addNunjucksShortcode('image', function(image) {
+    return genericImage(image, 'fullwidth', '(min-width: 66rem) 60rem, 90vw');
+  });
+
+  eleventyConfig.addNunjucksShortcode('image_half', function(image) {
+    return genericImage(image, 'halfwidth', '(min-width: 66rem) 30rem, (min-width: 40rem) 45vw, 90vw');
+  });
+
+  eleventyConfig.addNunjucksShortcode('poster', function(image) {
+    return genericImage(image, 'poster', '(min-width: 66rem) 20rem, 30vw');
+  });
+
+  eleventyConfig.addPairedShortcode('note', function(content) {
+    return `<div class="note">${content}</div>`;
+  });
+
+  // ------------------------------------------------------------------------
   // Collections
   // ------------------------------------------------------------------------
 

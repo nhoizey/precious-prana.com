@@ -7,18 +7,7 @@ layout: layouts/page.njk
 
 [Jeudi 28 mars aura lieu un atelier sur le thème du Journal Créatif](/evenements/2019/03/28/atelier-journal-creatif/). Cet atelier sera animé par Maud, qui a eu la gentillesse de répondre à quelques questions pour permettre de faire connaissance et expliquer ce que c’est l’Art Thérapie et le Journal Créatif, et en quoi cela nous fera beaucoup de bien.
 
-<figure class="halfsize">
-  <img
-    src="/images/2019-03-28-maud-carroue-bisval-360.jpg"
-    srcset="
-      /images/2019-03-28-maud-carroue-bisval-360.jpg 360w,
-      /images/2019-03-28-maud-carroue-bisval-480.jpg 480w,
-      /images/2019-03-28-maud-carroue-bisval-640.jpg 640w,
-      /images/2019-03-28-maud-carroue-bisval-800.jpg 800w"
-    sizes="(min-width: 66rem) 30rem, (min-width: 40rem) 45vw, 90vw"
-    alt="Maud Carroué-Bisval, intervenante Art Thérapie / Journal Créatif®" />
-  <figcaption>Maud Carroué-Bisval</figcaption>
-</figure>
+{% image_half src="/images/2019-03-28-maud-carroue-bisval.jpg", alt="Maud Carroué-Bisval, intervenante Art Thérapie / Journal Créatif®", caption="Maud Carroué-Bisval" %}
 
 ## Qu'est-ce que l'Art-Thérapie et pourquoi ce nom ? 
 
