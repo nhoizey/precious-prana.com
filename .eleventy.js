@@ -122,8 +122,8 @@ ${image.zoom ? `<p class="zoom">&#128269;&nbsp;<a href="${image.src}" target="_b
     'md',
     markdownIt(markdownItOptions)
       .use(markdownItAnchor, markdownItAnchorOptions)
-      .use(markdownItContainer, 'warning')
       .use(markdownItContainer, 'info')
+      .use(markdownItContainer, 'note')
   )
   
   return {
