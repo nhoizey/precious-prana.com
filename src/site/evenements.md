@@ -8,11 +8,9 @@ navorder: 3
 
 # Événements
 
-<ul>
-{%- for evenement in collections.evenements | reverse -%}
-  <dl>
+<dl>
+  {%- for evenement in collections.evenements | reverse -%}
     <dt>{{ evenement.date | displayDate }}</dt>
     <dd><a href="{{ evenement.url }}">{{ evenement.data.title }}</a></dd>
-  </dl>
-{%- endfor -%}
-</ul>
+  {%- endfor -%}
+</dl>

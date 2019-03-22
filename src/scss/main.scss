@@ -138,11 +138,6 @@ p {
   margin: 1em 0;
 }
 
-ul,
-ol {
-  padding-left: 1em;
-}
-
 a:link,
 a:visited {
   color: $brand-blue;
@@ -164,6 +159,10 @@ a:active {
     color: $facebook-color;
     text-decoration: underline solid $facebook-color;
   }
+}
+
+dd {
+  margin-bottom: 1em;
 }
 
 figure {
