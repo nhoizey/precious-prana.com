@@ -1,8 +1,5 @@
 ---
 title: Atelier auto-massage shiatsu
-date: 2019-02-19
-tags: evenements
-layout: layouts/evenement.njk
 ---
 
 <figure class="poster">

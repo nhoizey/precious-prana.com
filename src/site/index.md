@@ -14,7 +14,7 @@ navorder: 1
 
 Ne ratez pas notre [prochain événement **jeudi 28 mars**&nbsp;: Journal&nbsp;Créatif](/evenements/2019/03/28/atelier-journal-creatif/).
 
-Retrouvez [l'interview de Maud Carroué-Bisval](/evenements/2019/03/28/atelier-journal-creatif/interview-maud-carroue-bisval/), qui animera cet atelier.
+Retrouvez [l'interview de Maud Carroué-Bisval](/evenements/2019/03/28/interview-de-maud-carroue-bisval/), qui animera cet atelier.
 
 Plus de détails <a href="https://www.facebook.com/events/1101982766675294/" class="facebook">sur notre page Facebook</a>.
 

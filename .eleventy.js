@@ -1,16 +1,33 @@
-module.exports = function(config) {
-  // Add a date formatter filter to Nunjucks
-  config.addFilter('dateDisplay', require('./filters/dates.js'));
-  config.addFilter('timestamp', require('./filters/timestamp.js'));
-  config.addFilter('squash', require('./filters/squash.js'));
+const { DateTime } = require('luxon');
 
-  config.addCollection("navigation", function(collection) {
-    return collection.getFilteredByTag("navigation").sort((a, b) => {
+module.exports = function(eleventyConfig) {
+
+  // ------------------------------------------------------------------------
+  // Filters
+  // ------------------------------------------------------------------------
+
+  eleventyConfig.addFilter('permalinkDate', function(date) {
+    return DateTime.fromJSDate(date, {zone: 'Europe/Paris'}).toFormat('yyyy/LL/dd');
+  });
+
+  eleventyConfig.addFilter('displayDate', function(date) {
+    return DateTime.fromJSDate(date, {zone: 'Europe/Paris'}).setLocale('fr').toLocaleString(DateTime.DATE_FULL);
+  })
+
+  // ------------------------------------------------------------------------
+  // Collections
+  // ------------------------------------------------------------------------
+
+  eleventyConfig.addCollection('navigation', function(collection) {
+    return collection.getFilteredByTag('navigation').sort((a, b) => {
       return a.data.navorder - b.data.navorder;
     });
   });
 
-  /* Markdown */
+  // ------------------------------------------------------------------------
+  // Markdown
+  // ------------------------------------------------------------------------
+
   let markdownIt = require('markdown-it')
   let markdownItOptions = {
     html: true,
@@ -29,7 +46,7 @@ module.exports = function(config) {
     },
   }
   let markdownItContainer = require('markdown-it-container')
-  config.setLibrary(
+  eleventyConfig.setLibrary(
     'md',
     markdownIt(markdownItOptions)
       .use(markdownItAnchor, markdownItAnchorOptions)

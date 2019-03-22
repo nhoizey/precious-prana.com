@@ -17,8 +17,6 @@ collections:
     slug: '{{year}}/{{month}}/{{day}}/{{slug}}/index.md' # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Date', name: 'date', widget: 'datetime', format: 'YYYY-MM-DD' }
-      - { label: 'Tags', name: 'tags', widget: 'list', defaults: ['evenements'] }
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'layouts/evenement.njk' }
+      - { label: 'Layout', name: 'layout', widget: 'string', default: 'layouts/evenement.njk' }
       - { label: 'Body', name: 'body', widget: 'markdown', buttons: ['bold', 'italic', 'link', 'heading-two', 'quote', 'bulleted-list', 'numbered-list'] }
 

@@ -5,6 +5,6 @@ pageClass: evenements
 templateEngineOverride: njk, md
 ---
 
-<h2>{{ title }}</h2>
-<p class="date">Événement du <time datetime="{{ date }}">{{ date | dateDisplay }}</time></p>
+<h1>{{ title }}</h1>
+<p class="date">Événement du {{ page.date | displayDate }}</p>
 {{ content | safe }}

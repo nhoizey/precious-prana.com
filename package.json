@@ -1,6 +1,6 @@
 {
   "name": "precious-prana",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "author": "Jacqueline Oud",
   "license": "MIT",
@@ -33,6 +33,7 @@
     "markdown-it": "^8.4.1",
     "markdown-it-anchor": "^5.0.2",
     "markdown-it-container": "^2.0.0",
-    "@sindresorhus/slugify": "^0.9.0"
+    "@sindresorhus/slugify": "^0.9.0",
+    "luxon": "^1.12.0"
   }
 }
