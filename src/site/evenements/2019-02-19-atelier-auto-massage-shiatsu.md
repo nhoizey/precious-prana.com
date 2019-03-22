@@ -45,8 +45,6 @@ Le moodboard :
   <figcaption>&#128269; <a href="/images/2019-02-19-moodboard-shiatsu.jpg" target="_blank">zoomer</a></figcaption>
 </figure>
 
-
-
 Quelques retours sur ce que les participantes ont retenues de l’atelier :
 - « Prendre un petit temps quotidiennement »
 - « Se relâcher et s'occuper de soi »
