@@ -176,6 +176,14 @@ figure {
     text-align: center;
     line-height: 1;
     font-size: .9em;
+
+    p {
+      margin: .2em 0;
+    }
+
+    .zoom {
+      font-size: .9em;
+    }
   }
 }
 
@@ -185,7 +193,7 @@ figure {
   margin: 0 0 1em 1em;
 }
 
-.halfsize {
+.halfwidth {
   width: 100%;
   margin: 1em 0;
 
@@ -235,9 +243,17 @@ blockquote {
   }
 }
 
+// ------------------------------------------------------------------------
+// Mardown-it containers
+//
+// ::: note
+// content
+// :::
+// ------------------------------------------------------------------------
+
 .note {
   margin: 2em 0;
-  padding: .5em 1em;
+  padding: 0 1em;
   color: #333;
   background: linear-gradient(
     335deg,
@@ -246,6 +262,10 @@ blockquote {
   );
   border: 2px solid $brand-green;
 }
+
+// ------------------------------------------------------------------------
+// Footer
+// ------------------------------------------------------------------------
 
 footer {
   margin: 5em 0 0;
