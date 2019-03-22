@@ -10,7 +10,7 @@ public_folder: "/images/"
 collections:
   - name: 'evenements'
     label: 'Événements'
-    folder: 'site/evenements'
+    folder: 'src/site/evenements'
     extension: 'md'
     preview_path: "evenements/{{year}}/{{month}}/{{day}}/{{slug}}/"
     create: true
