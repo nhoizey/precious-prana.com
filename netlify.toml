@@ -4,6 +4,6 @@
   NODE_ENV = "8.9.0"
 
 [[redirects]]
-  from = "/evenements/2019/03/28/atelier-journal-creatif/interview-de-maud-carroue-bisval/"
+  from = "/evenements/2019/03/28/atelier-journal-creatif/interview-maud-carroue-bisval/"
   to = "/evenements/2019/03/28/interview-de-maud-carroue-bisval/"
   status = 301
