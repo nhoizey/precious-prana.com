@@ -38,7 +38,7 @@ Conséquences :
  
 2016 est l’année charnière pour moi, ma grand-mère meurt et m’ouvre alors à de nouvelles possibilités et je découvre au détour d’une conversation avec ma belle-sœur le Journal créatif®. Je tombe tous de suite sous le charme de cette méthode.
  
-## quelles formations as-tu suivi pour te former ?
+## Quelles formations as-tu suivi pour te former ?
 
 J’ai donc entamé deux mois plus tard la formation d’animatrice en journal créatif de l’école Jet d’encre en Belgique
 Le Journal créatif est une méthode créée par Anne-Marie Jobin.
@@ -50,7 +50,7 @@ C’est un journal intime non conventionnel ou l’on utilise 3 langages qui son
 
 Cette méthode s’appuie sur des notions de psychologie, de créativité et d’art-thérapie. C’est un formidable outil d’exploration de soi, accessible à tous.
  
-## A qui s'adresse ce type d'atelier créatif ? 
+## À qui s'adresse ce type d'atelier créatif ? 
  
 Moi je travaille avec :
  
@@ -60,7 +60,7 @@ Ta deuxième vie commence lorsque tu sais que tu n’en as qu’une !
 
 Alors, repars à sa conquête pour retrouver joie et équilibre
  
-## Quels sont les bienfaits du Journal créatif ? 
+## Quels sont les bienfaits du Journal Créatif ? 
  
 Le journal créatif® est un formidable accélérateur de prise de conscience :
 - La création t’aide à être dans « l’ici et maintenant », tes créations seront le miroir de ce que TU vis et ressens. Cela T’aidera dans ton cheminement intérieur.
