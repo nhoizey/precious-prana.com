@@ -15,9 +15,19 @@ module.exports = function(eleventyConfig) {
       .fromJSDate(date, {zone: 'Europe/Paris'})
       .setLocale('fr')
       .toLocaleString(DateTime.DATE_FULL)
+      .replace(/M01/, 'janvier')
+      .replace(/M02/, 'février')
       .replace(/M03/, 'mars')
-      .replace(/M02/, 'février');
-  })
+      .replace(/M04/, 'avril')
+      .replace(/M05/, 'mai')
+      .replace(/M06/, 'juin')
+      .replace(/M07/, 'juillet')
+      .replace(/M08/, 'août')
+      .replace(/M09/, 'septembre')
+      .replace(/M10/, 'octobre')
+      .replace(/M11/, 'novembre')
+      .replace(/M12/, 'décembre');
+  });
 
   // ------------------------------------------------------------------------
   // Collections
