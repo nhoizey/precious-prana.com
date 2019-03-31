@@ -6,9 +6,12 @@
 
     {% comment %} Google Analytics {% endcomment %}
     <script>
-        window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
-        ga('create', 'UA-127782-6', 'auto'); ga('set','transport','beacon'); ga('send', 'pageview')
-      </script>
+      window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
+      ga('create', 'UA-127782-6', 'auto');
+      ga('set','transport','beacon');
+      ga('set', 'anonymizeIp', true);
+      ga('send', 'pageview')
+    </script>
     <script src="https://www.google-analytics.com/analytics.js" async defer></script>
 
     <link rel="stylesheet" href="/css/main.css" />
