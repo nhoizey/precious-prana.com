@@ -39,29 +39,9 @@
     <header>
       <div class="container">
         {%- if title != 'Accueil' %}
-          <p class="logo"><a href="/"><img
-            src="/images/logo-precious-prana-360.png"
-            srcset="
-              /images/logo-precious-prana-360.png 360w,
-              /images/logo-precious-prana-480.png 480w,
-              /images/logo-precious-prana-640.png 640w,
-              /images/logo-precious-prana-800.png 800w"
-            sizes="(min-width: 40rem) 20rem, 50vw"
-            width="320"
-            height="190.5"
-            alt="Precious Prana" /></a></p>
+          <p class="logo"><a href="/">{% include "logo.njk" %}</a></p>
         {%- else -%}
-          <h1 class="logo"><a href="/"><img
-            src="/images/logo-precious-prana-360.png"
-            srcset="
-              /images/logo-precious-prana-360.png 360w,
-              /images/logo-precious-prana-480.png 480w,
-              /images/logo-precious-prana-640.png 640w,
-              /images/logo-precious-prana-800.png 800w"
-            sizes="(min-width: 40rem) 20rem, 50vw"
-            width="320"
-            height="190.5"
-            alt="Precious Prana" /></a></h1>
+          <h1 class="logo"><a href="/">{% include "logo.njk" %}</a></h1>
         {% endif %}
       </div>
     </header>
