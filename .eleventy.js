@@ -27,6 +27,7 @@ module.exports = function(eleventyConfig) {
       .replace(/M10/, 'octobre')
       .replace(/M11/, 'novembre')
       .replace(/M12/, 'décembre');
+      .replace(/([0-9]{4}) (M[0-9]{2}) ([0-9]{2})/, "$3 $2 $1")
   });
 
   // ------------------------------------------------------------------------
