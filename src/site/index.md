@@ -7,10 +7,12 @@ tags:
 navorder: 1
 ---
 
-{% poster src="/images/2019-03-28-moodboard-atelier-journal-creatif.jpg", alt="Moodboard de l'atelier Journal Créatif du jeudi 28 mars 2019, par Precious Prana", zoom="true" %}
+{% poster src="/images/2019-05-21-atelier-aromatherapie.jpg", alt="Atelier Aromathérapie du mardi 21 mai 2019, par Precious Prana", zoom="true" %}
 
-Découvrez notre dernier événement qui a eu lieu le 28 mars&nbsp;: [Journal&nbsp;Créatif](/evenements/2019/03/28/atelier-journal-creatif/).
+Ne ratez pas notre prochain événement **mardi 21 mai 2019**&nbsp;: [Atelier&nbsp;Aromathérapie](/evenements/2019/05/21/atelier-aromatherapie/).
 
-Lisez [l'interview de Maud Carroué-Bisval](/evenements/2019/03/28/interview-de-maud-carroue-bisval/), qui a animé cet atelier.
+Plus de détails <a href="https://www.facebook.com/events/431042864359989/" class="facebook">sur notre page Facebook</a>.
 
-Pour plus de renseignements&nbsp;:<br /><contact@precious-prana.com>
+Inscrivez-vous dès maintenant&nbsp;: <https://bit.ly/aromatherapie-preciousprana>
+
+Pour plus de renseignements, [contactez-nous](/contact/)
