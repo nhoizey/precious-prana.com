@@ -1,6 +1,6 @@
-@import '_variables';
-@import '_mixins';
-@import '_fonts';
+@import "_variables";
+@import "_mixins";
+@import "_fonts";
 
 // Box sizing:
 // http://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
@@ -40,13 +40,9 @@ strong {
 }
 
 #navigation {
-  background: linear-gradient(
-    335deg,
-    $brand-green 0%,
-    $brand-green-light 100%
-  );
+  background: linear-gradient(335deg, $brand-green 0%, $brand-green-light 100%);
 
-  font-size: .9em;
+  font-size: 0.9em;
 
   ul {
     margin: 0;
@@ -64,20 +60,23 @@ strong {
     text-align: center;
   }
 
-  a:link, a:visited {
+  a:link,
+  a:visited {
     display: inline-block;
     width: 100%;
-    padding: .1em .3em;
+    padding: 0.1em 0.3em;
     text-decoration: none;
     color: #fff;
   }
 
-  .active a:link, .active a:visited {
+  .active a:link,
+  .active a:visited {
     text-decoration: underline;
     font-weight: bold;
   }
 
-  a:hover, a:active {
+  a:hover,
+  a:active {
     text-decoration: underline #fff;
   }
 }
@@ -108,12 +107,14 @@ h6 {
 
   line-height: 1.2;
 
-  .direct-link:link, .direct-link:visited {
+  .direct-link:link,
+  .direct-link:visited {
     opacity: 0;
   }
 
   &:hover {
-    .direct-link:link, .direct-link:visited {
+    .direct-link:link,
+    .direct-link:visited {
       opacity: 1;
     }
   }
@@ -136,6 +137,10 @@ img {
 
 p {
   margin: 1em 0;
+
+  &.date {
+    color: $brand-green;
+  }
 }
 
 a:link,
@@ -179,14 +184,14 @@ figure {
   figcaption {
     text-align: center;
     line-height: 1;
-    font-size: .9em;
+    font-size: 0.9em;
 
     p {
-      margin: .2em 0;
+      margin: 0.2em 0;
     }
 
     .zoom {
-      font-size: .9em;
+      font-size: 0.9em;
     }
   }
 }
@@ -230,7 +235,7 @@ blockquote {
     left: 0vw;
     top: 0;
 
-    content: '\201C';
+    content: "\201C";
 
     color: $brand-green;
 
@@ -275,11 +280,7 @@ footer {
   margin: 5em 0 0;
   padding: 1em 0;
   background-color: $footer-background;
-  background: linear-gradient(
-    335deg,
-    $brand-green 0%,
-    $brand-green-light 100%
-  );
+  background: linear-gradient(335deg, $brand-green 0%, $brand-green-light 100%);
   border-top: 2px solid $footer-border;
 
   .facebook-page {
