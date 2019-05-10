@@ -6,7 +6,7 @@ title: Atelier Aromathérapie
 
 Envie de savoir utiliser les huiles essentielles pour le relaxation, la gestion du stress, les rhumes et allergies et autres applications bien pratiques ?
 
-Venez à l'atelier Aromathérapie de Precious Prana avec Marie Duhammel Naturopathe, naturopathe formée à ISUPNAT. 
+Venez à l'atelier Aromathérapie de Precious Prana avec Marie Duhammel Naturopathe, naturopathe formée à ISUPNAT.
 
 ## Programme de 2 heures
 
@@ -17,10 +17,8 @@ Venez à l'atelier Aromathérapie de Precious Prana avec Marie Duhammel Naturopa
 ## Bonus
 
 - vous partez avec un mélange préparé
-- autres produits et astuces, au delà des huiles essentielles  
+- autres produits et astuces, au delà des huiles essentielles
 - échanges avec Marie pour vos questions spécifiques
 - buffet dînatoire et moments de partage inclus
-
-Voyez plus de détails [sur notre page Facebook](https://www.facebook.com/events/431042864359989/).
 
 Inscrivez-vous dès maintenant&nbsp;: <https://bit.ly/aromatherapie-preciousprana>
