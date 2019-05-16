@@ -8,6 +8,10 @@ Envie de savoir utiliser les huiles essentielles pour le relaxation, la gestion 
 
 Venez à l'atelier Aromathérapie de Precious Prana avec Marie Duhammel Naturopathe, naturopathe formée à ISUPNAT.
 
+::: note
+Découvrez [l'interview que Marie Duhammel nous a accordée](/evenements/2019/05/21/interview-de-marie-duhammel/) en préparation de l'atelier.
+:::
+
 ## Programme de 2 heures
 
 - comprendre les huiles essentielles et leurs utilisations
