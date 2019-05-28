@@ -24,5 +24,3 @@ Découvrez [l'interview que Marie Duhammel nous a accordée](/evenements/2019/05
 - autres produits et astuces, au delà des huiles essentielles
 - échanges avec Marie pour vos questions spécifiques
 - buffet dînatoire et moments de partage inclus
-
-Inscrivez-vous dès maintenant&nbsp;: <https://bit.ly/aromatherapie-preciousprana>

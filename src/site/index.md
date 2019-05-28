@@ -9,12 +9,10 @@ navorder: 1
 
 {% poster src="/images/2019-05-21-atelier-aromatherapie.jpg", alt="Atelier Aromathérapie du mardi 21 mai 2019, par Precious Prana", zoom="true" %}
 
-Ne ratez pas notre prochain événement **mardi 21 mai 2019**&nbsp;: [Atelier&nbsp;Aromathérapie](/evenements/2019/05/21/atelier-aromatherapie/).
+Notre précédent événement a eu lieu **mardi 21 mai 2019**&nbsp;: [Atelier&nbsp;Aromathérapie](/evenements/2019/05/21/atelier-aromatherapie/).
 
-Découvrez [l'interview que Marie Duhammel nous a accordée](/evenements/2019/05/21/interview-de-marie-duhammel/) en préparation de l'atelier.
+Découvrez [l'interview que Marie Duhammel nous avait accordée](/evenements/2019/05/21/interview-de-marie-duhammel/) en préparation de l'atelier.
 
 Plus de détails <a href="https://www.facebook.com/events/431042864359989/" class="facebook">sur notre page Facebook</a>.
-
-Inscrivez-vous dès maintenant&nbsp;: <https://bit.ly/aromatherapie-preciousprana>
 
 Pour plus de renseignements, [contactez-nous](/contact/)
