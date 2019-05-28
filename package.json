@@ -31,7 +31,7 @@
     "gulp-uglify": "~3.0",
     "luxon": "~1.13",
     "markdown-it": "~8.4",
-    "markdown-it-anchor": "~5.0",
+    "markdown-it-anchor": "~5.1",
     "markdown-it-container": "~2.0",
     "pump": "~3.0",
     "require-dir": "~1.2"
