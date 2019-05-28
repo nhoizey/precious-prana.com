@@ -280,12 +280,20 @@ footer {
   margin: 5em 0 0;
   padding: 1em 0;
   background-color: $footer-background;
-  background: linear-gradient(335deg, $brand-green 0%, $brand-green-light 100%);
+  color: $footer-text;
   border-top: 2px solid $footer-border;
+  font-size: 0.8em;
+
+  .container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
 
   .facebook-page {
     display: flex;
     align-items: flex-start;
+    margin-right: 1em;
 
     .icon-link {
       display: inline-block;
@@ -293,7 +301,7 @@ footer {
       width: 7rem;
       height: auto;
       min-width: 30px;
-      max-width: 50px;
+      max-width: 40px;
       text-decoration: none;
     }
 
@@ -305,7 +313,11 @@ footer {
     p {
       margin: 0;
       flex-grow: 1;
-      line-height: 1;
+      line-height: 1.2;
     }
+  }
+
+  .legal {
+    white-space: nowrap;
   }
 }

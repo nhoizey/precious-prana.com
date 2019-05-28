@@ -1,7 +1,7 @@
 // Breakpoints
-$bp-narrow: '(min-width: 400px)';
-$bp-mid: '(min-width: 740px)';
-$bp-wide: '(min-width: 1200px)';
+$bp-narrow: "(min-width: 400px)";
+$bp-mid: "(min-width: 740px)";
+$bp-wide: "(min-width: 1200px)";
 
 // Brand colours
 $brand-green: rgb(71, 155, 16);
@@ -21,8 +21,9 @@ $brand-purple-light: rgb(188, 145, 229);
 
 // Other colors
 $page-background: #fff;
-$footer-background: $brand-green-light;
-$footer-border: $brand-green;
+$footer-background: #292c33;
+$footer-border: #bbb;
+$footer-text: #bbb;
 
 $facebook-color: #3c5a99;
 
