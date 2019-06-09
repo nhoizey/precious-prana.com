@@ -18,6 +18,10 @@ Venez à l'atelier Aromathérapie de Precious Prana avec Marie Duhammel Naturopa
 Découvrez [l'interview que Marie Duhammel nous a accordée](/evenements/2019/05/21/interview-de-marie-duhammel/) en préparation de l'atelier.
 :::
 
+Le moodboard :  
+
+{% image src="/images/2019-05-21-moodboard-aromatherapie.jpg", alt="Moodboard de l'atelier aromathérapie du 21 mai 2019, par Precious Prana", zoom="true" %}
+
 ## Bonus
 
 - vous partez avec un mélange préparé
