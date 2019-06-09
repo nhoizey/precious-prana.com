@@ -7,12 +7,8 @@ tags:
 navorder: 1
 ---
 
-{% poster src="/images/2019-05-21-atelier-aromatherapie.jpg", alt="Atelier Aromathérapie du mardi 21 mai 2019, par Precious Prana", zoom="true" %}
+{% poster src="/images/2019-06-18-atelier-auto-massage-shiatsu.png", alt="Atelier auto-massage shiatsu le 18 juin 2019, par Precious Prana", zoom="true" %}
 
-Notre précédent événement a eu lieu **mardi 21 mai 2019**&nbsp;: [Atelier&nbsp;Aromathérapie](/evenements/2019/05/21/atelier-aromatherapie/).
-
-Découvrez [l'interview que Marie Duhammel nous avait accordée](/evenements/2019/05/21/interview-de-marie-duhammel/) en préparation de l'atelier.
-
-Plus de détails <a href="https://www.facebook.com/events/431042864359989/" class="facebook">sur notre page Facebook</a>.
+Notre prochain événement aura lieu **mardi 18 juin 2019**&nbsp;: [Atelier&nbsp;Atelier auto-massage shiatsu](/evenements/2019/06/18/atelier-auto-massage-shiatsu/).
 
 Pour plus de renseignements, [contactez-nous](/contact/)
