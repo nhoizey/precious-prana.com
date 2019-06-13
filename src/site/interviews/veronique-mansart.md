@@ -1,6 +1,6 @@
 ---
-name: Véronique Mansart
-role: intervenante auto-massage shiatsu
+title: Véronique Mansart
+subtitle: intervenante auto-massage shiatsu
 tags:
   - massage
   - shiatsu

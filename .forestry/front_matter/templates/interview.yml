@@ -4,11 +4,12 @@ hide_body: false
 display_field: title
 fields:
   - type: text
-    name: name
+    name: title
     label: Name
   - type: text
-    name: role
+    name: subtitle
     label: Role
+    default: "intervenante…"
   - name: photo
     type: file
     config:
