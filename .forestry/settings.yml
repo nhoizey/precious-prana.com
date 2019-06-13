@@ -10,11 +10,15 @@ sections:
   create: documents
   match: "*.md"
   new_doc_ext: md
+  templates:
+  - evenement
 - type: directory
   path: src/site
   label: Pages
   create: all
   match: "*.md"
+  templates:
+  - page
 upload_dir: src/images
 public_path: "/images"
 front_matter_path: ''
