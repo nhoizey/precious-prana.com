@@ -9,7 +9,7 @@ sections:
   label: Événements
   create: documents
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: jekyll-pages
   label: Pages
   create: all
@@ -24,6 +24,8 @@ file_template: ":filename:"
 build:
   preview_command: gulp build
   publish_command: bundle exec jekyll build -d _site
+  preview_env:
+  - JEKYLL_ENV=staging
   publish_env:
   - JEKYLL_ENV=production
   preview_output_directory: dist
