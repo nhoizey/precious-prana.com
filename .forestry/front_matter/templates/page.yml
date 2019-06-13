@@ -10,10 +10,10 @@ fields:
     hidden: true
   - type: text
     name: title
-    label: Titre
+    label: Title
   - type: text
     name: subtitle
-    label: Sous-titre
+    label: Subtitle
   - type: list
     name: tags
     label: Tags

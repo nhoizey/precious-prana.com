@@ -1,4 +1,4 @@
 {
   "layout": "layouts/page.njk",
-  "permalink": "/interviews/{{ title | slug }}/"
+  "permalink": "/interviews/{{ name | slug }}/"
 }

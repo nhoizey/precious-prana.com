@@ -5,10 +5,10 @@ display_field: title
 fields:
   - type: text
     name: name
-    label: Nom
+    label: Name
   - type: text
     name: role
-    label: Rôle
+    label: Role
   - name: photo
     type: file
     config:
