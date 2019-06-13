@@ -1,9 +1,7 @@
 ---
-title: Interview de Marie Duhammel
-layout: layouts/page.njk
+title: Marie Duhammel
+subtitle: intervenante Aromathérapie
 ---
-
-# Interview de Marie Duhammel, intervenante Aromathérapie
 
 [Mardi 21 mai aura lieu un atelier sur le thème de l'Aromathérapie](/evenements/2019/05/21/atelier-aromatherapie/). Cet atelier sera animé par Marie, qui a eu la gentillesse de répondre à quelques questions pour permettre de faire connaissance.
 

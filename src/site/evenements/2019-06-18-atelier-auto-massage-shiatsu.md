@@ -13,7 +13,7 @@ Inscription : <http://bit.ly/precious-prana-auto-massage-juin>
 Notre intervenante, Véronique Mansart, est Masseur kinésithérapeute depuis 30 ans et praticienne de shiatsu depuis 10 ans (Certifiée par la F.F.S.T. et membre de l'U.F.P.S.T.) et elle s’est toujours intéressée à l'autre par le travail sur le corps.
 
 ::: note
-Découvrez [l'interview que Véronique Mansart nous a accordée](/evenements/2019/06/18/interview-de-veronique-mansart/) en préparation de l'atelier.
+Découvrez [l'interview que Véronique Mansart nous a accordée](/interviews/veronique-mansart/) en préparation de l'atelier.
 :::
 
 Sa soif de connaissance du corps humain et son désir de soulager ses patients l'ont amenée à suivre de nombreuses formations en réflexologie plantaire, puis shiatsu. Elle continue toujours à remplir sa "boîte à outils" avec des formations différentes et complémentaires (huiles essentielles, ré-harmonisation énergétique émotionnelle).
