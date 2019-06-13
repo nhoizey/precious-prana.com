@@ -15,6 +15,3 @@ fields:
     config:
       maxSize: 10
     label: Photo
-  - type: list
-    name: tags
-    label: Tags
