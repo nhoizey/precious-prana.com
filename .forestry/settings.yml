@@ -10,12 +10,6 @@ sections:
   create: documents
   match: "*.md"
   new_doc_ext: md
-- type: jekyll-pages
-  label: Pages
-  create: all
-- type: jekyll-posts
-  label: Posts
-  create: all
 upload_dir: src/images
 public_path: "/images"
 front_matter_path: ''
