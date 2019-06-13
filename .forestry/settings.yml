@@ -1,40 +1,47 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: ''
-webhook_url: 
+admin_path: ""
+webhook_url:
 sections:
-- type: directory
-  path: src/site/evenements
-  label: Événements
-  create: documents
-  match: "*.md"
-  new_doc_ext: md
-  templates:
-  - evenement
-- type: directory
-  path: src/site
-  label: Pages
-  create: all
-  match: "*.md"
-  templates:
-  - page
+  - type: directory
+    path: src/site/evenements
+    label: Événements
+    create: documents
+    match: "*.md"
+    new_doc_ext: md
+    templates:
+      - evenement
+  - type: directory
+    path: src/site/interviews
+    label: Interviews
+    create: documents
+    match: "*.md"
+    new_doc_ext: md
+    templates:
+      - interview
+  - type: directory
+    path: src/site
+    label: Pages
+    create: all
+    match: "*.md"
+    templates:
+      - page
 upload_dir: src/images
 public_path: "/images"
-front_matter_path: ''
+front_matter_path: ""
 use_front_matter_path: false
 file_template: ":filename:"
 instant_preview: true
 build:
   preview_command: gulp build
-  publish_command: bundle exec jekyll build -d _site
+  publish_command: gulp build
   preview_env:
-  - JEKYLL_ENV=staging
-  - BUILD_DIR=src/site
+    - BUILD_DIR=dist
   publish_env:
-  - JEKYLL_ENV=production
-  preview_output_directory: src/site/dist
-  output_directory: _site
+    - JEKYLL_ENV=production
+  preview_output_directory: dist
+  output_directory: dist
   instant_preview_command: yarn start
   preview_docker_image: nodejs:10
   mount_path: "/srv"
