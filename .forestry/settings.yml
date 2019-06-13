@@ -25,9 +25,10 @@ build:
   publish_command: bundle exec jekyll build -d _site
   preview_env:
   - JEKYLL_ENV=staging
+  - BUILD_DIR=src/site
   publish_env:
   - JEKYLL_ENV=production
-  preview_output_directory: dist
+  preview_output_directory: src/site/dist
   output_directory: _site
   instant_preview_command: bundle exec jekyll serve --drafts --unpublished --future
     --port 8080 --host 0.0.0.0 -d _site
