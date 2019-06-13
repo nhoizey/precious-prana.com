@@ -1,8 +1,8 @@
 ---
-label: Evènement
+label: Événement
 hide_body: false
 display_field: title
 fields:
-- type: text
-  name: title
-  label: title
+  - type: text
+    name: title
+    label: Titre

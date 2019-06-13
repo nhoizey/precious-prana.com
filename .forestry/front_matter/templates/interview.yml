@@ -1,13 +1,8 @@
 ---
-label: Page
+label: Interview
 hide_body: false
 display_field: title
 fields:
-  - type: text
-    name: layout
-    label: layout
-    default: layouts/base.njk
-    hidden: true
   - type: text
     name: title
     label: Titre
@@ -17,7 +12,3 @@ fields:
   - type: list
     name: tags
     label: Tags
-  - type: number
-    name: navorder
-    label: navorder
-    hidden: true
