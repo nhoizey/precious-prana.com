@@ -6,3 +6,13 @@ fields:
 - type: text
   name: title
   label: Titre
+- name: poster
+  type: file
+  config:
+    maxSize: 250
+  label: Affiche
+- name: moodboard
+  type: file
+  config:
+    maxSize: 250
+  label: Moodboard
