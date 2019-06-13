@@ -3,17 +3,17 @@ label: Interview
 hide_body: false
 display_field: title
 fields:
-- type: text
-  name: name
-  label: Nom
-- type: text
-  name: role
-  label: Rôle
-- name: photo
-  type: file
-  config:
-    maxSize: 250
-  label: Photo
-- type: list
-  name: tags
-  label: Tags
+  - type: text
+    name: name
+    label: Nom
+  - type: text
+    name: role
+    label: Rôle
+  - name: photo
+    type: file
+    config:
+      maxSize: 10
+    label: Photo
+  - type: list
+    name: tags
+    label: Tags

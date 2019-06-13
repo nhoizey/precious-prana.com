@@ -3,16 +3,16 @@ label: Événement
 hide_body: false
 display_field: title
 fields:
-- type: text
-  name: title
-  label: Titre
-- name: poster
-  type: file
-  config:
-    maxSize: 250
-  label: Affiche
-- name: moodboard
-  type: file
-  config:
-    maxSize: 250
-  label: Moodboard
+  - type: text
+    name: title
+    label: Titre
+  - name: poster
+    type: file
+    config:
+      maxSize: 10
+    label: Affiche
+  - name: moodboard
+    type: file
+    config:
+      maxSize: 10
+    label: Moodboard
