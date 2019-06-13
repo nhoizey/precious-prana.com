@@ -3,12 +3,12 @@ label: Interview
 hide_body: false
 display_field: title
 fields:
-  - type: text
-    name: title
-    label: Titre
-  - type: text
-    name: subtitle
-    label: Sous-titre
-  - type: list
-    name: tags
-    label: Tags
+- type: text
+  name: title
+  label: Titre
+- type: text
+  name: subtitle
+  label: Sous-titre
+- type: list
+  name: tags
+  label: Tags

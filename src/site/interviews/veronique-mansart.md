@@ -1,8 +1,11 @@
 ---
 title: Véronique Mansart
 subtitle: intervenante auto-massage shiatsu
----
+tags:
+- massage
+- shiatsu
 
+---
 # Interview de Véronique Mansart, intervenante auto-massage shiatsu
 
 ## Comment vous décrivez-vous ?
