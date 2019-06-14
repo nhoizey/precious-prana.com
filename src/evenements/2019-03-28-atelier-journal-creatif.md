@@ -1,8 +1,7 @@
 ---
 title: Atelier Journal Créatif
+poster: /images/2019-03-28-atelier-journal-creatif.jpg
 ---
-
-{% poster src="/images/2019-03-28-atelier-journal-creatif.jpg", alt="Atelier Journal Créatif le jeudi 28 mars 2019, par Precious Prana", zoom="true" %}
 
 Le printemps est synonyme de création, connexion et renouveau. La créativité aide à détourner notre attention de nos tracas et nous redonne de l’énergie. C’est donc le moment parfait pour un atelier Journal Créatif®.
 

@@ -1,8 +1,7 @@
 ---
 title: Atelier Aromathérapie
+poster: /images/2019-05-21-atelier-aromatherapie.jpg
 ---
-
-{% poster src="/images/2019-05-21-atelier-aromatherapie.jpg", alt="Atelier Aromathérapie le mardi 21 mai 2019, par Precious Prana", zoom="true" %}
 
 Envie de savoir utiliser les huiles essentielles pour le relaxation, la gestion du stress, les rhumes et allergies et autres applications bien pratiques ?
 

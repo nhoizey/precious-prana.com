@@ -21,18 +21,20 @@
     <script src="https://www.google-analytics.com/analytics.js" async defer></script>
 
     <link rel="stylesheet" href="/css/main.css" />
-    {%- if title != 'Accueil' %}
-      <title>{{ title }} — Precious Prana</title>
-    {% else %}
-      <title>Precious Prana, faire pétiller les femmes</title>
-    {% endif %}
 
-    <link rel="canonical" href="https://precious-prana.com" />
-    <meta property="og:url" content="https://precious-prana.com" />
+    {%- if title != 'Accueil' %}
+      {% set pageTitle %}{{ title }} — Precious Prana{% endset %}
+    {% else %}
+      {% set pageTitle = "Precious Prana, faire pétiller les femmes" %}
+    {% endif %}
+    <title>{{ pageTitle }}</title>
+
+    <link rel="canonical" href="https://precious-prana.com{{ page.url }}" />
+    <meta property="og:url" content="https://precious-prana.com{{ page.url }}" />
 
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Precious Prana" />
-    <meta property="og:title" content="Precious Prana" />
+    <meta property="og:title" content="{{ pageTitle }}" />
     <meta name="description" content="Faire pétiller les femmes" />
     <meta property="og:description" content="Faire pétiller les femmes" />
     <meta property="og:image" content="https://precious-prana.com/images/logo-precious-prana-social.jpg" />

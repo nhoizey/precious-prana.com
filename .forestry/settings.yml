@@ -5,7 +5,7 @@ admin_path: ""
 webhook_url:
 sections:
   - type: directory
-    path: src/site/evenements
+    path: src/evenements
     label: Events
     create: documents
     match: "*.md"
@@ -13,7 +13,7 @@ sections:
     templates:
       - evenement
   - type: directory
-    path: src/site/interviews
+    path: src/interviews
     label: Interviews
     create: documents
     match: "*.md"
@@ -21,7 +21,7 @@ sections:
     templates:
       - interview
   - type: directory
-    path: src/site
+    path: src
     label: Pages
     create: all
     match: "*.md"

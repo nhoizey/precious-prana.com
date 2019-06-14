@@ -1,8 +1,7 @@
 ---
 title: Atelier auto-massage shiatsu
+poster: /images/2019-02-19-atelier-auto-massage-shiatsu.png
 ---
-
-{% poster src="/images/2019-02-19-atelier-auto-massage-shiatsu.png", alt="Atelier auto-massage shiatsu le 19 février 2019, par Precious Prana", zoom="true" %}
 
 Lors de ce premier atelier qui a eu lieu le 19 février 2019, nous avons découvert l’auto massage Shiatsu, afin de vous revitaliser et re-énergiser l’ensemble du corps :
 
