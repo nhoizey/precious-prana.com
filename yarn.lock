@@ -439,13 +439,6 @@ async@1.5.2:
   resolved "https://registry.yarnpkg.com/async/-/async-1.5.2.tgz#ec6a61ae56480c0c3cb241c95618e20892f9672a"
   integrity sha1-7GphrlZIDAw8skHJVhjiCJL5Zyo=
 
-async@^2.6.2:
-  version "2.6.2"
-  resolved "https://registry.yarnpkg.com/async/-/async-2.6.2.tgz#18330ea7e6e313887f5d2f2a904bac6fe4dd5381"
-  integrity sha512-H1qVYh1MYhEEFLsP97cVKqCGo7KfCyTt6uEWqsTBr9SO84oK9Uwbyd/yCW+6rKJLHksBNUVWZDAjfS+Ccx0Bbg==
-  dependencies:
-    lodash "^4.17.11"
-
 asynckit@^0.4.0:
   version "0.4.0"
   resolved "https://registry.yarnpkg.com/asynckit/-/asynckit-0.4.0.tgz#c79ed97f7f34cb8f2ba1bc9790bcc366474b4b79"
@@ -2253,16 +2246,16 @@ gulp-serve@~1.4:
     serve-static "^1.11.1"
 
 gulp-shell@~0.7:
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/gulp-shell/-/gulp-shell-0.7.0.tgz#7d76956e9e9e169acf819fe3643be0becfeb6148"
-  integrity sha512-rpMbI6+b9LZNLB+KkOeqWynLdqVtypy8v68spDVjvMg1cVaVhNQILYVXPvmeH/KtcrPv4JLmoEJeElEB6/IvcA==
+  version "0.7.1"
+  resolved "https://registry.yarnpkg.com/gulp-shell/-/gulp-shell-0.7.1.tgz#0434d3dd852eb256824076466935b51c5f7b5191"
+  integrity sha512-5dKf1eJDdBiUS4LKCt4tm9IkDnWeXKGCKjQG5EJj/bVeVOisAPse5RLxccGh1OtfbzQdOWCywu936DTB8isZRw==
   dependencies:
-    async "^2.6.2"
     chalk "^2.4.2"
     fancy-log "^1.3.3"
     lodash.template "^4.4.0"
     plugin-error "^1.0.1"
     through2 "^3.0.1"
+    tslib "^1.9.3"
 
 gulp-uglify@~3.0:
   version "3.0.2"
@@ -5459,6 +5452,11 @@ trim-newlines@^1.0.0:
   integrity sha512-m6s2OdQe5wgpFMC+pAJ+q9djG82O2jcHPOI6RNg1yy9rCYR+WD6Nbpl32fDpfC56nirdRy+opFa/Vk7HYhqaew==
   dependencies:
     glob "^7.1.2"
+
+tslib@^1.9.3:
+  version "1.10.0"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.10.0.tgz#c3c19f95973fb0a62973fb09d90d961ee43e5c8a"
+  integrity sha512-qOebF53frne81cf0S9B41ByenJ3/IuH8yJKngAX35CmiZySA0khhkovshKK+jGCaMnVomla7gVlIcc3EvKPbTQ==
 
 tunnel-agent@^0.6.0:
   version "0.6.0"
