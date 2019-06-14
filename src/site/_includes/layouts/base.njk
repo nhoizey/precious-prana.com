@@ -6,9 +6,15 @@
 
     {# Google Analytics #}
     <script>
-      window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
+      window.ga = function () {
+        ga
+          .q
+          .push(arguments)
+      };
+      ga.q = [];
+      ga.l = + new Date;
       ga('create', 'UA-127782-6', 'auto');
-      ga('set','transport','beacon');
+      ga('set', 'transport', 'beacon');
       ga('set', 'anonymizeIp', true);
       ga('send', 'pageview')
     </script>
@@ -42,9 +48,13 @@
     <header>
       <div class="container">
         {%- if title != 'Accueil' %}
-          <p class="logo"><a href="/">{% include "logo.njk" %}</a></p>
+          <p class="logo">
+            <a href="/">{% include "logo.njk" %}</a>
+          </p>
         {%- else -%}
-          <h1 class="logo"><a href="/">{% include "logo.njk" %}</a></h1>
+          <h1 class="logo">
+            <a href="/">{% include "logo.njk" %}</a>
+          </h1>
         {% endif %}
       </div>
     </header>
@@ -52,21 +62,33 @@
     <main>
       <div class="container">
         {{ content | safe }}
+
+        <div class="flyer">
+          <a href="/files/flyer-juin2019.pdf">
+            <p>Téléchargez<br />notre flyer :</p>
+            <img src="/files/flyer-juin2019.png" alt="couverture du flyer Precious Prana" width="120" height="170" />
+          </a>
+        </div>
       </div>
-    </main>
-    {% include "footer.njk" %}
+    </div>
+  </main>
+  {% include "footer.njk" %}
 
   <!-- Netlify Identity -->
   <script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
+    if (window.netlifyIdentity) {
+      window
+        .netlifyIdentity
+        .on("init", user => {
+          if (!user) {
+            window
+              .netlifyIdentity
+              .on("login", () => {
+                document.location.href = "/admin/";
+              });
+          }
         });
-      }
-    });
-  }
+    }
   </script>
-  </body>
+</body>
 </html>

@@ -15,7 +15,10 @@ gulp.task('generate', shell.task('DEBUG=Eleventy* eleventy'));
 /*
   compile the assets to the correct destination
 */
-gulp.task('assets', gulp.parallel('images', 'fonts', 'styles', 'scripts', 'cms'));
+gulp.task(
+  "assets",
+  gulp.parallel("images", "fonts", "styles", "scripts", "files")
+);
 
 /*
   Let's build this sucker, without getting data from online sources
