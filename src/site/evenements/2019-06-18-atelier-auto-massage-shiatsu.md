@@ -8,7 +8,7 @@ Plus qu'un massage, le shiatsu est un massage traditionnel japonais qui utilise 
 
 Lors de ce nouvel atelier, nous allons aborder la saison de l’été et les méridiens qui résonnent avec cette période. Au travers des massages et exercices dédiés, vous revitaliserez et re-énergiserez l’ensemble du corps.
 
-Inscription : <http://bit.ly/precious-prana-auto-massage-juin>
+**Inscription :** <http://bit.ly/precious-prana-auto-massage-juin>
 
 Notre intervenante, Véronique Mansart, est Masseur kinésithérapeute depuis 30 ans et praticienne de shiatsu depuis 10 ans (Certifiée par la F.F.S.T. et membre de l'U.F.P.S.T.) et elle s’est toujours intéressée à l'autre par le travail sur le corps.
 
@@ -30,6 +30,6 @@ Envie de savoir comment s’est passé l’atelier précédent d’auto-massage 
 >
 > <cite>Proverbe breton, par François Loux, "Le corps dans la société traditionnelle", Berger-Levrault, "Espaces des Hommes"</cite>
 
-Inscription : <http://bit.ly/precious-prana-auto-massage-juin>
+**Inscription :** <http://bit.ly/precious-prana-auto-massage-juin>
 
 {% image src="/images/canva-red-and-yellow-flower-par-veeterzy-recadre.jpg", alt="" %}
