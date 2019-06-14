@@ -35,29 +35,31 @@ module.exports = function(eleventyConfig) {
   // ------------------------------------------------------------------------
 
   function genericImage(image, cssClass, sizes) {
-    let imageName = image.src.replace(/\.[^.]+$/, "");
-    let imageExtension = image.src.replace(/^.*\.([^.]+)$/, "$1");
+    const cloudinaryPrefix =
+      "https://res.cloudinary.com/nho/image/fetch/c_fill,f_auto,q_auto,";
+    let imageUrl = "https://precious-prana.com" + image.src;
+
     return `<figure class="${cssClass}">
-<img
-src="${imageName}-360.${imageExtension}"
-srcset="
-${imageName}-360.${imageExtension} 360w,
-${imageName}-480.${imageExtension} 480w,
-${imageName}-640.${imageExtension} 640w,
-${imageName}-800.${imageExtension} 800w,
-${imageName}-1024.${imageExtension} 1024w"
-sizes="${sizes}"
-${image.alt ? `alt="${image.alt}"` : ""} />
-<figcaption>
-${image.caption ? `<p>${image.caption}</p>` : ""}
-${
-  image.zoom
-    ? `<p class="zoom">&#128269;&nbsp;<a href="${
-        image.src
-      }" target="_blank">zoomer</a></p>`
-    : ""
-}
-</figcaption>
+  <img
+    src="${cloudinaryPrefix}w_360/${imageUrl}"
+    srcset="
+      ${cloudinaryPrefix}w_360/${imageUrl} 360w,
+      ${cloudinaryPrefix}w_480/${imageUrl} 480w,
+      ${cloudinaryPrefix}w_640/${imageUrl} 640w,
+      ${cloudinaryPrefix}w_800/${imageUrl} 800w,
+      ${cloudinaryPrefix}w_1024/${imageUrl} 1024w"
+    sizes="${sizes}"
+    ${image.alt ? `alt="${image.alt}"` : ""} />
+  <figcaption>
+  ${image.caption ? `<p>${image.caption}</p>` : ""}
+  ${
+    image.zoom
+      ? `<p class="zoom">&#128269;&nbsp;<a href="${
+          image.src
+        }" target="_blank">zoomer</a></p>`
+      : ""
+  }
+  </figcaption>
 </figure>`;
   }
 
