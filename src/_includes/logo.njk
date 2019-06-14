@@ -1,10 +1,12 @@
+{% set cloudinaryPrefix = "https://res.cloudinary.com/nho/image/fetch/c_fill,f_auto,q_auto," %}
+{% set logoUrl = "http://precious-prana.com/images/logo-precious-prana.png" %}
 <img
-  src="/images/logo-precious-prana-360.png"
+  src="{{ cloudinaryPrefix }}w_360/{{ logoUrl }}"
   srcset="
-    /images/logo-precious-prana-360.png 360w,
-    /images/logo-precious-prana-480.png 480w,
-    /images/logo-precious-prana-640.png 640w,
-    /images/logo-precious-prana-800.png 800w"
+    {{ cloudinaryPrefix }}w_360/{{ logoUrl }} 360w,
+    {{ cloudinaryPrefix }}w_480/{{ logoUrl }} 480w,
+    {{ cloudinaryPrefix }}w_640/{{ logoUrl }} 640w,
+    {{ cloudinaryPrefix }}w_800/{{ logoUrl }} 800w"
   sizes="(min-width: 40rem) 20rem, 50vw"
   width="320"
   height="190.5"
