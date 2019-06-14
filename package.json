@@ -23,7 +23,6 @@
     "gulp": "~4.0",
     "gulp-clean": "~0.4",
     "gulp-concat": "~2.6",
-    "gulp-image-resize": "~0.13",
     "gulp-rename": "~1.4",
     "gulp-sass": "~4.0",
     "gulp-serve": "~1.4",

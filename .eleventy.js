@@ -143,9 +143,14 @@ module.exports = function(eleventyConfig) {
       .use(markdownItContainer, "note")
   );
 
+  eleventyConfig.addPassthroughCopy("src/images");
+  eleventyConfig.addPassthroughCopy("src/files");
+  eleventyConfig.addPassthroughCopy("src/fonts");
+
   return {
+    passthroughFileCopy: true,
     dir: {
-      input: "src/site",
+      input: "src",
       output: "dist",
       includes: "_includes"
     },
