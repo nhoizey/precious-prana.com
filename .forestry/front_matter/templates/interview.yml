@@ -3,15 +3,15 @@ label: Interview
 hide_body: false
 display_field: title
 fields:
-  - type: text
-    name: title
-    label: Name
-  - type: text
-    name: subtitle
-    label: Role
-    default: "intervenante…"
-  - name: photo
-    type: file
-    config:
-      maxSize: 10
-    label: Photo
+- type: text
+  name: title
+  label: Name
+- type: text
+  name: subtitle
+  label: Role
+  default: intervenante…
+- name: photo
+  type: file
+  config:
+    maxSize: 10
+  label: Photo

@@ -3,16 +3,18 @@ label: Events
 hide_body: false
 display_field: title
 fields:
-  - type: text
-    name: title
-    label: Title
-  - name: poster
-    type: file
-    config:
-      maxSize: 10
-    label: Poster
-  - name: moodboard
-    type: file
-    config:
-      maxSize: 10
-    label: Moodboard
+- type: text
+  name: title
+  label: Title
+- name: poster
+  type: file
+  config:
+    maxSize: 10
+  label: Poster
+- name: moodboard
+  type: file
+  config:
+    maxSize: 10
+  label: Moodboard
+pages:
+- src/evenements/journée-bien-être-au-30-paris-saclay.md
