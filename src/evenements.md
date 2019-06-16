@@ -15,7 +15,7 @@ navorder: 3
 ## À venir
 
 <dl>
-{%- for evenement in collections.evenements_futurs | reverse -%}
+{%- for evenement in collections.evenements_futurs -%}
   <dt>{{ evenement.date | displayDate }}</dt>
   <dd><a href="{{ evenement.url }}">{{ evenement.data.title }}</a></dd>
 {%- endfor -%}
