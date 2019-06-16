@@ -2,6 +2,8 @@
 title: Journée bien-être au «30», Paris Saclay
 poster: "/images/2019-06-21-journee-bien-etre-au-30-paris-saclay.jpg"
 moodboard: ''
+date: 2019-06-21
+
 ---
 Nous avons le plaisir de vous annoncer la journée bien être au "Trente" (Massy, 91) le vendredi 21 juin.
 
