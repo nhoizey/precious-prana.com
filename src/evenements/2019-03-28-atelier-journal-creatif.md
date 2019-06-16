@@ -1,8 +1,9 @@
 ---
 title: Atelier Journal Créatif
-poster: /images/2019-03-28-atelier-journal-creatif.jpg
----
+poster: "/images/2019-03-28-atelier-journal-creatif.jpg"
+date: 2019-03-28
 
+---
 Le printemps est synonyme de création, connexion et renouveau. La créativité aide à détourner notre attention de nos tracas et nous redonne de l’énergie. C’est donc le moment parfait pour un atelier Journal Créatif®.
 
 Notez le jeudi 28 mars pour vous connecter à votre moi-profond, retrouver votre créativité et hop, table rase du stress et stop aux priorités pour les autres. C’est un moment rien que pour SOI.
