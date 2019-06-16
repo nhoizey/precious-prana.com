@@ -17,6 +17,7 @@ fields:
 - type: list
   name: tags
   label: Tags
+  hidden: true
 - type: number
   name: navorder
   label: navorder
