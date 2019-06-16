@@ -2,9 +2,8 @@
 title: Journée bien-être au 30, Paris Saclay
 poster: "/images/2019-06-21-journee-bien-etre-au-30-paris-saclay.jpg"
 moodboard: ''
-published: false
----
 
+---
 Nous avons le plaisir de vous annoncer la journée bien être au "Trente" (Massy, 91) le vendredi 21 juin.
 
 Une journée d'ateliers, conférences, séances individuelles et stands pour rencontrer des professionnels du bien être pour les entreprises et pour les particuliers.
@@ -13,9 +12,10 @@ Cette journée a été co-organisée avec [Precious Prana](https://precious-pran
 
 Venez voir les entrepreneurs, et profitez-en pour rencontrer Precious Prana.
 
-Voici la présentation des intervenants sur le site de Paris Saclay : <http://www.paris-saclay.com/fileadmin/images/actualites/Presentation_intervenants_journee_bien-etre.pdf>
+Voici la **présentation** des intervenants sur le site de Paris Saclay : [http://www.paris-saclay.com/fileadmin/images/actualites/Presentation_intervenants_journee_bien-etre.pdf](http://www.paris-saclay.com/fileadmin/images/actualites/Presentation_intervenants_journee_bien-etre.pdf)
 
-**Inscription :** <https://www.eventbrite.fr/e/billets-journee-bien-etre-atelier-et-conferences-bien-etre-et-sante-au-travail-62978076121>
+**Inscription :** [https://www.eventbrite.fr/e/billets-journee-bien-etre-atelier-et-conferences-bien-etre-et-sante-au-travail-62978076121](https://www.eventbrite.fr/e/billets-journee-bien-etre-atelier-et-conferences-bien-etre-et-sante-au-travail-62978076121)
 
-Je suis contente de faire partie de cette aventure. 😃
-J'espère vous y rencontrer.
+Nous sommes contents de faire partie de cette aventure. 😃
+
+Nous espérons vous y rencontrer.

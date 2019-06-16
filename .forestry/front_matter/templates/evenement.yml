@@ -16,5 +16,3 @@ fields:
   config:
     maxSize: 10
   label: Moodboard
-pages:
-- src/evenements/journée-bien-être-au-30-paris-saclay.md
