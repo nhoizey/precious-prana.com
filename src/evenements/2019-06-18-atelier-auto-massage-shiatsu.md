@@ -1,8 +1,9 @@
 ---
 title: Atelier auto-massage shiatsu
-poster: /images/2019-06-18-atelier-auto-massage-shiatsu.png
----
+poster: "/images/2019-06-18-atelier-auto-massage-shiatsu.png"
+date: 2019-06-18
 
+---
 Plus qu'un massage, le shiatsu est un massage traditionnel japonais qui utilise les points d’acupressions. Par ce biais, on intervient sur plusieurs plans : physique, mental, émotionnel, relation, et on peut permettre à son corps de trouver des manières de s’autoguérir.
 
 Lors de ce nouvel atelier, nous allons aborder la saison de l’été et les méridiens qui résonnent avec cette période. Au travers des massages et exercices dédiés, vous revitaliserez et re-énergiserez l’ensemble du corps.
