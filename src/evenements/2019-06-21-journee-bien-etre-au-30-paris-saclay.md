@@ -15,7 +15,7 @@ Venez voir les entrepreneurs, et profitez-en pour rencontrer Precious Prana.
 
 Voici la présentation des intervenants sur le site de Paris Saclay : <http://www.paris-saclay.com/fileadmin/images/actualites/Presentation_intervenants_journee_bien-etre.pdf>
 
-**Inscriptions :** <https://www.eventbrite.fr/e/billets-journee-bien-etre-atelier-et-conferences-bien-etre-et-sante-au-travail-62978076121>
+**Inscription :** <https://www.eventbrite.fr/e/billets-journee-bien-etre-atelier-et-conferences-bien-etre-et-sante-au-travail-62978076121>
 
 Je suis contente de faire partie de cette aventure. 😃
 J'espère vous y rencontrer.
