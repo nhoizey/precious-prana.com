@@ -1,6 +1,7 @@
 ---
 title: Atelier Aromathérapie
 poster: /images/2019-05-21-atelier-aromatherapie.jpg
+date: 2019-05-21
 ---
 
 Envie de savoir utiliser les huiles essentielles pour le relaxation, la gestion du stress, les rhumes et allergies et autres applications bien pratiques ?
