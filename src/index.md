@@ -3,15 +3,17 @@ title: Accueil
 subtitle: La communauté pour faire pétiller l’énergie vitale des mères actives
 layout: layouts/base.njk
 tags:
-  - navigation
+- navigation
 navorder: 1
----
 
+---
 {% poster src="/images/2019-06-18-atelier-auto-massage-shiatsu.png", alt="Atelier auto-massage shiatsu le 18 juin 2019, par Precious Prana", zoom="true" %}
 
-Notre prochain événement aura lieu **mardi 18 juin 2019**&nbsp;: [Atelier auto-massage shiatsu](/evenements/2019/06/18/atelier-auto-massage-shiatsu/).
+Notre prochain événement aura lieu **mardi 18 juin 2019** : [Atelier auto-massage shiatsu](/evenements/2019/06/18/atelier-auto-massage-shiatsu/).
 
-**Pour vous inscrire :** <http://bit.ly/precious-prana-auto-massage-juin>
+**Pour vous inscrire :** [http://bit.ly/precious-prana-auto-massage-juin](http://bit.ly/precious-prana-auto-massage-juin)
+
+Retrouvez tous nos événements, futurs et passés, sur [la page qui leur est consacrée](/evenements/).
 
 Pour plus de renseignements, [contactez-nous](/contact/).
 
