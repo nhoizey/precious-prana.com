@@ -1,5 +1,4 @@
 @import "_variables";
-@import "_mixins";
 @import "_fonts";
 
 // Box sizing:
@@ -22,7 +21,7 @@ body {
   color: #222;
 
   font-family: roboto, sans-serif;
-  font-display: fallback;
+  font-display: swap;
   font-weight: 300;
   line-height: 1.8;
   font-size: calc(0.9rem + 1vw);

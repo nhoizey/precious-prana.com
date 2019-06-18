@@ -1,4 +1,5 @@
 const { DateTime } = require("luxon");
+const CleanCSS = require("clean-css");
 
 module.exports = function(eleventyConfig) {
   // ------------------------------------------------------------------------
@@ -28,6 +29,11 @@ module.exports = function(eleventyConfig) {
       .replace(/M10/, "octobre")
       .replace(/M11/, "novembre")
       .replace(/M12/, "décembre");
+  });
+
+  // https://www.11ty.io/docs/quicktips/inline-css/
+  eleventyConfig.addFilter("cssmin", function(code) {
+    return new CleanCSS({}).minify(code).styles;
   });
 
   // ------------------------------------------------------------------------
