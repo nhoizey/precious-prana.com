@@ -20,9 +20,9 @@ gulp.task("assets", gulp.parallel("styles", "scripts"));
 /*
   Let's build this sucker, without getting data from online sources
 */
-gulp.task("build:local", gulp.series("clean-build", "generate", "assets"));
+gulp.task("build:local", gulp.series("clean-build", "assets", "generate"));
 
 /*
   Let's gwt the data we need and then build this sucker.
 */
-gulp.task("build", gulp.series("generate", "assets"));
+gulp.task("build", gulp.series("assets", "generate"));
