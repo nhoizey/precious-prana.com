@@ -22,3 +22,9 @@
   from = "/evenements/2019/06/18/interview-de-veronique-mansart/"
   to = "/interviews/veronique-mansart/"
   status = 301
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+  Link = "</files/flyer-juin2019.jpg>; rel=preload; as=image"
+  
