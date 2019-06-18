@@ -27,4 +27,5 @@
   for = "/*"
   [headers.values]
   Link = "</files/flyer-juin2019.jpg>; rel=preload; as=image"
-  
+  Link = "</fonts/roboto-regular.woff2>; rel=preload; as=font"
+  Link = "</fonts/dosis-regular.woff2>; rel=preload; as=font"
