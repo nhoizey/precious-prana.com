@@ -98,7 +98,9 @@ module.exports = function(eleventyConfig) {
       return (
         DateTime.fromJSDate(evenement.date, {
           zone: "Europe/Paris"
-        }).diffNow("hours") >= -24
+        })
+          .diffNow("hours")
+          .toObject().hours >= -24
       );
     });
   });
@@ -108,7 +110,9 @@ module.exports = function(eleventyConfig) {
       return (
         DateTime.fromJSDate(evenement.date, {
           zone: "Europe/Paris"
-        }).diffNow("hours") < -24
+        })
+          .diffNow("hours")
+          .toObject().hours < -24
       );
     });
   });
