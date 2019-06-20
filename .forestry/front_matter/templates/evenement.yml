@@ -3,26 +3,33 @@ label: Events
 hide_body: false
 display_field: title
 fields:
-- name: date
-  type: datetime
-  label: Date
-  description: ''
-  config:
-    required: false
-    date_format: DD-MM-YYYY
-    time_format: 
-    display_utc: false
-    export_format: YYYY-MM-DD
-- type: text
-  name: title
-  label: Title
-- name: poster
-  type: file
-  config:
-    maxSize: 10
-  label: Poster
-- name: moodboard
-  type: file
-  config:
-    maxSize: 10
-  label: Moodboard
+  - name: date
+    type: datetime
+    label: Date
+    description: ""
+    config:
+      required: false
+      date_format: DD-MM-YYYY
+      time_format:
+      display_utc: false
+      export_format: YYYY-MM-DD
+  - type: text
+    name: title
+    label: Titre
+  - name: poster
+    type: file
+    config:
+      maxSize: 10
+    label: Poster
+  - type: text
+    name: form_url
+    label: Inscription
+  - name: moodboard
+    type: file
+    config:
+      maxSize: 10
+    label: Moodboard
+  - name: show_homepage
+    type: boolean
+    label: Show on homepage?
+    default: true
