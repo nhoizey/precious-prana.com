@@ -5,13 +5,19 @@ layout: layouts/base.njk
 tags:
 - navigation
 navorder: 1
-
 ---
-{% poster src="/images/2019-06-18-atelier-auto-massage-shiatsu.png", alt="Atelier auto-massage shiatsu le 18 juin 2019, par Precious Prana", zoom="true" %}
 
-Notre prochain événement aura lieu **mardi 18 juin 2019** : [Atelier auto-massage shiatsu](/evenements/2019/06/18/atelier-auto-massage-shiatsu/).
-
-**Pour vous inscrire :** [http://bit.ly/precious-prana-auto-massage-juin](http://bit.ly/precious-prana-auto-massage-juin)
+{% if collections.evenements_futurs_homepage.length > 0 %}
+  {% set evenement = collections.evenements_futurs_homepage | first %}
+  {% if evenement.data.poster %}
+{% poster src=evenement.data.poster, alt="{{ evenement.data.title }} le {{ evenement.date | displayDate }}, par Precious Prana", zoom="true" %}
+  {% endif %}
+Notre prochain événement aura lieu <strong>{{ evenement.date | displayDate }}</strong> : <a href="{{ evenement.url }}">{{ evenement.data.title }}</a>.
+  {% if evenement.data.form_url %}
+<strong>Pour vous inscrire :</strong> <a href="{{ evenement.data.form_url }}">{{ evenement.data.form_url }}</a>
+  {% endif %}
+<hr>
+{% endif %}
 
 Retrouvez tous nos événements, futurs et passés, sur [la page qui leur est consacrée](/evenements/).
 
