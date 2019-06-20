@@ -111,6 +111,22 @@ module.exports = function(eleventyConfig) {
     });
   });
 
+  eleventyConfig.addCollection("evenements_futurs_homepage", function(
+    collection
+  ) {
+    return collection.getFilteredByTag("evenements").filter(evenement => {
+      return (
+        (evenement.data.show_homepage === undefined ||
+          evenement.data.show_homepage) &&
+        DateTime.fromJSDate(evenement.date, {
+          zone: "Europe/Paris"
+        })
+          .diffNow("hours")
+          .toObject().hours >= -24
+      );
+    });
+  });
+
   eleventyConfig.addCollection("evenements_passes", function(collection) {
     return collection.getFilteredByTag("evenements").filter(evenement => {
       return (
