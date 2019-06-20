@@ -1,6 +1,5 @@
 ---
 title: Atelier Savourez les bons moments
-poster: ''
 date: 2019-06-27
 form_url: http://bit.ly/PreciousPrana-savourerlesbonsmoments
 ---
