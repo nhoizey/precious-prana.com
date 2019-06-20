@@ -7,6 +7,10 @@ tags:
 navorder: 1
 ---
 
+Precious Prana est une communauté de bien-être qui permet aux mères actives de se ressourcer, de savoir auto-gérer leur énergie et réussir l'équilibre entre vie personnelle, professionnelle et familiale.
+
+<hr>
+
 {% if collections.evenements_futurs_homepage.length > 0 %}
   {% set evenement = collections.evenements_futurs_homepage | first %}
   {% if evenement.data.poster %}
