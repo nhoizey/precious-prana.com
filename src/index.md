@@ -7,20 +7,17 @@ tags:
 navorder: 1
 ---
 
-Precious Prana est une communauté de bien-être qui permet aux mères actives de se ressourcer, de savoir auto-gérer leur énergie et réussir l'équilibre entre vie personnelle, professionnelle et familiale.
-
-<hr>
+## Precious Prana est une communauté de bien-être qui permet aux mères actives de se ressourcer, de savoir auto-gérer leur énergie et réussir l'équilibre entre vie personnelle, professionnelle et familiale.
 
 {% if collections.evenements_futurs_homepage.length > 0 %}
   {% set evenement = collections.evenements_futurs_homepage | first %}
   {% if evenement.data.poster %}
 {% poster src=evenement.data.poster, alt="{{ evenement.data.title }} le {{ evenement.date | displayDate }}, par Precious Prana", zoom="true" %}
   {% endif %}
-Notre prochain événement aura lieu <strong>{{ evenement.date | displayDate }}</strong> : <a href="{{ evenement.url }}">{{ evenement.data.title }}</a>.
+Notre <strong>prochain événement</strong> aura lieu <strong>{{ evenement.date | displayDate }}</strong> : <a href="{{ evenement.url }}">{{ evenement.data.title }}</a>.
   {% if evenement.data.form_url %}
 <strong>Pour vous inscrire :</strong> <a href="{{ evenement.data.form_url }}">{{ evenement.data.form_url }}</a>
   {% endif %}
-<hr>
 {% endif %}
 
 Retrouvez tous nos événements, futurs et passés, sur [la page qui leur est consacrée](/evenements/).
