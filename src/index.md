@@ -20,7 +20,7 @@ Notre <strong>prochain événement</strong> aura lieu <strong>{{ evenement.date 
   {% endif %}
 {% endif %}
 
-Retrouvez tous nos événements, futurs et passés, sur [la page qui leur est consacrée](/evenements/).
+Retrouvez tous nos événements sur [la page qui leur est consacrée](/evenements/).
 
 Pour plus de renseignements, [contactez-nous](/contact/).
 
