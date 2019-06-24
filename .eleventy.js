@@ -173,6 +173,12 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/files");
   eleventyConfig.addPassthroughCopy("src/fonts");
 
+  /* Forestry instant previews */
+  if(process.env.ELEVENTY_ENV == "staging") {
+    eleventyConfig.setBrowserSyncConfig({
+      host: "0.0.0.0"
+    });
+
   return {
     passthroughFileCopy: true,
     dir: {
@@ -184,4 +190,4 @@ module.exports = function(eleventyConfig) {
     htmlTemplateEngine: "njk",
     markdownTemplateEngine: "njk"
   };
-};
+}
