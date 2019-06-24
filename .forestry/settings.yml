@@ -36,6 +36,8 @@ instant_preview: true
 build:
   preview_command: gulp build
   publish_command: gulp build
+  preview_env:
+  - JEKYLL_ENV=staging
   publish_env:
   - JEKYLL_ENV=production
   preview_output_directory: dist
