@@ -40,8 +40,8 @@ build:
   - ELEVENTY_ENV=staging
   publish_env:
   - JEKYLL_ENV=production
-  preview_output_directory: dist
+  preview_output_directory: _site
   output_directory: dist
-  instant_preview_command: yarn start
+  instant_preview_command: 'npx eleventy --serve '
   preview_docker_image: node:10
   mount_path: "/srv"
