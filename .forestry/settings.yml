@@ -36,12 +36,10 @@ instant_preview: true
 build:
   preview_command: gulp build
   publish_command: gulp build
-  preview_env:
-  - BUILD_DIR=dist
   publish_env:
   - JEKYLL_ENV=production
   preview_output_directory: dist
   output_directory: dist
   instant_preview_command: yarn start
-  preview_docker_image: nodejs:10
+  preview_docker_image: node:10
   mount_path: "/srv"
