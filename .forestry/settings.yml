@@ -42,6 +42,6 @@ build:
   - JEKYLL_ENV=production
   preview_output_directory: _site
   output_directory: dist
-  instant_preview_command: 'npx eleventy --serve '
+  instant_preview_command: yarn start
   preview_docker_image: node:10
   mount_path: "/srv"
