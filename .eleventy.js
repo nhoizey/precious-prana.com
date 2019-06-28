@@ -13,14 +13,10 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.addFilter("displayDate", function(date) {
-    console.error(
-      DateTime.fromJSDate(date, { zone: "Europe/Paris" })
-        .setLocale("fr")
-        .toLocaleString(DateTime.DATE_FULL)
-    );
-    return DateTime.fromJSDate(date, { zone: "Europe/Paris" })
+    let fullDate = DateTime.fromJSDate(date, { zone: "Europe/Paris" })
       .setLocale("fr")
-      .toLocaleString(DateTime.DATE_FULL)
+      .toLocaleString(DateTime.DATE_FULL);
+    let fullDateForNetlify = fullDate
       .replace(/([0-9]{4}) (M[0-9]{2}) ([0-9]{1,2})/, "$3 $2 $1")
       .replace(/M01/, "janvier")
       .replace(/M02/, "février")
@@ -34,6 +30,7 @@ module.exports = function(eleventyConfig) {
       .replace(/M10/, "octobre")
       .replace(/M11/, "novembre")
       .replace(/M12/, "décembre");
+    return fullDateForNetlify;
   });
 
   // https://www.11ty.io/docs/quicktips/inline-css/
