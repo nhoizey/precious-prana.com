@@ -13,6 +13,11 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.addFilter("displayDate", function(date) {
+    console.error(
+      DateTime.fromJSDate(date, { zone: "Europe/Paris" })
+        .setLocale("fr")
+        .toLocaleString(DateTime.DATE_FULL)
+    );
     return DateTime.fromJSDate(date, { zone: "Europe/Paris" })
       .setLocale("fr")
       .toLocaleString(DateTime.DATE_FULL)
