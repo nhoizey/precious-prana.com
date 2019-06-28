@@ -21,7 +21,7 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(date, { zone: "Europe/Paris" })
       .setLocale("fr")
       .toLocaleString(DateTime.DATE_FULL)
-      .replace(/([0-9]{4}) (M[0-9]{2}) ([0-9]{2})/, "$3 $2 $1")
+      .replace(/([0-9]{4}) (M[0-9]{2}) ([0-9]{1,2})/, "$3 $2 $1")
       .replace(/M01/, "janvier")
       .replace(/M02/, "février")
       .replace(/M03/, "mars")
