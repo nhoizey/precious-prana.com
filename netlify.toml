@@ -23,6 +23,11 @@
   to = "/interviews/veronique-mansart/"
   status = 301
 
+[[redirects]]
+  from = "/evenements/2019/06/27/atelier-savourez-les-bons-moments/"
+  to = "/evenements/2019/07/02/atelier-savourez-les-bons-moments/"
+  status = 301
+
 [[headers]]
   for = "/*"
   [headers.values]

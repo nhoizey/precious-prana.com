@@ -1,9 +1,9 @@
 ---
 title: Atelier Savourez les bons moments
-date: 2019-06-27
+date: 2019-07-02
 form_url: http://bit.ly/PreciousPrana-savourerlesbonsmoments
 show_homepage: true
-poster: "/images/2019-06-27-atelier-savourer-les-bons-moments.png"
+poster: "/images/2019-07-02-atelier-savourer-les-bons-moments.png"
 
 ---
 **Envie de bien profiter de vos moments, de les savourer et non de passer à côté et le regretter ?**
