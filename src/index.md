@@ -14,7 +14,7 @@ navorder: 1
   {% if evenement.data.poster %}
 {% poster src=evenement.data.poster, alt="{{ evenement.data.title }} le {{ evenement.date | displayDate }}, par Precious Prana", zoom="true" %}
   {% endif %}
-Notre <strong>prochain événement</strong> aura lieu <strong>{{ evenement.date | displayDate }}</strong> : <a href="{{ evenement.url }}">{{ evenement.data.title }}</a>.
+Notre <strong>prochain événement</strong> aura lieu le <strong>{{ evenement.date | displayDate }}</strong> : <a href="{{ evenement.url }}">{{ evenement.data.title }}</a>.
   {% if evenement.data.form_url %}
 <strong>Pour vous inscrire :</strong> <a href="{{ evenement.data.form_url }}">{{ evenement.data.form_url }}</a>
   {% endif %}
