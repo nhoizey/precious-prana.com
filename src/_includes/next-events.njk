@@ -2,7 +2,7 @@
 Il n'y a pour l'instant **aucun événement programmé**. Revenez ici très prochainement, ou abonnez-vous à <a href="https://facebook.com/preciousprana" class="facebook">notre page Facebook</a> pour ne pas rater nos prochains événements.
 {% else %}
 
-<div class="next clearfix">
+<div class="next">
 {% set evenement = events | first %}
 {% if evenement.data.poster %}
   {% poster src = evenement.data.poster,
