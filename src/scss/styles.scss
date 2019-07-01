@@ -360,3 +360,32 @@ footer {
   line-height: 1.2;
   color: $brand-green;
 }
+
+.next {
+  margin: 2em 0;
+  padding: 1em;
+  background: linear-gradient(
+    to bottom,
+    lighten($brand-yellow-light, 15%) 0%,
+    lighten($brand-yellow-light, 20%) 80%,
+    #fff 100%
+  );
+  border-radius: 0.5em;
+
+  p {
+    margin: 0;
+  }
+
+  p + p {
+    margin-top: 1em;
+  }
+}
+
+// http://nicolasgallagher.com/micro-clearfix-hack/
+.clearfix {
+  &::after {
+    content: " ";
+    display: table;
+    clear: both;
+  }
+}
