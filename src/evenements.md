@@ -17,5 +17,6 @@ navorder: 3
   {%- for evenement in collections.evenements_passes | reverse -%}
     <dt>{{ evenement.date | displayDate }}</dt>
     <dd><a href="{{ evenement.url }}">{{ evenement.data.title }}</a></dd>
+    {% if evenement.data.teaser %}<dd><p>{{ evenement.data.teaser }}</p></dd>{% endif %}
   {%- endfor -%}
 </dl>

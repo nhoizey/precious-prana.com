@@ -14,6 +14,10 @@ templateEngineOverride: njk, md
   src = poster,
   alt = posterAlt,
   zoom = true %}
-
 {% endif %}
+
+{% if teaser %}
+  <p class="intro">{{ teaser }}</p>
+{% endif %}
+
 {{ content | safe }}

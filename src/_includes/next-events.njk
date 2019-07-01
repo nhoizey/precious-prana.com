@@ -11,6 +11,9 @@ Il n'y a pour l'instant **aucun événement programmé**. Revenez ici très proc
 {% endif %}
 Notre <strong>prochain événement</strong> aura lieu le <strong>{{ evenement.date | displayDate }}</strong> :
 <a href="{{ evenement.url }}">{{ evenement.data.title }}</a>.
+{% if evenement.data.teaser %}
+  <p>{{ evenement.data.teaser }}</p>
+{% endif %}
 {% if evenement.data.form_url %}
   <strong>Pour vous inscrire :</strong>
   <a href="{{ evenement.data.form_url }}">{{ evenement.data.form_url }}</a>

@@ -3,11 +3,10 @@ title: Atelier auto-massage shiatsu
 poster: "/images/2019-02-19-atelier-auto-massage-shiatsu.png"
 date: 2019-02-19
 show_homepage: true
+teaser: "Plus qu'un massage, le shiatsu est un massage traditionnel japonais qui utilise les points d’acupressions. Par ce biais, on intervient sur plusieurs plans : physique, mental, émotionnel, relation et on peut permettre à son corps de trouver des manières de s’autoguérir."
 ---
 
-Lors de ce premier atelier qui a eu lieu le 19 février 2019, nous avons découvert l’auto massage Shiatsu, afin de vous revitaliser et re-énergiser l’ensemble du corps :
-
-Plus qu'un massage, le shiatsu est un massage traditionnel japonais qui utilise les points d’acupressions. Par ce biais, on intervient sur plusieurs plans : physique, mental, émotionnel, relation et on peut permettre à son corps de trouver des manières de s’autoguérir.
+Lors de ce premier atelier qui a eu lieu le 19 février 2019, nous avons découvert l’auto massage Shiatsu, afin de vous revitaliser et re-énergiser l’ensemble du corps.
 
 Notre intervenante, Véronique Mansart, est masseur kinésithérapeute depuis 30 ans, et praticienne de shiatsu depuis 10 ans (Certifiée par la F.F.S.T. et membre de l'U.F.P.S.T.) et elle s’est toujours intéressée à l'autre par le travail sur le corps.
 
