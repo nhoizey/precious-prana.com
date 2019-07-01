@@ -16,23 +16,6 @@ fields:
 - type: text
   name: title
   label: Titre
-- name: poster
-  type: file
-  config:
-    maxSize: 10
-  label: Poster
-- type: text
-  name: form_url
-  label: Inscription
-- name: moodboard
-  type: file
-  config:
-    maxSize: 10
-  label: Moodboard
-- name: show_homepage
-  type: boolean
-  label: Show on homepage?
-  default: true
 - name: teaser
   type: textarea
   default: ''
@@ -43,3 +26,20 @@ fields:
       format: markdown
   label: Teaser
   description: Will be displayed in event lists and on top of even pages
+- name: poster
+  type: file
+  config:
+    maxSize: 10
+  label: Poster
+- type: text
+  name: form_url
+  label: Inscription
+- name: show_homepage
+  type: boolean
+  label: Show on homepage?
+  default: true
+- name: moodboard
+  type: file
+  config:
+    maxSize: 10
+  label: Moodboard
