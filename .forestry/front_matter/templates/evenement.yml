@@ -33,3 +33,13 @@ fields:
   type: boolean
   label: Show on homepage?
   default: true
+- name: teaser
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Teaser
+  description: Will be displayed in event lists and on top of even pages
