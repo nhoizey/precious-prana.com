@@ -23,7 +23,7 @@ body {
   font-family: roboto, sans-serif;
   font-display: swap;
   font-weight: 300;
-  line-height: 1.8;
+  line-height: 1.5;
   font-size: calc(0.9rem + 1vw);
   @media screen and (min-width: 55rem) {
     font-size: 1.45rem; //calc(0.9rem + 55 / 100 * 1 * 1rem);
@@ -167,10 +167,6 @@ a:active {
 
 a[href^="mailto:"]::before {
   content: "✉️ ";
-}
-
-dd {
-  margin-bottom: 1em;
 }
 
 figure {
@@ -357,7 +353,6 @@ footer {
 
 .intro {
   font-size: 1.1em;
-  line-height: 1.2;
   color: $brand-green;
 }
 
