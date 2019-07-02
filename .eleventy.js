@@ -1,41 +1,20 @@
 const { DateTime } = require("luxon");
-const CleanCSS = require("clean-css");
+const cleanCSS = require("clean-css");
+
+const plainDate = require("./src/_filters/plain-date.js");
+const permalinkDate = require("./src/_filters/permalink-date.js");
 
 module.exports = function(eleventyConfig) {
   // ------------------------------------------------------------------------
   // Filters
   // ------------------------------------------------------------------------
 
-  eleventyConfig.addFilter("permalinkDate", function(date) {
-    return DateTime.fromJSDate(date, { zone: "Europe/Paris" }).toFormat(
-      "yyyy/LL/dd"
-    );
-  });
-
-  eleventyConfig.addFilter("displayDate", function(date) {
-    let fullDate = DateTime.fromJSDate(date, { zone: "Europe/Paris" })
-      .setLocale("fr")
-      .toLocaleString(DateTime.DATE_FULL);
-    let fullDateForNetlify = fullDate
-      .replace(/([0-9]{4}) (M[0-9]{2}) ([0-9]{1,2})/, "$3 $2 $1")
-      .replace(/M01/, "janvier")
-      .replace(/M02/, "février")
-      .replace(/M03/, "mars")
-      .replace(/M04/, "avril")
-      .replace(/M05/, "mai")
-      .replace(/M06/, "juin")
-      .replace(/M07/, "juillet")
-      .replace(/M08/, "août")
-      .replace(/M09/, "septembre")
-      .replace(/M10/, "octobre")
-      .replace(/M11/, "novembre")
-      .replace(/M12/, "décembre");
-    return fullDateForNetlify;
-  });
+  eleventyConfig.addFilter("plainDate", plainDate);
+  eleventyConfig.addFilter("permalinkDate", permalinkDate);
 
   // https://www.11ty.io/docs/quicktips/inline-css/
   eleventyConfig.addFilter("cssmin", function(code) {
-    return new CleanCSS({}).minify(code).styles;
+    return new cleanCSS({}).minify(code).styles;
   });
 
   // ------------------------------------------------------------------------

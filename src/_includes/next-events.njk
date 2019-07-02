@@ -6,10 +6,10 @@
 {% set evenement = events | first %}
 {% if evenement.data.poster %}
   {% poster src = evenement.data.poster,
-  alt = "{{ evenement.data.title }} le {{ evenement.date | displayDate }}, par Precious Prana",
+  alt = "{{ evenement.data.title }} le {{ evenement.date | plainDate }}, par Precious Prana",
   zoom = "true" %}
 {% endif %}
-<p>Notre <strong>prochain événement</strong> aura lieu le <strong>{{ evenement.date | displayDate }}</strong> :<br />
+<p>Notre <strong>prochain événement</strong> aura lieu le <strong>{{ evenement.date | plainDate }}</strong> :<br />
 <a href="{{ evenement.url }}">{{ evenement.data.title }}</a>.</p>
 {% if evenement.data.teaser %}
   <p>{{ evenement.data.teaser }}</p>
@@ -31,7 +31,7 @@
 <dl>
   {%- for evenement in events -%}
   {%- if not loop.first -%}
-    <h3>{{ evenement.date | displayDate }}</h3>
+    <h3>{{ evenement.date | plainDate }}</h3>
     <p><a href="{{ evenement.url }}">{{ evenement.data.title }}</a></p>
     {% if evenement.data.teaser %}<p>{{ evenement.data.teaser }}</p>{% endif %}
   {%- endif -%}
