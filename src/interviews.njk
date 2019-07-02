@@ -1,0 +1,14 @@
+---
+title: Interviews
+layout: layouts/base.njk
+---
+
+<h1>Interviews des intervenantes</h1>
+
+<ul>
+  {%- for interview in collections.interviews -%}
+    <li>
+      <a href="{{ interview.url }}">{{ interview.data.title }}</a>
+    </li>
+  {%- endfor -%}
+</ul>

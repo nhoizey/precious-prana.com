@@ -1,5 +1,5 @@
 {% if events.length == 0 %}
-Il n'y a pour l'instant **aucun événement programmé**. Revenez ici très prochainement, ou abonnez-vous à <a href="https://facebook.com/preciousprana" class="facebook">notre page Facebook</a> pour ne pas rater nos prochains événements.
+<p>Il n'y a pour l'instant **aucun événement programmé**. Revenez ici très prochainement, ou abonnez-vous à <a href="https://facebook.com/preciousprana" class="facebook">notre page Facebook</a> pour ne pas rater nos prochains événements.</p>
 {% else %}
 
 <div class="next">
@@ -9,32 +9,31 @@ Il n'y a pour l'instant **aucun événement programmé**. Revenez ici très proc
   alt = "{{ evenement.data.title }} le {{ evenement.date | displayDate }}, par Precious Prana",
   zoom = "true" %}
 {% endif %}
-Notre <strong>prochain événement</strong> aura lieu le <strong>{{ evenement.date | displayDate }}</strong> :
-<a href="{{ evenement.url }}">{{ evenement.data.title }}</a>.
+<p>Notre <strong>prochain événement</strong> aura lieu le <strong>{{ evenement.date | displayDate }}</strong> :<br />
+<a href="{{ evenement.url }}">{{ evenement.data.title }}</a>.</p>
 {% if evenement.data.teaser %}
   <p>{{ evenement.data.teaser }}</p>
 {% endif %}
 {% if evenement.data.form_url %}
-  <strong>Pour vous inscrire :</strong>
-  <a href="{{ evenement.data.form_url }}">{{ evenement.data.form_url }}</a>
+  <p><strong>Pour vous inscrire :</strong>
+  <a href="{{ evenement.data.form_url }}">{{ evenement.data.form_url }}</a></p>
 {% endif %}
 </div>
 
 {% if events.length > 1 %}
 
 {% if events.length > 2 %}
-## Autres événements à venir
+<h2>Autres événements à venir</h2>
 {% else %}
-## Autre événement à venir
+<h2>Autre événement à venir</h2>
 {% endif %}
 
 <dl>
   {%- for evenement in events -%}
   {%- if not loop.first -%}
-    <dt>{{ evenement.date | displayDate }}</dt>
-    <dd>
-      <a href="{{ evenement.url }}">{{ evenement.data.title }}</a>
-    </dd>
+    <h3>{{ evenement.date | displayDate }}</h3>
+    <p><a href="{{ evenement.url }}">{{ evenement.data.title }}</a></p>
+    {% if evenement.data.teaser %}<p>{{ evenement.data.teaser }}</p>{% endif %}
   {%- endif -%}
   {%- endfor -%}
 </dl>

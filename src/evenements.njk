@@ -1,0 +1,20 @@
+---
+title: Événements
+layout: layouts/base.njk
+tags:
+  - navigation
+navorder: 3
+---
+
+<h1>Événements</h1>
+
+{% set events = collections.evenements_futurs %}
+{% include "next-events.njk" %}
+
+<h2>Événements précédents</h2>
+
+{%- for evenement in collections.evenements_passes | reverse -%}
+  <h3>{{ evenement.date | displayDate }}</h3>
+  <p><a href="{{ evenement.url }}">{{ evenement.data.title }}</a></p>
+  {% if evenement.data.teaser %}<p>{{ evenement.data.teaser }}</p>{% endif %}
+{%- endfor -%}
