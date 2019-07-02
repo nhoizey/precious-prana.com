@@ -3,31 +3,6 @@
   publish = "dist"
   NODE_ENV = "8.9.0"
 
-[[redirects]]
-  from = "/evenements/2019/03/28/atelier-journal-creatif/interview-maud-carroue-bisval/"
-  to = "/interviews/maud-carroue-bisval/"
-  status = 301
-
-[[redirects]]
-  from = "/evenements/2019/03/28/interview-de-maud-carroue-bisval/"
-  to = "/interviews/maud-carroue-bisval/"
-  status = 301
-
-[[redirects]]
-  from = "/evenements/2019/05/21/interview-de-marie-duhammel/"
-  to = "/interviews/marie-duhammel/"
-  status = 301
-
-[[redirects]]
-  from = "/evenements/2019/06/18/interview-de-veronique-mansart/"
-  to = "/interviews/veronique-mansart/"
-  status = 301
-
-[[redirects]]
-  from = "/evenements/2019/06/27/atelier-savourez-les-bons-moments/"
-  to = "/evenements/2019/07/02/atelier-savourez-les-bons-moments/"
-  status = 301
-
 [[headers]]
   for = "/*"
   [headers.values]
