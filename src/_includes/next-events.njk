@@ -1,43 +1,49 @@
 {% if events.length == 0 %}
-<p>Il n'y a pour l'instant **aucun événement programmé**. Revenez ici très prochainement, ou abonnez-vous à <a href="https://facebook.com/preciousprana" class="facebook">notre page Facebook</a> pour ne pas rater nos prochains événements.</p>
+  <p>Il n'y a pour l'instant <strong>aucun événement programmé</strong>. Revenez ici très prochainement, ou abonnez-vous à <a href="https://facebook.com/preciousprana" class="facebook">notre page Facebook</a> pour ne pas rater nos prochains événements.</p>
 {% else %}
 
-<div class="next">
-{% set evenement = events | first %}
-{% if evenement.data.poster %}
-  {% poster src = evenement.data.poster,
-  alt = "{{ evenement.data.title }} le {{ evenement.date | plainDate }}, par Precious Prana",
-  zoom = "true" %}
-{% endif %}
-<p>Notre <strong>prochain événement</strong> aura lieu le <strong>{{ evenement.date | plainDate }}</strong> :<br />
-<a href="{{ evenement.url }}">{{ evenement.data.title }}</a>.</p>
-{% if evenement.data.teaser %}
-  <p>{{ evenement.data.teaser }}</p>
-{% endif %}
-{% if evenement.data.form_url %}
-  <p><strong>Pour vous inscrire :</strong>
-  <a href="{{ evenement.data.form_url }}">{{ evenement.data.form_url }}</a></p>
-{% endif %}
-</div>
+  <div class="next">
+    {% set evenement = events | first %}
+    {% if evenement.data.poster %}
+      {% poster src = evenement.data.poster,
+      alt = "{{ evenement.data.title }} le {{ evenement.date | plainDate }}, par Precious Prana",
+      zoom = "true" %}
+    {% endif %}
+    <p>Notre <strong>prochain événement</strong> aura lieu le <strong>{{ evenement.date | plainDate }}</strong> :<br />
+      <a href="{{ evenement.url }}">{{ evenement.data.title }}</a>.</p>
+    {% if evenement.data.teaser %}
+      <p>{{ evenement.data.teaser }}</p>
+    {% endif %}
+    {% if evenement.data.form_url %}
+      <p>
+        <strong>Pour vous inscrire :</strong>
+        <a href="{{ evenement.data.form_url }}">{{ evenement.data.form_url }}</a>
+      </p>
+    {% endif %}
+  </div>
 
-{% if events.length > 1 %}
+  {% if events.length > 1 %}
 
-{% if events.length > 2 %}
-<h2>Autres événements à venir</h2>
-{% else %}
-<h2>Autre événement à venir</h2>
-{% endif %}
+    {% if events.length > 2 %}
+      <h2>Autres événements à venir</h2>
+    {% else %}
+      <h2>Autre événement à venir</h2>
+    {% endif %}
 
-<dl>
-  {%- for evenement in events -%}
-  {%- if not loop.first -%}
-    <h3>{{ evenement.date | plainDate }}</h3>
-    <p><a href="{{ evenement.url }}">{{ evenement.data.title }}</a></p>
-    {% if evenement.data.teaser %}<p>{{ evenement.data.teaser }}</p>{% endif %}
-  {%- endif -%}
-  {%- endfor -%}
-</dl>
+    <dl>
+      {%- for evenement in events -%}
+        {%- if not loop.first -%}
+          <h3>{{ evenement.date | plainDate }}</h3>
+          <p>
+            <a href="{{ evenement.url }}">{{ evenement.data.title }}</a>
+          </p>
+          {% if evenement.data.teaser %}
+            <p>{{ evenement.data.teaser }}</p>
+          {% endif %}
+        {%- endif -%}
+      {%- endfor -%}
+    </dl>
 
-{% endif %}
+  {% endif %}
 
 {% endif %}
