@@ -18,4 +18,4 @@ Retrouvez tous nos événements sur [la page qui leur est consacrée](/evenement
 
 Pour plus de renseignements, [contactez-nous](/contact/).
 
-{% image src="/images/woman-blowing-glitters-on-her-hands.jpg", caption="© Oleg Magni", zoom=false %}
+{% image src="/images/woman-blowing-glitters-on-her-hands.jpg", alt="Woman blowing glitters on her hands", caption="© Oleg Magni", zoom=false %}
