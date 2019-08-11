@@ -63,7 +63,7 @@ strong {
   a:visited {
     display: inline-block;
     width: 100%;
-    padding: 0.1em 0.3em;
+    padding: calc(0.1em + 0.5vw) 0.3em;
     text-decoration: none;
     color: #fff;
   }
