@@ -36,7 +36,8 @@ module.exports = function(eleventyConfig) {
       ${cloudinaryPrefix}w_800/${imageUrl} 800w,
       ${cloudinaryPrefix}w_1024/${imageUrl} 1024w"
     sizes="${sizes}"
-    ${image.alt ? `alt="${image.alt}"` : ""} />
+    ${image.alt ? `alt="${image.alt}"` : ""}
+    ${image.width ? `width="${image.width}"` : ""} />
   <figcaption>
   ${image.caption ? `<p>${image.caption}</p>` : ""}
   ${
