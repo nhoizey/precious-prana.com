@@ -28,7 +28,7 @@ module.exports = function(eleventyConfig) {
 
     return `<figure class="${cssClass}" ${
       image.width && image.height
-        ? `style="width: ${image.width}; --aspect-ratio: ${image.width /
+        ? `style="width: ${image.width}px; --aspect-ratio: ${image.width /
             image.height}"`
         : ""
     }>
