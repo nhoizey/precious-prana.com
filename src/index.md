@@ -13,6 +13,8 @@ Precious Prana est une communauté de bien-être qui permet aux mères actives d
 
 Pendant les vacances d'été, nous n'organisons pas d'atelier. Nous allons pétiller avec famille et amis(e)s. Puis nous vous préparons une rentrée avec plein de propositions pour vous faire pétiller également.
 
+{% image src="/images/2019-07-precious-prana-summer.png", alt="Les conseils Precious Prana pour profiter de l'été" %}
+
 Retrouvez tous nos événements sur [la page qui leur est consacrée](/evenements/).
 
 Pour plus de renseignements, [contactez-nous](/contact/).
