@@ -30,11 +30,27 @@ module.exports = function(eleventyConfig) {
   <img
     src="${cloudinaryPrefix}w_360/${imageUrl}"
     srcset="
-      ${cloudinaryPrefix}w_360/${imageUrl} 360w,
-      ${cloudinaryPrefix}w_480/${imageUrl} 480w,
-      ${cloudinaryPrefix}w_640/${imageUrl} 640w,
-      ${cloudinaryPrefix}w_800/${imageUrl} 800w,
-      ${cloudinaryPrefix}w_1024/${imageUrl} 1024w"
+  ${cloudinaryPrefix}w_360/${imageUrl} 360w
+  ${
+    !image.width || image.width >= 480
+      ? `, ${cloudinaryPrefix}w_480/${imageUrl} 480w`
+      : ""
+  }
+  ${
+    !image.width || image.width >= 640
+      ? `, ${cloudinaryPrefix}w_640/${imageUrl} 640w`
+      : ""
+  }
+  ${
+    !image.width || image.width >= 800
+      ? `, ${cloudinaryPrefix}w_800/${imageUrl} 800w`
+      : ""
+  }
+  ${
+    !image.width || image.width >= 1024
+      ? `, ${cloudinaryPrefix}w_1024/${imageUrl} 1024w`
+      : ""
+  }"
     sizes="${sizes}"
     ${image.alt ? `alt="${image.alt}"` : ""}
     ${image.width ? `width="${image.width}"` : ""} />
