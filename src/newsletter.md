@@ -19,7 +19,7 @@ Abonnez-vous à notre newsletter en renseignant les informations ci-après :
 #mc_embed_signup input[type=checkbox]{-webkit-appearance:checkbox;}
 #mc_embed_signup input[type=radio]{-webkit-appearance:radio;}
 #mc_embed_signup input:focus {border-color:#333;}
-#mc_embed_signup .button {clear:both; background-color: #aaa; border: 0 none; border-radius:4px; transition: all 0.23s ease-in-out 0s; color: #FFFFFF; cursor: pointer; display: inline-block; font-size:15px; font-weight: normal; height: 32px; line-height: 32px; margin: 0 5px 10px 0; padding: 0 22px; text-align: center; text-decoration: none; vertical-align: top; white-space: nowrap; width: auto;}
+#mc_embed_signup .button {clear:both; background-color: #aaa; border: 0 none; border-radius:4px; transition: all 0.23s ease-in-out 0s; color: #FFFFFF; cursor: pointer; display: inline-block; font-size:1.2em; font-weight: normal; height: 32px; line-height: 32px; margin: 0 5px 10px 0; padding: 0 22px; text-align: center; text-decoration: none; vertical-align: top; white-space: nowrap; width: auto;}
 #mc_embed_signup .button:hover {background-color:#777;}
 #mc_embed_signup .small-meta {font-size: 11px;}
 #mc_embed_signup .nowrap {white-space:nowrap;}
@@ -37,7 +37,7 @@ Abonnez-vous à notre newsletter en renseignant les informations ci-après :
 #mc_embed_signup .datefield .monthfield input, #mc_embed_signup .datefield .dayfield input{width:30px;}
 #mc_embed_signup .datefield label, #mc_embed_signup .phonefield-us label{display:none;}
 
-#mc_embed_signup .indicates-required {text-align:right; font-size:11px; margin-right:4%;}
+#mc_embed_signup .indicates-required {text-align:right; font-size:.8em; margin-right:4%;}
 #mc_embed_signup .asterisk {color:#e85c41; font-size:150%; font-weight:normal; position:relative; top:5px;}     
 #mc_embed_signup .clear {clear:both;}
 
@@ -63,8 +63,9 @@ Abonnez-vous à notre newsletter en renseignant les informations ci-après :
 #mc_embed_signup {
   background:#fff;
   clear:left;
-  font:14px Helvetica,Arial,sans-serif;
-  max-width: 40em;
+  /* font:14px Helvetica,Arial,sans-serif; */
+  font-size: .9em;
+  max-width: 35em;
   margin: 0 auto;
 }
 #mc-embedded-subscribe-form input[type=checkbox] {
@@ -102,7 +103,7 @@ Abonnez-vous à notre newsletter en renseignant les informations ci-après :
 </div>
 <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
     <div class="content__gdpr">
-        <p>Veuillez choisir comment vous souhaitez avoir des nouvelles de Precious Prana:</p>
+        <p>Veuillez choisir comment vous souhaitez avoir des nouvelles de Precious Prana :</p>
         <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
 		<label class="checkbox subfield" for="gdpr_32153"><input type="checkbox" id="gdpr_32153" name="gdpr[32153]" value="Y" class="av-checkbox gdpr"><span>E-mail</span> </label><label class="checkbox subfield" for="gdpr_32157"><input type="checkbox" id="gdpr_32157" name="gdpr[32157]" value="Y" class="av-checkbox gdpr"><span>SMS</span> </label>
         </fieldset>
