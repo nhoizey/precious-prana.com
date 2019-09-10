@@ -28,7 +28,7 @@ Abonnez-vous à notre newsletter en renseignant les informations ci-après :
 #mc_embed_signup .size1of2 {clear:none; float:left; display:inline-block; width:46%; margin-right:4%;}
 * html #mc_embed_signup .size1of2 {margin-right:2%; /* Fix for IE6 double margins. */}
 #mc_embed_signup .mc-field-group label {display:block; margin-bottom:3px;}
-#mc_embed_signup .mc-field-group input {display:block; width:100%; padding:8px 0; text-indent:2%;}
+#mc_embed_signup .mc-field-group input {display:block; width:100%; padding:8px 0; text-indent:2%; font-size:1em;}
 #mc_embed_signup .mc-field-group select {display:inline-block; width:99%; padding:5px 0; margin-bottom:2px;}
 
 #mc_embed_signup .datefield, #mc_embed_signup .phonefield-us{padding:5px 0;}
