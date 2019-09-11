@@ -44,4 +44,4 @@ Rendez-vous mardi 17 septembre à Brunoy, à 19h30.
 
 **Inscription :** [https://bit.ly/rire-et-petiller](https://bit.ly/rire-et-petiller)
 
-{% image src="/images/smile-yellow-plush-toy-pixabay.jpg", alt="Two yellow plush toys smiling", title="Crédits photo: Smile Yellow Plush Toy, Pixabay", width=6000, height=4000 %}
+{% image src="/images/pixabay-smile-yellow-plush-toy.jpg", alt="Two yellow plush toys smiling", title="Crédits photo: Smile Yellow Plush Toy, Pixabay", width=6000, height=4000 %}
