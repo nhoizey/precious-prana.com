@@ -20,7 +20,7 @@ Bien entendu, toujours dans l'ambiance de Precious Prana avec le moment « coco
 
 ## Le Yoga du Rire, ca fait quoi ?
 
-{% image_third src="/images/yoga-du-rire-logo-officiel.jpg", alt="Yoga du Rire", width="2598" %}
+{% image_third src="/images/yoga-du-rire-logo-officiel.jpg", alt="Yoga du Rire", width=2598 %}
 
 En quelques mots ces avantages :
 
@@ -44,4 +44,4 @@ Rendez-vous mardi 17 septembre à Brunoy, à 19h30.
 
 **Inscription :** [https://bit.ly/rire-et-petiller](https://bit.ly/rire-et-petiller)
 
-{% image src="/images/smile-yellow-plush-toy-pixabay.jpg", alt="Two yellow plush toys smiling", title="Crédits photo: Smile Yellow Plush Toy, Pixabay" %}
+{% image src="/images/smile-yellow-plush-toy-pixabay.jpg", alt="Two yellow plush toys smiling", title="Crédits photo: Smile Yellow Plush Toy, Pixabay", width=6000, height=4000 %}
