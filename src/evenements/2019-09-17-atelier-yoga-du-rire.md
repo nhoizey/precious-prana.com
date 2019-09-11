@@ -5,6 +5,7 @@ form_url: https://bit.ly/rire-et-petiller
 show_homepage: true
 poster: "/images/2019-09-17-atelier-yoga-du-rire.jpg"
 teaser: "Pour arrêter le stress, activer les hormones du bonheur, prendre du recul."
+moodboard: ""
 ---
 
 Vous vouliez une rentrée dans la joie, vous voulez rire ? C'est possible avec notre atelier du 17 septembre à Brunoy.
@@ -17,7 +18,7 @@ Precious Prana vous le propose, avec un atelier autour du Rire: le Yoga du rire.
 
 Bien entendu, toujours dans l'ambiance de Precious Prana avec le moment « cocon » du partage et le buffet par la suite, pour se retrouver et voir comment faire perdurer les bienfaits.
 
-{% image_third src="/images/yoga-du-rire-logo-officiel.png", alt="Yoga du Rire", width="141" %}
+{% image_third src="/images/yoga-du-rire-logo-officiel.jpg", alt="Yoga du Rire", width="2598" %}
 
 ## Le Yoga du Rire, ca fait quoi ?
 
