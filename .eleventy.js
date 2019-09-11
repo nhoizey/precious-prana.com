@@ -63,9 +63,7 @@ module.exports = function(eleventyConfig) {
   ${image.caption ? `<p>${image.caption}</p>` : ""}
   ${
     image.zoom
-      ? `<p class="zoom">&#128269;&nbsp;<a href="${
-          image.src
-        }" target="_blank">zoomer</a></p>`
+      ? `<p class="zoom">&#128269;&nbsp;<a href="${image.src}" target="_blank">zoomer</a></p>`
       : ""
   }
   </figcaption>
@@ -79,9 +77,13 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addNunjucksShortcode("image_half", function(image) {
     return genericImage(
       image,
-      "halfwidth",
+      "onehalf",
       "(min-width: 66rem) 30rem, (min-width: 40rem) 45vw, 90vw"
     );
+  });
+
+  eleventyConfig.addNunjucksShortcode("image_third", function(image) {
+    return genericImage(image, "onethird", "(min-width: 66rem) 20rem, 30vw");
   });
 
   eleventyConfig.addNunjucksShortcode("poster", function(image) {
