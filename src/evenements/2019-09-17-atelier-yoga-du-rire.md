@@ -17,7 +17,7 @@ Precious Prana vous le propose, avec un atelier autour du Rire: le Yoga du rire.
 
 Bien entendu, toujours dans l'ambiance de Precious Prana avec le moment « cocon » du partage et le buffet par la suite, pour se retrouver et voir comment faire perdurer les bienfaits.
 
-{% image_third src="/images/yoga-du-rire-logo-officiel.png", alt="Yoga du Rire" %}
+{% image_third src="/images/yoga-du-rire-logo-officiel.png", alt="Yoga du Rire", width="141" %}
 
 ## Le Yoga du Rire, ca fait quoi ?
 
