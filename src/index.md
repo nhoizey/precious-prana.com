@@ -41,7 +41,7 @@ Retrouvez tous nos événements sur [la page qui leur est consacrée](/evenement
 
 Precious Prana vous accompagne aussi avec des ateliers plus spécifiques, tel que le co-développement, la gestion du stress et le mind-mapping (carte mentale). Ces ateliers peuvent se faire en entreprise, ou sur demande en groupe et espaces de co-working. Pour en savoir plus, [contactez nous directement](/contact/).
 
-## Nos conseils pour l'été continuent à s'appliquer
+## Retrouvez nos conseils pour pétiller
 
 {% image src="/images/conseils-precious-prana-pour-petiller.png", alt="Les conseils Precious Prana pour pétiller", zoom=true, width=800, height=1200 %}
 
