@@ -19,7 +19,7 @@ Nous avons concocté **des ateliers pour faire perdurer les bienfaits de l'été
 
 ## Mardi 17 septembre : Yoga du Rire
 
-Pour arrêter le stress, activer les hormones du bonheur, prendre du recul. Et à **prix de rentrée**. [En savoir plus sur l'atelier Yoga du Rire de la rentrée]()
+Pour arrêter le stress, activer les hormones du bonheur, prendre du recul. Et à **prix de rentrée**. [En savoir plus sur l'atelier Yoga du Rire de la rentrée](/evenements/2019/09/17/atelier-yoga-du-rire/)
 
 ## Mardi 2 octobre : Auto-massage Shiatsu
 
