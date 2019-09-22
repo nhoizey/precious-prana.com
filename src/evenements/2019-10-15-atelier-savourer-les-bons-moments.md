@@ -1,5 +1,5 @@
 ---
-title: Atelier Savourez les bons moments
+title: Atelier Savourer les bons moments
 date: 2019-10-15
 form_url: https://bit.ly/savourerlesbonsmoments-automne
 show_homepage: true
