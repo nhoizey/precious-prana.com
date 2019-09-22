@@ -18,6 +18,6 @@ Et, comme d'habitude, un buffet et moment de partage.
 
 L’atelier sera animé par Jacqueline Oud, Fondatrice de Precious Prana.
 
-**Inscription :** [http://bit.ly/PreciousPrana-savourerlesbonsmoments](http://bit.ly/PreciousPrana-savourerlesbonsmoments)
+**Inscription :** <https://bit.ly/PreciousPrana-savourerlesbonsmoments>
 
 {% image src="/images/illustrations/photography-of-woman-surrounded-by-sunflowers-andre-furtado.jpg" %}

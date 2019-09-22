@@ -42,6 +42,6 @@ Pour vraiment vous faire du bien en cette rentrée, je propose cet atelier Yoga 
 
 Rendez-vous mardi 17 septembre à Brunoy, à 19h30.
 
-**Inscription :** [https://bit.ly/rire-et-petiller](https://bit.ly/rire-et-petiller)
+**Inscription :** <https://bit.ly/rire-et-petiller>
 
 {% image src="/images/illustrations/pixabay-smile-yellow-plush-toy.jpg", alt="Two yellow plush toys smiling", title="Crédits photo: Smile Yellow Plush Toy, Pixabay", width=6000, height=4000 %}
