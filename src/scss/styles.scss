@@ -66,6 +66,7 @@ strong {
     padding: calc(0.1em + 0.5vw) 0.3em;
     text-decoration: none;
     color: #fff;
+    text-shadow: $brand-green 1px 1px 3px;
   }
 
   .active a:link,
@@ -265,7 +266,8 @@ blockquote {
 
 .cta {
   text-align: center;
-  margin: 2em 0;
+  margin: 1em 0;
+  padding: 1em 0;
 
   a:link,
   a:visited {
@@ -278,13 +280,13 @@ blockquote {
     );
     color: #fff;
     text-decoration: none;
-    transition: 0.3s ease-in-out;
-    border-radius: 0.3rem;
-    box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
-    text-shadow: #333 1px 1px 1px;
+    transition: 0.1s ease-in-out;
+    border-radius: 0.5rem;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3), 0 6px 6px rgba(0, 0, 0, 0.22);
+    text-shadow: $brand-green 1px 1px 3px;
 
     &:hover {
-      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+      box-shadow: 0 5px 10px rgba(0, 0, 0, 0.19), 0 3px 3px rgba(0, 0, 0, 0.23);
       transform: scale(0.95);
     }
   }

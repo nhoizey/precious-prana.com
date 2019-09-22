@@ -21,8 +21,6 @@ C’est l’occasion pour choisir une façon efficace pour être en forme cet au
 
 Rendez-vous le mardi 1er octobre, dans notre espace **à Brunoy, de 19h à 21h30**.
 
-**Inscription :** <https://bit.ly/Preciousprana-shiatsu-automne>
-
 ## Vous hésitez ?
 
 Voyez [le moodboard et les retours des participantes](/evenements/2019/02/19/atelier-auto-massage-shiatsu/#le-moodboard-et-les-retours-des-participantes) d'un précédent atelier d'auto-massage shiatsu.

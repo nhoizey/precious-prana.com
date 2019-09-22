@@ -16,8 +16,6 @@ Mieux encore : on vous apprend aussi les astuces pour faire perdurer les bienfai
 
 **Nouveau lieu :** Radio Cocottes, à Draveil.
 
-**Inscription :** <https://bit.ly/savourerlesbonsmoments-automne>
-
 Et, comme d'habitude, un buffet et moment de partage.
 
 L’atelier sera animé par Jacqueline Oud, Fondatrice de Precious Prana.

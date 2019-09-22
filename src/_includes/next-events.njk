@@ -15,9 +15,8 @@
       <p>{{ evenement.data.teaser }}</p>
     {% endif %}
     {% if evenement.data.form_url %}
-      <p>
-        <strong>Pour vous inscrire :</strong>
-        <a href="{{ evenement.data.form_url }}">{{ evenement.data.form_url }}</a>
+      <p class="cta">
+        <a href="{{ evenement.data.form_url }}">Inscrivez-vous</a>
       </p>
     {% endif %}
   </div>

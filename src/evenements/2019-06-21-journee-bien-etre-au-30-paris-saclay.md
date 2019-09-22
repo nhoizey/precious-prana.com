@@ -1,6 +1,7 @@
 ---
 title: Journée bien-être au «30», Paris Saclay
 poster: "/images/2019-06-21-journee-bien-etre-au-30-paris-saclay.jpg"
+form_url: https://www.eventbrite.fr/e/billets-journee-bien-etre-atelier-et-conferences-bien-etre-et-sante-au-travail-62978076121
 moodboard: ''
 date: 2019-06-21
 show_homepage: false
@@ -14,8 +15,6 @@ Cette journée a été co-organisée avec [Precious Prana](https://precious-pran
 Venez voir les entrepreneurs, et profitez-en pour rencontrer Precious Prana.
 
 Voici [la **présentation** des intervenants sur le site de Paris Saclay (en PDF)](http://www.paris-saclay.com/fileadmin/images/actualites/Presentation_intervenants_journee_bien-etre.pdf).
-
-**Inscription :** [sur cette page Eventbrite](https://www.eventbrite.fr/e/billets-journee-bien-etre-atelier-et-conferences-bien-etre-et-sante-au-travail-62978076121).
 
 Nous sommes contents de faire partie de cette aventure. 😃
 
