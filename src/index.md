@@ -17,11 +17,7 @@ La rentrée est bien en route, les vacances semblent déjà loin ? Alors, on d�
 
 Nous avons concocté **des ateliers pour faire perdurer les bienfaits de l'été**, toujours dans notre esprit de communauté et moment de cocon :
 
-## Mardi 17 septembre : Yoga du Rire
-
-Pour arrêter le stress, activer les hormones du bonheur, prendre du recul. Et à **prix de rentrée**. [En savoir plus sur l'atelier Yoga du Rire de la rentrée](/evenements/2019/09/17/atelier-yoga-du-rire/)
-
-## Mardi 2 octobre : Auto-massage Shiatsu
+## Mardi 1er octobre : [Auto-massage Shiatsu](/evenements/2019/10/01/atelier-auto-massage-shiatsu/)
 
 Pour activer les énergies spécifiques de l'automne, pour rester en forme.
 
