@@ -21,7 +21,7 @@ Cet atelier était orienté spécifiquement sur la préparation de votre corps �
 Note : si besoin, les participantes ont la possibilité de redemander une copie de la feuille d’exercices.
 :::
 
-Le moodboard :  
+## Le moodboard et les retours des participantes
 
 {% image src="/images/2019-02-19-moodboard-shiatsu.jpg", alt="Moodboard de l'atelier auto-massage shiatsu du 19 février 2019, par Precious Prana", zoom="true" %}
 
