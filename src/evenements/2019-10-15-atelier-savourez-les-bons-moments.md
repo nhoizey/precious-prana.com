@@ -14,6 +14,8 @@ Mieux encore : on vous apprend aussi les astuces pour faire perdurer les bienfai
 
 **Au programme :** des exercices ludiques, des explications et études, des exemples, des jeux et des échanges.
 
+**Nouveau lieu :** Radio Cocottes, à Draveil.
+
 **Inscription :** <https://bit.ly/savourerlesbonsmoments-automne>
 
 Et, comme d'habitude, un buffet et moment de partage.
