@@ -9,8 +9,11 @@
       alt = "{{ evenement.data.title }} le {{ evenement.date | plainDate }}, par Precious Prana",
       zoom = "true" %}
     {% endif %}
-    <p>Notre <strong>prochain événement</strong> aura lieu le <strong>{{ evenement.date | plainDate }}</strong> :<br />
-      <a href="{{ evenement.url }}">{{ evenement.data.title }}</a>.</p>
+    <p>
+      <strong>Prochain événement</strong> le <strong>{{ evenement.date | plainDate }}</strong> :</p>
+    <h2>
+      <a href="{{ evenement.url }}">{{ evenement.data.title }}</a>
+    </h2>
     {% if evenement.data.teaser %}
       <p>{{ evenement.data.teaser }}</p>
     {% endif %}

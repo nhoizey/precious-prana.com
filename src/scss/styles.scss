@@ -407,6 +407,10 @@ footer {
   border: 1px solid lighten($brand-yellow-light, 15%);
   border-radius: 0.5em;
 
+  h2 {
+    margin: 1rem 0;
+  }
+
   p {
     margin: 0;
   }
