@@ -11,7 +11,7 @@ navorder: 1
 Precious Prana est une communauté de bien-être qui permet aux mères actives de se ressourcer, de savoir auto-gérer leur énergie et réussir l'équilibre entre vie personnelle, professionnelle et familiale.
 </p>
 
-{% image_third src="/images/woman-blowing-glitters-on-her-hands.jpg", alt="Woman blowing glitters on her hands, © Oleg Magni", zoom=false %}
+{% image_third src="/images/illustrations/woman-blowing-glitters-on-her-hands.jpg", alt="Woman blowing glitters on her hands, © Oleg Magni", zoom=false %}
 
 La rentrée est bien en route, les vacances semblent déjà loin ? Alors, on décide de continuer à profiter, de vivre bien, de faire perdurer les bons moments des vacances. On continue de pétiller et on a les outils pratiques pour rester acteur de notre vie et gérer notre équilibre entre vie perso et vie pro.
 
