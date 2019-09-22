@@ -25,7 +25,7 @@ Pour activer les énergies spécifiques de l'automne, pour rester en forme.
 
 Pour apprendre les techniques, en direct, pour faire perdurer les bons moments et pétiller un max.
 
-## Jeudi 17 octobre : Osez sa voix
+## Jeudi 17 octobre : Oser la voix
 
 Pour tirer les avantages de sa voix, dé-stresser, s'exprimer, s'imposer (et sans complexes).
 
