@@ -21,7 +21,7 @@ Nous avons concocté **des ateliers pour faire perdurer les bienfaits de l'été
 
 Pour activer les énergies spécifiques de l'automne, pour rester en forme.
 
-## Mardi 15 octobre : [Savourer les bons moments](/evenements/2019/10/15/atelier-savourez-les-bons-moments/)
+## Mardi 15 octobre : [Savourer les bons moments](/evenements/2019/10/15/atelier-savourer-les-bons-moments/)
 
 Pour apprendre les techniques, en direct, pour faire perdurer les bons moments et pétiller un max.
 

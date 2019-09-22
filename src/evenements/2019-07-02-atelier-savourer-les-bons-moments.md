@@ -1,5 +1,5 @@
 ---
-title: Atelier Savourez les bons moments
+title: Atelier Savourer les bons moments
 date: 2019-07-02
 form_url: http://bit.ly/PreciousPrana-savourerlesbonsmoments
 show_homepage: true
@@ -22,4 +22,4 @@ L’atelier sera animé par Jacqueline Oud, Fondatrice de Precious Prana.
 
 ## Le moodboard
 
-{% image src="/images/moodboards/2019-07-02-atelier-savourer-les-bons-moments.jpg", alt="Moodboard de l'atelier « Savourez les bons moments » du 2 juillet 2019, par Precious Prana", zoom="true" %}
+{% image src="/images/moodboards/2019-07-02-atelier-savourer-les-bons-moments.jpg", alt="Moodboard de l'atelier « Savourer les bons moments » du 2 juillet 2019, par Precious Prana", zoom="true" %}
