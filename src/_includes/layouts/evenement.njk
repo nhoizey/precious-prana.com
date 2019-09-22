@@ -20,4 +20,16 @@ templateEngineOverride: njk, md
   <p class="intro">{{ teaser }}</p>
 {% endif %}
 
+{% if form_url %}
+  <p class="cta">
+    <a href="{{ form_url }}">Inscrivez-vous</a>
+  </p>
+{% endif %}
+
 {{ content | safe }}
+
+{% if form_url %}
+  <p class="cta">
+    <a href="{{ form_url }}">Inscrivez-vous</a>
+  </p>
+{% endif %}

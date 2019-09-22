@@ -260,6 +260,37 @@ blockquote {
 }
 
 // ------------------------------------------------------------------------
+// CTA: Call To Action link
+// ------------------------------------------------------------------------
+
+.cta {
+  text-align: center;
+  margin: 2em 0;
+
+  a:link,
+  a:visited {
+    display: inline-block;
+    padding: 0.3em 1em;
+    background: linear-gradient(
+      335deg,
+      $brand-green 0%,
+      $brand-green-light 100%
+    );
+    color: #fff;
+    text-decoration: none;
+    transition: 0.3s ease-in-out;
+    border-radius: 0.3rem;
+    box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
+    text-shadow: #333 1px 1px 1px;
+
+    &:hover {
+      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+      transform: scale(0.95);
+    }
+  }
+}
+
+// ------------------------------------------------------------------------
 // Mardown-it containers
 //
 // ::: note
