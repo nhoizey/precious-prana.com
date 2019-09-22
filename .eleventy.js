@@ -3,6 +3,7 @@ const cleanCSS = require("clean-css");
 
 const plainDate = require("./src/_filters/plain-date.js");
 const permalinkDate = require("./src/_filters/permalink-date.js");
+const future = require("./src/_filters/future.js");
 
 module.exports = function(eleventyConfig) {
   // ------------------------------------------------------------------------
@@ -11,6 +12,7 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addFilter("plainDate", plainDate);
   eleventyConfig.addFilter("permalinkDate", permalinkDate);
+  eleventyConfig.addFilter("future", future);
 
   // https://www.11ty.io/docs/quicktips/inline-css/
   eleventyConfig.addFilter("cssmin", function(code) {
