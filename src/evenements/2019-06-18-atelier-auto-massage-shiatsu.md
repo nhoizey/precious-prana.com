@@ -32,4 +32,4 @@ Envie de savoir comment s’est passé l’atelier précédent d’auto-massage 
 
 **Inscription :** <http://bit.ly/precious-prana-auto-massage-juin>
 
-{% image src="/images/canva-red-and-yellow-flower-par-veeterzy-recadre.jpg", alt="" %}
+{% image src="/images/illustrations/canva-red-and-yellow-flower-par-veeterzy-recadre.jpg", alt="" %}
