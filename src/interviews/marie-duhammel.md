@@ -47,10 +47,3 @@ Pour conserver la santé il faut mettre en place une bonne hygiène de vie, s’
 Avoir dans la mesure du possible une activité professionnelle qui vous plaise, pas trop loin de chez vous qui vous laisse du temps pour votre famille, votre conjoint, vos amis et pour VOUS.
 
 Quand la femme se sent bien elle est généreuse… tout le monde est gagnant.
-
----
-
-Rendez-vous le [mardi 21 mai pour l’atelier Precious Prana Aromathérapie](/evenements/2019/05/21/atelier-aromatherapie/) avec Marie Duhammel.
-
-A très bientôt,
-Jacqueline

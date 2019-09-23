@@ -121,9 +121,3 @@ Car comment aider les personnes qui t’entoure si toi-même tu n’es pas nourr
 
 Avec le journal créatif je t’offre cette possibilité !
 
-Rendez-vous le [jeudi 28 mars pour l’atelier Precious Prana Journal Créatif](/evenements/2019/03/28/atelier-journal-creatif/) avec Maud Carroué-Bisval.
-
-Inscriptions sur <http://bit.ly/JournalCreatif-PreciousPrana>
-
-A très bientôt,
-Jacqueline

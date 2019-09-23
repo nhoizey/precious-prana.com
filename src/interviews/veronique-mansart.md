@@ -3,9 +3,7 @@ title: Véronique Mansart
 subtitle: intervenante auto-massage shiatsu
 ---
 
-Véronique Mansart animera l'[atelier auto-massage shiatsu du 18 juin](/evenements/2019/06/18/atelier-auto-massage-shiatsu/).
-
-**Inscription :** <https://bit.ly/precious-prana-auto-massage-juin>
+Véronique Mansart a animé l'[atelier auto-massage shiatsu du 18 juin](/evenements/2019/06/18/atelier-auto-massage-shiatsu/).
 
 ## Comment vous décrivez-vous ?
 
