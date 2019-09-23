@@ -21,7 +21,7 @@ Et, comme d'habitude, un buffet et moment de partage.
 L’atelier sera animé par Jacqueline Oud, Fondatrice de Precious Prana.
 
 ::: note
-Envie de revoir l’atelier « Savourer les bons moments » de juillet ? Découvrez [le moodboard de l'atelier](/evenements/2019/07/02/atelier-savourer-les-bons-moments/#le-moodboard-et-les-retours-des-participantes).
+Envie de revoir l’atelier « Savourer les bons moments » de juillet ? Découvrez [le moodboard de l'atelier et les retours des participantes](/evenements/2019/07/02/atelier-savourer-les-bons-moments/#le-moodboard-et-les-retours-des-participantes).
 :::
 
 {% image src="/images/illustrations/photography-of-woman-surrounded-by-sunflowers-andre-furtado.jpg" %}
