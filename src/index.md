@@ -27,7 +27,9 @@ Pour apprendre les techniques, en direct, pour faire perdurer les bons moments e
 
 ## Jeudi 17 octobre : Oser la voix
 
-Pour tirer les avantages de sa voix, dé-stresser, s'exprimer, s'imposer (et sans complexes).
+Pour tirer les avantages de sa voix, dé-stresser, s'exprimer, s'imposer (et sans complexes). Retrouvez [l'interview de l'intervenante Claire Aschehoug](/interviews/claire-aschehoug.html).
+
+---
 
 Avec ces ateliers, vous aurez toutes les billes pour passer de l'été à l'automne, avec la dose d'énergie nécessaire pour être acteur de votre vie. Et en cas de doutes, revenez à nos conseils ci-dessous.
 
