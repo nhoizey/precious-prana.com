@@ -15,9 +15,9 @@ J’accompagne les particuliers ou les entreprises pour une expression orale per
 
 ## À quel moment avez-vous décidé de suivre cette voie ?
 
-{% image_third src="/images/logo-label-voix.png", alt="Label Voix" %}
 Le chant a toujours été pour moi une source de plaisir. Pourtant ce n’est qu’à 25 ans que je démarrai sérieusement ma formation musicale et vocale. En parallèle, le chant choral me permit de trouver une place dans la société, à un moment où ayant choisi d’élever mes 3 enfants, je n’avais plus d’activité professionnelle. Cette expérience de recherche d’harmonie à travers le chant et la musique m’apprit beaucoup sur moi et mes semblables, et sur le plaisir de partager avec un public le fruit d’un travail collectif.
 
+{% image_third src="/images/logo-label-voix.png", alt="Label Voix", class="noborder" %}
 Après 10 ans en agence de communication, j’ai voulu associer ma passion pour le chant et mon expérience de formatrice. Pour agrandir mon champ d’action, j’ai choisi de me former à 52 ans au métier de coach professionnel.
 
 ## Quelle est votre routine bien-être ou beauté ?
