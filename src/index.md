@@ -29,8 +29,6 @@ Pour apprendre les techniques, en direct, pour faire perdurer les bons moments e
 
 Pour tirer les avantages de sa voix, dé-stresser, s'exprimer, s'imposer (et sans complexes). Retrouvez [l'interview de l'intervenante Claire Aschehoug](/interviews/claire-aschehoug.html).
 
----
-
 Avec ces ateliers, vous aurez toutes les billes pour passer de l'été à l'automne, avec la dose d'énergie nécessaire pour être acteur de votre vie. Et en cas de doutes, revenez à nos conseils ci-dessous.
 
 Retrouvez tous nos événements sur [la page qui leur est consacrée](/evenements/).
