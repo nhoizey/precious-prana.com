@@ -4,7 +4,7 @@ title: Yoga du Rire
 
 ## Historique
 
-Le Yoga du rire est un concept novateur né d’un médecin indien exerçant à Mumbay (Inde). Convaincu par les dernières études scientifiques montrant les effets sur la santé physique et mentale, il lance, en Inde, le premier club de Yoga du Rire dans un parc le 13 mars 1995, avec seulement une poignée de personnes. Aujourd’hui, le phénomène est planétaire et des milliers de pratiquants de Yoga du Rire sont recensés dans plus de 108 pays (2018). Le Yoga du Rire s’impose par sa facilité à installer un bien-être complet chez ses pratiquants, les particuliers et les professionnels, mêmes débutants.
+Le Yoga du Rire est un concept novateur né d’un médecin indien exerçant à Mumbay (Inde). Convaincu par les dernières études scientifiques montrant les effets sur la santé physique et mentale, il lance, en Inde, le premier club de Yoga du Rire dans un parc le 13 mars 1995, avec seulement une poignée de personnes. Aujourd’hui, le phénomène est planétaire et des milliers de pratiquants de Yoga du Rire sont recensés dans plus de 108 pays (2018). Le Yoga du Rire s’impose par sa facilité à installer un bien-être complet chez ses pratiquants, les particuliers et les professionnels, mêmes débutants.
 
 ## Fondement
 
@@ -26,7 +26,13 @@ On peut donc lister les bienfaits suivants :
 - Arrête le mental (on ne pense plus à autre chose)
 - Rapproche avec les autres
 
+Regardez un court extrait en vidéo :
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CTE2uGTJrRw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Pour plus d’informations :
+
+{% image_third src="/images/yoga-du-rire-logo-officiel.jpg", alt="Yoga du Rire", width=2598 %}
 
 - Jacqueline Oud, animatrice agréée formée par l’Institut Français du Yoga du Rire
 - <https://www.formation-yogadurire.fr/>
