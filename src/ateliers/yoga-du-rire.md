@@ -30,8 +30,7 @@ Regardez un court extrait en vidéo :
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CTE2uGTJrRw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Pour plus d’informations :
-
+## Pour plus d’informations
 {% image_third src="/images/yoga-du-rire-logo-officiel.jpg", alt="Yoga du Rire", width=2598 %}
 
 - Jacqueline Oud, animatrice agréée formée par l’Institut Français du Yoga du Rire
