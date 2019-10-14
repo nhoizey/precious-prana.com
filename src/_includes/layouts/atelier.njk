@@ -1,0 +1,12 @@
+---
+layout: layouts/base.njk
+tags: ateliers
+templateEngineOverride: njk, md
+---
+
+<h1>{{ title }}</h1>
+{% if teaser %}
+  <p class="intro">{{ teaser }}</p>
+{% endif %}
+
+{{ content | safe }}

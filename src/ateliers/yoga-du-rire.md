@@ -1,0 +1,32 @@
+---
+title: Yoga du Rire
+---
+
+## Historique
+
+Le Yoga du rire est un concept novateur né d’un médecin indien exerçant à Mumbay (Inde). Convaincu par les dernières études scientifiques montrant les effets sur la santé physique et mentale, il lance, en Inde, le premier club de Yoga du Rire dans un parc le 13 mars 1995, avec seulement une poignée de personnes. Aujourd’hui, le phénomène est planétaire et des milliers de pratiquants de Yoga du Rire sont recensés dans plus de 108 pays (2018). Le Yoga du Rire s’impose par sa facilité à installer un bien-être complet chez ses pratiquants, les particuliers et les professionnels, mêmes débutants.
+
+## Fondement
+
+Techniquement, le Yoga du Rire est une combinaison judicieuse de rires sans raison favorisant les respirations profondes (prana). N’importe qui peut ainsi rire, sans recourir à l’humour ou à des blagues. Est privilégié un rire simple, dans un premier temps abordé comme un exercice corporel, en groupe, et qui va se transformer rapidement en rire réel et contagieux. Le concept est basé sur un fait scientifique démontré par les neurosciences : « le corps ne fait pas la différence entre un rire spontané et un rire simulé ». On obtient même des avantages physiologiques et psychologiques bien supérieurs !
+
+## Bienfaits
+
+La science confirme que la pratique du Yoga du Rire augmente la longévité et combat les maladies liées au stress. Ajoutons qu’il réduit le risque de troubles psychologiques et physiologiques, d’hypertension et de problèmes cardiaques. Mieux encore, il apporte dynamisme et optimisme, et encourage chacun à mieux aborder la vie en générale. C’est aussi un chemin vers le bonheur et permet de forger un mental positif pour faire face aux aléas du quotidien. Appliqué en contexte professionnel, il élève la performance individuelle et collective.
+
+On peut donc lister les bienfaits suivants :
+
+- Détruit le stress et libère les tensions
+- Améliore la qualité du sommeil
+- Lutte contre la douleur
+- Renforce notre système immunitaire
+- Facilite la digestion
+- Installe rapide de la bonne humeur
+- Renforce des idées positives
+- Arrête le mental (on ne pense plus à autre chose)
+- Rapproche avec les autres
+
+Pour plus d’informations :
+
+- Jacqueline Oud, animatrice agréée formée par l’Institut Français du Yoga du Rire
+- <https://www.formation-yogadurire.fr/>
