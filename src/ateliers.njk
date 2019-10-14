@@ -3,11 +3,13 @@ title: Ateliers
 layout: layouts/base.njk
 ---
 
-<h1>{{ title }}</h1>
+<h1>Ateliers</h1>
 
 {%- for atelier in collections.ateliers -%}
-  <h2>{{ atelier.title }}</h2>
+  <h2>{{ atelier.data.title }}</h2>
   {% if atelier.data.teaser %}
     <p>{{ atelier.data.teaser }}</p>
   {% endif %}
+  <p>En savoir plus sur l'<a href="{{ atelier.url }}">atelier {{ atelier.data.title }}</a>
+  </p>
 {%- endfor -%}
