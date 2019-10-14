@@ -1,6 +1,8 @@
 ---
 title: Véronique Mansart
 subtitle: intervenante auto-massage shiatsu
+ateliers:
+  - auto-massage-shiatsu
 ---
 
 Véronique Mansart a animé l'[atelier auto-massage shiatsu du 18 juin](/evenements/2019/06/18/atelier-auto-massage-shiatsu/).

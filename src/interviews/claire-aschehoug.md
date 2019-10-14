@@ -1,6 +1,8 @@
 ---
 title: Claire Aschehoug
 subtitle: intervenante Oser la Voix
+ateliers:
+  - oser-la-voix
 ---
 
 {% image_half src="/images/portraits/claire-aschehoug.jpeg", alt="Claire Aschehoug, intervenante Oser la Voix", caption="Claire Aschehoug" %}

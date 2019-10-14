@@ -4,6 +4,8 @@ poster: /images/2019-05-21-atelier-aromatherapie.jpg
 date: 2019-05-21
 show_homepage: true
 teaser: "Envie de savoir utiliser les huiles essentielles pour le relaxation, la gestion du stress, les rhumes et allergies et autres applications bien pratiques ?"
+ateliers:
+  - aromatherapie
 ---
 
 Venez à l'atelier Aromathérapie de Precious Prana avec Marie Duhammel Naturopathe, naturopathe formée à ISUPNAT.

@@ -6,6 +6,8 @@ show_homepage: true
 poster: "/images/2019-07-02-atelier-savourer-les-bons-moments.png"
 teaser: "Envie de bien profiter de vos moments, de les savourer et non de passer à côté et le regretter ?"
 moodboard: ""
+ateliers:
+  - savourer-les-bons-moments
 ---
 
 L'atelier "**Savourer les bons moments**" vous explique ce qui vous empêche de profiter à fond de vos moments, quelles sont les raisons de ces déceptions, et comment les éviter, pour être en forme et profiter des moments.
