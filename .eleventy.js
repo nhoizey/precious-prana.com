@@ -181,12 +181,13 @@ module.exports = function(eleventyConfig) {
       .use(markdownItContainer, "note")
   );
 
-  eleventyConfig.addPassthroughCopy("src/files");
-  eleventyConfig.addPassthroughCopy("src/fonts");
-  eleventyConfig.addPassthroughCopy("src/images");
-  eleventyConfig.addPassthroughCopy("src/_redirects");
-  eleventyConfig.addPassthroughCopy("src/404.html");
-  eleventyConfig.addPassthroughCopy("src/favicon.ico");
+  eleventyConfig
+    .addPassthroughCopy("src/files")
+    .addPassthroughCopy("src/fonts")
+    .addPassthroughCopy("src/images")
+    .addPassthroughCopy("src/_redirects")
+    .addPassthroughCopy("src/404.html")
+    .addPassthroughCopy("src/favicon.ico");
 
   /* Forestry instant previews */
   if (process.env.ELEVENTY_ENV == "staging") {
