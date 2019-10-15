@@ -5,6 +5,7 @@ date: 2019-10-01
 form_url: https://bit.ly/Preciousprana-shiatsu-automne
 show_homepage: true
 teaser: "L’automne approche et la fatigue, les rhumes et autres ne tardent pas à se manifester. Même la pluie est là pour baisser notre moral et énergie. Une séance d’auto-massage shiatsu vous apprend comment vous masser sur les méridiens d’automne, faire circuler votre énergie et rester en forme. Prenez soin de vous, vous le méritez bien !"
+location: espace-evolution
 ateliers:
   - auto-massage-shiatsu
 ---

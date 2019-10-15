@@ -6,6 +6,7 @@ show_homepage: true
 poster: "/images/evenements/2019-10-15-atelier-savourer-les-bons-moments.jpg"
 teaser: "Envie de bien profiter de vos moments, de les savourer et non de passer à côté et le regretter ?"
 moodboard: ""
+location: radio-cocottes
 ateliers:
   - savourer-les-bons-moments
 ---

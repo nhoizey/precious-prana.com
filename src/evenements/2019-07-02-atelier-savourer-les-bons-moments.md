@@ -6,6 +6,7 @@ show_homepage: true
 poster: "/images/2019-07-02-atelier-savourer-les-bons-moments.png"
 teaser: "Envie de bien profiter de vos moments, de les savourer et non de passer à côté et le regretter ?"
 moodboard: ""
+location: espace-evolution
 ateliers:
   - savourer-les-bons-moments
 ---

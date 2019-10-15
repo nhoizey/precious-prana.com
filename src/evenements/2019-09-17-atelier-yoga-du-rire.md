@@ -6,6 +6,7 @@ show_homepage: true
 poster: "/images/2019-09-17-atelier-yoga-du-rire.png"
 teaser: "Pour arrêter le stress, activer les hormones du bonheur, prendre du recul."
 moodboard: ""
+location: espace-evolution
 ateliers:
   - yoga-du-rire
 ---
