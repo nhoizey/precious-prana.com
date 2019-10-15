@@ -26,6 +26,7 @@ tags: ateliers
             {{ evenement.data.date | plainDate }}
             {% if evenement.data.date | future %}
             </strong>
+            <span class="hint">prochainement !</span>            
           {% endif %}
         </dt>
         <dd>
