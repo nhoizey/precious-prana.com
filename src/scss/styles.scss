@@ -154,6 +154,24 @@ dt {
   color: #666;
 }
 
+.meta {
+  color: #666;
+
+  dt, dd {
+    display: inline-block;
+    margin: 0;
+  }
+}
+
+.icon {
+  margin-right: .3em;
+  vertical-align: middle;
+  font-size: 1.3em;
+  width: 1em;
+  height: 1.25em;
+  fill: #999;
+}
+
 a:link,
 a:visited {
   color: $brand-blue;
