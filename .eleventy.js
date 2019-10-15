@@ -107,6 +107,12 @@ module.exports = function(eleventyConfig) {
     });
   });
 
+  eleventyConfig.addCollection("ateliers", function(collection) {
+    return collection.getFilteredByTag("ateliers").sort((a, b) => {
+      return a.data.title.localeCompare(b.data.title);
+    });
+  });
+
   eleventyConfig.addCollection("evenements_futurs", function(collection) {
     return collection.getFilteredByTag("evenements").filter(evenement => {
       return (
