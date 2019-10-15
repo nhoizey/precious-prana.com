@@ -31,8 +31,8 @@ tags: ateliers
         <dd>
           <a href="{{ evenement.url }}">{{ evenement.data.title }}</a>
         </dd>
-        <dd>
-          {{ locations[evenement.data.location].name }} à {{ locations[evenement.data.location].city }}
+        <dd class="location">
+          {{ locations[evenement.data.location].name }}, à {{ locations[evenement.data.location].city }}
         </dd>
       {% endif %}
     {% endif %}

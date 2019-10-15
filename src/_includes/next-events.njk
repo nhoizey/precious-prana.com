@@ -16,8 +16,9 @@ ici très prochainement, ou abonnez-vous à
     src = evenement.data.poster,
     alt = "{{ evenement.data.title }} le {{ evenement.date | plainDate }}, par Precious Prana ", zoom = " true " %}
 {% endif %}
-<p>Prochain événement <strong>le {{ evenement.date | plainDate }}</strong> :</p>
-<h2><a href="{{ evenement.url }}">{{ evenement.data.title }}</a></h2>
+<h2>Prochain événement <strong>le {{ evenement.date | plainDate }}</strong></h2>
+<h3><a href="{{ evenement.url }}">{{ evenement.data.title }}</a></h3>
+<p class="location">{{ locations[evenement.data.location].name }}, à {{ locations[evenement.data.location].city }}</p>
 {% if evenement.data.teaser %}
   <p>{{ evenement.data.teaser }}</p>
 {% endif %}
@@ -38,6 +39,7 @@ ici très prochainement, ou abonnez-vous à
 {%- if not loop.first -%}
   <h3>{{ evenement.date | plainDate }}</h3>
   <p><a href="{{ evenement.url }}">{{ evenement.data.title }}</a></p>
+  <p class="location">{{ locations[evenement.data.location].name }}, à {{ locations[evenement.data.location].city }}</p>
   {% if evenement.data.teaser %}<p>{{ evenement.data.teaser }}</p>{% endif %}
 {%- endif -%}
 
