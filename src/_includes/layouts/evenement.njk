@@ -4,16 +4,10 @@ tags: agenda
 ---
 
 <h1>{{ title }}</h1>
-<dl class="meta">
-  <div>
-    <dt><svg class="icon"><use xlink:href="#symbol-date" /></svg></dt>
-    <dd>{{ page.date | plainDate }}</dd>
-  </div>
-  <div>
-    <dt><svg class="icon"><use xlink:href="#symbol-map" /></svg></dt>
-    <dd>{{ locations[location].name }}, à {{ locations[location].city }}</dd>
-  </div>
-</dl>
+
+{% set date = page.date %}
+{% include "evenement-meta.njk" %}
+
 {% if poster %}
   {% set cloudinaryPrefix = "https://res.cloudinary.com/nho/image/fetch/c_fill,f_auto,q_auto," %}
   {% set posterAlt %}{{ title }} le {{ page.date | plainDate }}, par Precious Prana{% endset %}

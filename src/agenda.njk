@@ -14,11 +14,10 @@ navorder: 3
 <h2>Événements précédents</h2>
 
 {%- for evenement in collections.agenda_passe | reverse -%}
-  <h3>{{ evenement.date | plainDate }}</h3>
-  <p>
-    <a href="{{ evenement.url }}">{{ evenement.data.title }}</a>
-  </p>
-  <p class="location">{{ locations[evenement.data.location].name }}, à {{ locations[evenement.data.location].city }}</p>
+  <h3><a href="{{ evenement.url }}">{{ evenement.data.title }}</a></h3>
+  {% set date = evenement.date %}
+  {% set location = evenement.data.location %}
+  {% include "evenement-meta.njk" %}
   {% if evenement.data.teaser %}
     <p>{{ evenement.data.teaser }}</p>
   {% endif %}

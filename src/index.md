@@ -20,7 +20,7 @@ Nous avons concocté **des ateliers pour faire perdurer les bienfaits de l'été
 {% set events = collections.agenda_futur %}
 {% include "next-events.njk" %}
 
-Retrouvez tous nos événements sur [la page qui leur est consacrée](/evenements/).
+Retrouvez tous nos événements dans [la page agenda qui leur est consacrée](/agenda/).
 
 ## Et plus encore…
 

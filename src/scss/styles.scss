@@ -138,23 +138,10 @@ img {
 
 p {
   margin: 1em 0;
-
-  &.date {
-    color: #666;
-  }
-}
-
-dt {
-  margin: 1em 0 0;
-}
-
-.location {
-  font-size: 0.9em;
-  margin-top: 0;
-  color: #666;
 }
 
 .meta {
+  font-size: .8em;
   color: #666;
 
   dt, dd {
@@ -322,6 +309,8 @@ blockquote {
 
 .hint {
   display: inline-block;
+  font-size: .9em;
+  margin-left: .3em;
   padding: 0 0.3em;
   border-radius: 0.2em;
   background-color: $brand-orange;
