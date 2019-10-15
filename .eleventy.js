@@ -17,7 +17,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addFilter("safeDump", stringify);
 
   // https://www.11ty.io/docs/quicktips/inline-css/
-  eleventyConfig.addFilter("cssmin", function(code) {
+  eleventyConfig.addFilter("cssmin", code => {
     return new cleanCSS({}).minify(code).styles;
   });
 
