@@ -113,8 +113,8 @@ module.exports = function(eleventyConfig) {
     });
   });
 
-  eleventyConfig.addCollection("evenements_futurs", function(collection) {
-    return collection.getFilteredByTag("evenements").filter(evenement => {
+  eleventyConfig.addCollection("agenda_futur", function(collection) {
+    return collection.getFilteredByTag("agenda").filter(evenement => {
       return (
         DateTime.fromJSDate(evenement.date, {
           zone: "Europe/Paris"
@@ -125,10 +125,8 @@ module.exports = function(eleventyConfig) {
     });
   });
 
-  eleventyConfig.addCollection("evenements_futurs_homepage", function(
-    collection
-  ) {
-    return collection.getFilteredByTag("evenements").filter(evenement => {
+  eleventyConfig.addCollection("agenda_futur_homepage", function(collection) {
+    return collection.getFilteredByTag("agenda").filter(evenement => {
       return (
         (evenement.data.show_homepage === undefined ||
           evenement.data.show_homepage) &&
@@ -141,8 +139,8 @@ module.exports = function(eleventyConfig) {
     });
   });
 
-  eleventyConfig.addCollection("evenements_passes", function(collection) {
-    return collection.getFilteredByTag("evenements").filter(evenement => {
+  eleventyConfig.addCollection("agenda_passe", function(collection) {
+    return collection.getFilteredByTag("agenda").filter(evenement => {
       return (
         DateTime.fromJSDate(evenement.date, {
           zone: "Europe/Paris"

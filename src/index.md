@@ -17,7 +17,7 @@ La rentrée est bien en route, les vacances semblent déjà loin ? Alors, on d�
 
 Nous avons concocté **des ateliers pour faire perdurer les bienfaits de l'été**, toujours dans notre esprit de communauté et moment de cocon :
 
-{% set events = collections.evenements_futurs %}
+{% set events = collections.agenda_futur %}
 {% include "next-events.njk" %}
 
 Retrouvez tous nos événements sur [la page qui leur est consacrée](/evenements/).

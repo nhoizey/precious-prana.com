@@ -1,4 +1,0 @@
-{
-  "layout": "layouts/evenement.njk",
-  "permalink": "/evenements/{{ page.date | permalinkDate }}/{{ title | slug }}/"
-}

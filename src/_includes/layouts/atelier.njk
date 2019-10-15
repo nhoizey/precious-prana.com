@@ -11,7 +11,7 @@ tags: ateliers
 {{ content | safe }}
 
 {% set nbEvenements = 0 %}
-{%- for evenement in collections.evenements | reverse -%}
+{%- for evenement in collections.agenda | reverse -%}
   {% if evenement.data.ateliers %}
     {% if page.fileSlug in evenement.data.ateliers %}
       {% if nbEvenements == 0 %}
