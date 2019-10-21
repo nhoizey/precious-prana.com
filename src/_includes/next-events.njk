@@ -24,7 +24,9 @@ ici très prochainement, ou abonnez-vous à
 {% if evenement.data.teaser %}
   <p>{{ evenement.data.teaser }}</p>
 {% endif %}
-<p class="cta"><a href="{{ evenement.data.form_url }}">Inscrivez-vous</a></p>
+{% if evenement.data.form_url and evenement.date | future %}
+  <p class="cta"><a href="{{ evenement.data.form_url }}">Inscrivez-vous</a></p>
+{% endif %}
 </div>
 
 {% if events.length > 1 %}
