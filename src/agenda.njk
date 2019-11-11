@@ -18,7 +18,5 @@ navorder: 3
   {% set date = evenement.date %}
   {% set location = evenement.data.location %}
   {% include "evenement-meta.njk" %}
-  {% if evenement.data.teaser %}
-    <p>{{ evenement.data.teaser }}</p>
-  {% endif %}
+  {{ evenement.templateContent | excerpt | safe }}
 {%- endfor -%}

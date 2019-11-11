@@ -431,7 +431,7 @@ footer {
   }
 }
 
-.intro {
+.intro, .content > p:first-of-type {
   font-size: 1.1em;
   color: $brand-green;
 }

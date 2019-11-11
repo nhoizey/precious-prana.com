@@ -6,7 +6,7 @@ tags: blog
 <h1>{{ title }}</h1>
 
 {% set date = page.date %}
-{# {% include "article-meta.njk" %} #}
+{% include "billet-meta.njk" %}
 
 {% if poster %}
   {% set cloudinaryPrefix = "https://res.cloudinary.com/nho/image/fetch/c_fill,f_auto,q_auto," %}
@@ -18,4 +18,6 @@ tags: blog
   zoom = true %}
 {% endif %}
 
+<div class="content">
 {{ content | safe }}
+</div>

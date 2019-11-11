@@ -8,6 +8,8 @@ tags: agenda
 {% set date = page.date %}
 {% include "evenement-meta.njk" %}
 
+{% include "cta.njk" %}
+
 {% if poster %}
   {% set cloudinaryPrefix = "https://res.cloudinary.com/nho/image/fetch/c_fill,f_auto,q_auto," %}
   {% set posterAlt %}{{ title }} le {{ page.date | plainDate }}, par Precious Prana{% endset %}
@@ -18,12 +20,8 @@ tags: agenda
   zoom = true %}
 {% endif %}
 
-{% if teaser %}
-  <p class="intro">{{ teaser }}</p>
-{% endif %}
-
-{% include "cta.njk" %}
-
+<div class="content">
 {{ content | safe }}
+</div>
 
 {% include "cta.njk" %}

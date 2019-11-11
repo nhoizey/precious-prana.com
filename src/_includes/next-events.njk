@@ -21,9 +21,7 @@ ici très prochainement, ou abonnez-vous à
 {% set date = evenement.date %}
 {% set location = evenement.data.location %}
 {% include "evenement-meta.njk" %}
-{% if evenement.data.teaser %}
-  <p>{{ evenement.data.teaser }}</p>
-{% endif %}
+{{ evenement.templateContent | excerpt | safe }}
 {% if evenement.data.form_url and evenement.date | future %}
   <p class="cta"><a href="{{ evenement.data.form_url }}">Inscrivez-vous</a></p>
 {% endif %}
@@ -45,7 +43,7 @@ ici très prochainement, ou abonnez-vous à
   {% set date = evenement.date %}
   {% set location = evenement.data.location %}
   {% include "evenement-meta.njk" %}
-  {% if evenement.data.teaser %}<p>{{ evenement.data.teaser }}</p>{% endif %}
+  {{ evenement.templateContent | excerpt | safe }}
 {%- endif -%}
 
 {%- endfor -%}

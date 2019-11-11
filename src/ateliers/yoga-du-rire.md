@@ -1,7 +1,8 @@
 ---
 title: "Yoga du Rire"
-teaser: "Pour arrêter le stress, activer les hormones du bonheur, prendre du recul : participez à une séance de Yoga du Rire. Efficace même si vous pensez ne pas savoir rire !"
 ---
+
+Pour arrêter le stress, activer les hormones du bonheur, prendre du recul : participez à une séance de Yoga du Rire. Efficace même si vous pensez ne pas savoir rire !
 
 ## Historique
 

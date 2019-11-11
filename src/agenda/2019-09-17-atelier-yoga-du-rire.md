@@ -3,12 +3,13 @@ title: Atelier Yoga du Rire
 form_url: https://bit.ly/rire-et-petiller
 show_homepage: true
 poster: "/images/2019-09-17-atelier-yoga-du-rire.png"
-teaser: "Pour arrêter le stress, activer les hormones du bonheur, prendre du recul."
 moodboard: ""
 location: espace-evolution
 ateliers:
   - yoga-du-rire
 ---
+
+Pour arrêter le stress, activer les hormones du bonheur, prendre du recul.
 
 Vous vouliez une rentrée dans la joie, vous voulez rire ? C'est possible avec notre atelier du 17 septembre à Brunoy.
 

@@ -3,12 +3,13 @@ title: Atelier Savourer les bons moments
 form_url: "https://bit.ly/savourerlesbonsmoments-automne"
 show_homepage: true
 poster: "/images/evenements/2019-10-15-atelier-savourer-les-bons-moments.jpg"
-teaser: "Envie de bien profiter de vos moments, de les savourer et non de passer à côté et le regretter ?"
 moodboard: ""
 location: radio-cocottes
 ateliers:
   - savourer-les-bons-moments
 ---
+
+Envie de bien profiter de vos moments, de les savourer et non de passer à côté et le regretter ?
 
 L'atelier **« Savourer les bons moments »** vous explique ce qui vous empêche de profiter à fond de vos moments, quelles sont les raisons de ces déceptions, et comment les éviter, pour être en forme et profiter des moments.
 

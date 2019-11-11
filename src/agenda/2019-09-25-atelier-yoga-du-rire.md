@@ -1,15 +1,16 @@
 ---
 title: Atelier Yoga du Rire au « Trente », à Paris Saclay
-teaser: "L'atelier Yoga du Rire à l'espace de co-working « Le Trente » à Massy, fin septembre, a accompagné les entrepreneurs dans le lâcher-prise et la prise de recul. Ils sont repartis en voyant leurs défis sous un autre angle."
 show_homepage: false
 location: le-trente
 ateliers:
   - yoga-du-rire
 ---
 
+L'atelier Yoga du Rire à l'espace de co-working « Le Trente » à Massy, fin septembre, a accompagné les entrepreneurs dans le lâcher-prise et la prise de recul. Ils sont repartis en voyant leurs défis sous un autre angle.
+
 Regardez un court extrait en vidéo :
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CTE2uGTJrRw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% youtube id="CTE2uGTJrRw" %}
 
 Quelques réactions des participants :
 

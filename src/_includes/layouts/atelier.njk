@@ -4,11 +4,10 @@ tags: ateliers
 ---
 
 <h1>{{ title }}</h1>
-{% if teaser %}
-  <p class="intro">{{ teaser }}</p>
-{% endif %}
 
+<div class="content">
 {{ content | safe }}
+</div>
 
 {% set nbEvenements = 0 %}
 {%- for evenement in collections.agenda | reverse -%}
