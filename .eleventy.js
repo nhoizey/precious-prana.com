@@ -30,7 +30,7 @@ module.exports = function (eleventyConfig) {
 
   function genericImage(image, cssClass, sizes) {
     if (process.env.ELEVENTY_ENV === 'development') {
-      return `<img src="${image.src}" class="${cssClass}" />`;
+      return `<figure class="${cssClass}"><img src="${image.src}" sizes="${sizes}" /></figure>`;
     } else {
       const cloudinaryPrefix =
         "https://res.cloudinary.com/nho/image/fetch/c_fill,f_auto,q_auto,";
