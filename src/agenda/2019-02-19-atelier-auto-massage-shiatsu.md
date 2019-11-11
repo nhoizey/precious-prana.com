@@ -1,7 +1,6 @@
 ---
 title: Atelier auto-massage shiatsu
 poster: "/images/2019-02-19-atelier-auto-massage-shiatsu.png"
-date: 2019-02-19
 show_homepage: true
 teaser: "Plus qu'un massage, le shiatsu est un massage traditionnel japonais qui utilise les points d’acupressions. Par ce biais, on intervient sur plusieurs plans : physique, mental, émotionnel, relation et on peut permettre à son corps de trouver des manières de s’autoguérir."
 location: espace-evolution

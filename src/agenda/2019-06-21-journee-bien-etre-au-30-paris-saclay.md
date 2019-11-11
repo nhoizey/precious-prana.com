@@ -3,7 +3,6 @@ title: Journée bien-être au «30», Paris Saclay
 poster: "/images/2019-06-21-journee-bien-etre-au-30-paris-saclay.jpg"
 form_url: https://www.eventbrite.fr/e/billets-journee-bien-etre-atelier-et-conferences-bien-etre-et-sante-au-travail-62978076121
 moodboard: ''
-date: 2019-06-21
 show_homepage: false
 location: le-trente
 ---

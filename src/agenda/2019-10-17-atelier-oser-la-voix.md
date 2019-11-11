@@ -1,6 +1,5 @@
 ---
 title: "Atelier Oser la voix"
-date: 2019-10-17
 form_url: "https://bit.ly/oser-la-voix"
 show_homepage: true
 poster: "/images/evenements/2019-10-17-atelier-oser-la-voix.png"

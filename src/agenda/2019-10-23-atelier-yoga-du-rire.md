@@ -1,6 +1,5 @@
 ---
 title: "Atelier Yoga du Rire"
-date: 2019-10-23
 form_url:
 show_homepage: true
 poster: ""

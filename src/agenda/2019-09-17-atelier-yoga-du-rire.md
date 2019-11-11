@@ -1,6 +1,5 @@
 ---
 title: Atelier Yoga du Rire
-date: 2019-09-17
 form_url: https://bit.ly/rire-et-petiller
 show_homepage: true
 poster: "/images/2019-09-17-atelier-yoga-du-rire.png"
