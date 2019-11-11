@@ -10,6 +10,7 @@ require("require-dir")("./gulp-tasks");
 /*
  Run our static site generator to build the pages
 */
+// gulp.task("generate", shell.task("eleventy"));
 gulp.task("generate", shell.task("DEBUG=Eleventy* eleventy"));
 
 /*
