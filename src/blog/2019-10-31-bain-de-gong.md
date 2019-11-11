@@ -13,9 +13,14 @@ Le Gong est souvent expérimenté lors d'un "bain de Gong", d'une durée de 45 �
 
 Si vous souhaitez en savoir plus, où expérimenter les bienfaits du Gong lors d'un bain de Gong, contactez-moi. 👍
 
+{% gallery %}
+
 {% image src="/images/blog/2019-10-31-retraite-gong/FB_IMG_GONG RETREATE OFFiciel.jpg", alt="", caption="" %}
 
-{% image_third src="/images/blog/2019-10-31-retraite-gong/20191011_GONG URANUS.jpg", alt="", caption="" %}
-{% image_third src="/images/blog/2019-10-31-retraite-gong/20191012_095410.jpg", alt="", caption="" %}
-{% image_third src="/images/blog/2019-10-31-retraite-gong/FB_IMG_GONG-1572389401701-petit.jpg", alt="", caption="" %}
+{% image_half src="/images/blog/2019-10-31-retraite-gong/FB_IMG_GONG-1572389401701-petit.jpg", alt="", caption="" %}
 
+{% image_half src="/images/blog/2019-10-31-retraite-gong/20191011_GONG_URANUS.jpg", alt="", caption="" %}
+
+{% image src="/images/blog/2019-10-31-retraite-gong/20191012_095410.jpg", alt="", caption="" %}
+
+{% endgallery %}
