@@ -36,13 +36,7 @@ module.exports = function (eleventyConfig) {
         "https://res.cloudinary.com/nho/image/fetch/c_fill,f_auto,q_auto,";
       let imageUrl = "https://precious-prana.com" + image.src;
 
-      let html = `<figure class="${cssClass}" `;
-      if (image.width && image.height) {
-        html += `style="max-width: ${
-          image.width
-          }px; --aspect-ratio: ${image.width / image.height}"`;
-      }
-      html += `>
+      let html = `<figure class="${cssClass}">
 <img
   src="${cloudinaryPrefix}w_360/${imageUrl}"
   srcset="${cloudinaryPrefix}w_360/${imageUrl} 360w`;
