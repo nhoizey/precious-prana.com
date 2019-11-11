@@ -3,7 +3,7 @@ title: Contact
 layout: layouts/base.njk
 tags:
   - navigation
-navorder: 5
+navorder: 6
 ---
 
 # Contact
