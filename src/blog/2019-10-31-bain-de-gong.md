@@ -11,4 +11,11 @@ De plus, les vibrations du Gong ont une influence positive sur notre corps. C'es
 
 Le Gong est souvent expérimenté lors d'un "bain de Gong", d'une durée de 45 à 60 minutes. Une retraite de Gong quant à elle permet une immersion totale pendant plusieurs jours, où nous apprenons également à jouer du Gong, et où nous terminons la retraite avec un Gong puja : un bain de Gong de 8h non stop pendant la nuit. Magnifique comme expérience et nettoyage bien ressenti 😍✨✨
 
-Si vous souhaitez en savoir plus, où expérimenter les bienfaits du Gong lors d'un bain de Gong, contactez-moi en MP. 👍
+Si vous souhaitez en savoir plus, où expérimenter les bienfaits du Gong lors d'un bain de Gong, contactez-moi. 👍
+
+{% image src="/images/blog/2019-10-31-retraite-gong/FB_IMG_GONG RETREATE OFFiciel.jpg", alt="", caption="" %}
+
+{% image_third src="/images/blog/2019-10-31-retraite-gong/20191011_GONG URANUS.jpg", alt="", caption="" %}
+{% image_third src="/images/blog/2019-10-31-retraite-gong/20191012_095410.jpg", alt="", caption="" %}
+{% image_third src="/images/blog/2019-10-31-retraite-gong/FB_IMG_GONG-1572389401701-petit.jpg", alt="", caption="" %}
+
