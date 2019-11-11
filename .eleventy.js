@@ -94,6 +94,10 @@ module.exports = function (eleventyConfig) {
     return genericImage(image, "onethird", "(min-width: 66rem) 20rem, 30vw");
   });
 
+  eleventyConfig.addPairedNunjucksShortcode("gallery", function (images) {
+    return `<div class="gallery">${images}</div>`;
+  });
+
   eleventyConfig.addNunjucksShortcode("poster", function (image) {
     return genericImage(image, "poster", "(min-width: 66rem) 20rem, 30vw");
   });
