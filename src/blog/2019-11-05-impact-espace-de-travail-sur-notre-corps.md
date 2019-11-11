@@ -8,4 +8,4 @@ Voici Emma, un modèle grandeur nature, qui a été créé pour illustrer ce à 
 
 Cette vidéo a pour objectif une prise de conscience sur l’impact de l’espace de travail sur notre corps.
 
-{% youtube cytR9EvkCYc %}
+{% youtube id="cytR9EvkCYc" %}

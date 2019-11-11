@@ -96,12 +96,12 @@ module.exports = function (eleventyConfig) {
     return genericImage(image, "poster", "(min-width: 66rem) 20rem, 30vw");
   });
 
-  eleventyConfig.addPairedShortcode("note", function (content) {
-    return `<div class="note">${content}</div>`;
+  eleventyConfig.addNunjucksShortcode("youtube", function (data) {
+    return `<figure class="video"><iframe width="784" height="441" src="https://www.youtube.com/embed/${data.id}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>`;
   });
 
-  eleventyConfig.addNunjucksShortcode("youtube", function (id) {
-    return `<iframe width="784" height="441" src="https://www.youtube.com/embed/${id}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
+  eleventyConfig.addPairedShortcode("note", function (content) {
+    return `<div class="note">${content}</div>`;
   });
 
   // ------------------------------------------------------------------------
