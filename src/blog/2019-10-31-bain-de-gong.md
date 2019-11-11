@@ -15,12 +15,12 @@ Si vous souhaitez en savoir plus, où expérimenter les bienfaits du Gong lors d
 
 {% gallery %}
 
-{% image src="/images/blog/2019-10-31-retraite-gong/FB_IMG_GONG RETREATE OFFiciel.jpg", alt="", caption="", width="1080", height="540" %}
+{% image src="/images/blog/2019-10-31-retraite-gong/FB_IMG_GONG_RETREATE_OFFiciel.jpg", alt="", caption="", width="1080", height="540" %}
 
-{% image_half src="/images/blog/2019-10-31-retraite-gong/FB_IMG_GONG-1572389401701-petit.jpg", alt="", caption="" %}
+{% image_half src="/images/blog/2019-10-31-retraite-gong/FB_IMG_GONG-1572389401701-petit.jpg", alt="", caption="", width="1080", height="1440" %}
 
-{% image_half src="/images/blog/2019-10-31-retraite-gong/20191011_GONG_URANUS.jpg", alt="", caption="" %}
+{% image_half src="/images/blog/2019-10-31-retraite-gong/20191011_GONG_URANUS.jpg", alt="", caption="", width="2240", height="4608" %}
 
-{% image src="/images/blog/2019-10-31-retraite-gong/20191012_095410.jpg", alt="", caption="" %}
+{% image src="/images/blog/2019-10-31-retraite-gong/20191012_095410.jpg", alt="", caption="", width="4608", height="2240" %}
 
 {% endgallery %}
