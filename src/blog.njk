@@ -12,4 +12,5 @@ navorder: 4
   <h3><a href="{{ billet.url }}">{{ billet.data.title }}</a></h3>
   {% set date = billet.date %}
   {% include "billet-meta.njk" %}
+  {{ billet.templateContent | excerpt | safe }}
 {%- endfor -%}

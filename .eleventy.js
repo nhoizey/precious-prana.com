@@ -2,9 +2,10 @@ const { DateTime } = require("luxon");
 const { parse, stringify } = require("flatted/cjs");
 const cleanCSS = require("clean-css");
 
-const plainDate = require("./src/_filters/plain-date.js");
-const permalinkDate = require("./src/_filters/permalink-date.js");
+const excerpt = require("./src/_filters/excerpt.js");
 const future = require("./src/_filters/future.js");
+const permalinkDate = require("./src/_filters/permalink-date.js");
+const plainDate = require("./src/_filters/plain-date.js");
 
 module.exports = function (eleventyConfig) {
 
@@ -12,9 +13,10 @@ module.exports = function (eleventyConfig) {
   // Filters
   // ------------------------------------------------------------------------
 
-  eleventyConfig.addFilter("plainDate", plainDate);
-  eleventyConfig.addFilter("permalinkDate", permalinkDate);
+  eleventyConfig.addFilter("excerpt", excerpt);
   eleventyConfig.addFilter("future", future);
+  eleventyConfig.addFilter("permalinkDate", permalinkDate);
+  eleventyConfig.addFilter("plainDate", plainDate);
   eleventyConfig.addFilter("safeDump", stringify);
 
   // https://www.11ty.io/docs/quicktips/inline-css/
