@@ -19,11 +19,11 @@ tags: ateliers
       {% set nbEvenements = nbEvenements + 1 %}
       <h3>
         <a href="{{ evenement.url }}">{{ evenement.data.title }}</a>
-        {% if evenement.data.date | future %}
+        {% if evenement.date | future %}
           <span class="hint">prochainement !</span>            
         {% endif %}
       </h3>
-      {% set date = evenement.data.date %}
+      {% set date = evenement.date %}
       {% set location = evenement.data.location %}
       {% include "evenement-meta.njk" %}
     {% endif %}
