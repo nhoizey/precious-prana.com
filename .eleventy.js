@@ -6,7 +6,8 @@ const plainDate = require("./src/_filters/plain-date.js");
 const permalinkDate = require("./src/_filters/permalink-date.js");
 const future = require("./src/_filters/future.js");
 
-module.exports = function(eleventyConfig) {
+module.exports = function (eleventyConfig) {
+
   // ------------------------------------------------------------------------
   // Filters
   // ------------------------------------------------------------------------
@@ -34,7 +35,7 @@ module.exports = function(eleventyConfig) {
     if (image.width && image.height) {
       html += `style="max-width: ${
         image.width
-      }px; --aspect-ratio: ${image.width / image.height}"`;
+        }px; --aspect-ratio: ${image.width / image.height}"`;
     }
     html += `>
 <img
@@ -75,11 +76,11 @@ module.exports = function(eleventyConfig) {
     return html;
   }
 
-  eleventyConfig.addNunjucksShortcode("image", function(image) {
+  eleventyConfig.addNunjucksShortcode("image", function (image) {
     return genericImage(image, "fullwidth", "(min-width: 66rem) 60rem, 90vw");
   });
 
-  eleventyConfig.addNunjucksShortcode("image_half", function(image) {
+  eleventyConfig.addNunjucksShortcode("image_half", function (image) {
     return genericImage(
       image,
       "onehalf",
@@ -87,35 +88,39 @@ module.exports = function(eleventyConfig) {
     );
   });
 
-  eleventyConfig.addNunjucksShortcode("image_third", function(image) {
+  eleventyConfig.addNunjucksShortcode("image_third", function (image) {
     return genericImage(image, "onethird", "(min-width: 66rem) 20rem, 30vw");
   });
 
-  eleventyConfig.addNunjucksShortcode("poster", function(image) {
+  eleventyConfig.addNunjucksShortcode("poster", function (image) {
     return genericImage(image, "poster", "(min-width: 66rem) 20rem, 30vw");
   });
 
-  eleventyConfig.addPairedShortcode("note", function(content) {
+  eleventyConfig.addPairedShortcode("note", function (content) {
     return `<div class="note">${content}</div>`;
+  });
+
+  eleventyConfig.addNunjucksShortcode("youtube", function (id) {
+    return `<iframe width="784" height="441" src="https://www.youtube.com/embed/${id}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
   });
 
   // ------------------------------------------------------------------------
   // Collections
   // ------------------------------------------------------------------------
 
-  eleventyConfig.addCollection("navigation", function(collection) {
+  eleventyConfig.addCollection("navigation", function (collection) {
     return collection.getFilteredByTag("navigation").sort((a, b) => {
       return a.data.navorder - b.data.navorder;
     });
   });
 
-  eleventyConfig.addCollection("ateliers", function(collection) {
+  eleventyConfig.addCollection("ateliers", function (collection) {
     return collection.getFilteredByTag("ateliers").sort((a, b) => {
       return a.data.title.localeCompare(b.data.title);
     });
   });
 
-  eleventyConfig.addCollection("agenda_futur", function(collection) {
+  eleventyConfig.addCollection("agenda_futur", function (collection) {
     return collection.getFilteredByTag("agenda").filter(evenement => {
       return (
         DateTime.fromJSDate(evenement.date, {
@@ -127,7 +132,7 @@ module.exports = function(eleventyConfig) {
     });
   });
 
-  eleventyConfig.addCollection("agenda_futur_homepage", function(collection) {
+  eleventyConfig.addCollection("agenda_futur_homepage", function (collection) {
     return collection.getFilteredByTag("agenda").filter(evenement => {
       return (
         (evenement.data.show_homepage === undefined ||
@@ -141,7 +146,7 @@ module.exports = function(eleventyConfig) {
     });
   });
 
-  eleventyConfig.addCollection("agenda_passe", function(collection) {
+  eleventyConfig.addCollection("agenda_passe", function (collection) {
     return collection.getFilteredByTag("agenda").filter(evenement => {
       return (
         DateTime.fromJSDate(evenement.date, {
@@ -170,7 +175,7 @@ module.exports = function(eleventyConfig) {
     permalinkClass: "direct-link",
     permalinkSymbol: "#",
     level: [2, 3, 4],
-    slugify: function(s) {
+    slugify: function (s) {
       return slugify(s);
     }
   };
