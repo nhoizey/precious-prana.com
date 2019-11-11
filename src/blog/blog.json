@@ -1,4 +1,4 @@
 {
   "layout": "layouts/billet.njk",
-  "permalink": "/blog/{{ page.date | permalinkDate }}/{{ title | slug }}/"
+  "permalink": "/blog/{{ page.date | permalinkDate }}/{{ page.fileSlug }}/"
 }
