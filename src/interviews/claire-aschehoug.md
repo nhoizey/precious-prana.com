@@ -5,9 +5,9 @@ ateliers:
   - oser-la-voix
 ---
 
-{% image_half src="/images/portraits/claire-aschehoug.jpeg", alt="Claire Aschehoug, intervenante Oser la Voix", caption="Claire Aschehoug" %}
-
 ## Comment vous décrivez-vous ?
+
+{% image_half src="/images/portraits/claire-aschehoug.jpeg", alt="Claire Aschehoug, intervenante Oser la Voix", caption="Claire Aschehoug" %}
 
 D’une nature joyeuse et positive, je m’épanouis dans les échanges et le partage avec les autres.
 

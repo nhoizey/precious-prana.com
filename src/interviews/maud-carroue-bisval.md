@@ -5,11 +5,11 @@ ateliers:
   - journal-creatif
 ---
 
-[Jeudi 28 mars aura lieu un atelier sur le thème du Journal Créatif](/evenements/2019/03/28/atelier-journal-creatif/). Cet atelier sera animé par Maud, qui a eu la gentillesse de répondre à quelques questions pour permettre de faire connaissance et expliquer ce que c’est l’Art Thérapie et le Journal Créatif, et en quoi cela nous fera beaucoup de bien.
-
-{% image_half src="/images/2019-03-28-maud-carroue-bisval.jpg", alt="Maud Carroué-Bisval, intervenante Art Thérapie / Journal Créatif®", caption="Maud Carroué-Bisval" %}
+Maud anime des ateliers sur le thème du Journal Créatif. Elle a eu la gentillesse de répondre à quelques questions pour permettre de faire connaissance et expliquer ce que c’est l’Art Thérapie et le Journal Créatif, et en quoi cela nous fera beaucoup de bien.
 
 ## Qu'est-ce que l'Art-Thérapie et pourquoi ce nom ?
+
+{% image_half src="/images/2019-03-28-maud-carroue-bisval.jpg", alt="Maud Carroué-Bisval, intervenante Art Thérapie / Journal Créatif®", caption="Maud Carroué-Bisval" %}
 
 L'art-thérapie est une pratique de soin visant l'expression des pensées, des émotions à travers une création. Ce qui est important pour moi en tant qu'art-thérapeute c'est le chemin parcouru pour créer et non la création en elle-même.
 

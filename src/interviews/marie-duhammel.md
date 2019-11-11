@@ -5,11 +5,11 @@ ateliers:
   - aromatherapie
 ---
 
-[Mardi 21 mai aura lieu un atelier sur le thème de l'Aromathérapie](/evenements/2019/05/21/atelier-aromatherapie/). Cet atelier sera animé par Marie, qui a eu la gentillesse de répondre à quelques questions pour permettre de faire connaissance.
-
-{% image_half src="/images/2019-05-21-marie-duhammel.jpg", alt="Marie Duhammel, intervenante Aromathérapie", caption="Marie Duhammel" %}
+Marie anime des ateliers sur le thème de l'Aromathérapie. Elle a eu la gentillesse de répondre à quelques questions pour permettre de faire connaissance.
 
 ## Comment te décris-tu ?
+
+{% image_half src="/images/2019-05-21-marie-duhammel.jpg", alt="Marie Duhammel, intervenante Aromathérapie", caption="Marie Duhammel" %}
 
 On me dit que je suis « la fille du vent et de la mer »… J’aime la nature avant tout car elle me procure beaucoup d’énergie. J’aime les lieux riches de cette énergie comme le Cap de Creus en Espagne. Je suis sportive, vivante, j’aime la vie ; je la mange tant que je peux. J’aime les voyages hors des sentiers classiques, la rencontre, l’échange avec les habitants. J’aime les cultures anciennes, le cinéma « art et essais » et le théâtre. J’adore danser. Je suis curieuse, je lis beaucoup.
 
