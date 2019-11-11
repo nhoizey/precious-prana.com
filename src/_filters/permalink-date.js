@@ -1,5 +1,6 @@
 module.exports = function permalinkDate(value) {
-  const dateObject = new Date(value);
+  let dateObject = new Date(value);
+  dateObject.setHours(dateObject.getHours() + 2);
 
   // yyyy/mm/dd
   return dateObject
