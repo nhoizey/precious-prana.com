@@ -6,10 +6,10 @@
   "license": "MIT",
   "scripts": {
     "gen": "gulp generate",
-    "start": "yarn run build && yarn run serve",
+    "start": "ELEVENTY_ENV=development yarn run build && yarn run serve",
     "build": "gulp build",
     "build:local": "gulp build:local",
-    "serve": "gulp watch & gulp serve"
+    "serve": "ELEVENTY_ENV=development gulp watch & gulp serve"
   },
   "repository": {
     "type": "git",
