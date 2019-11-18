@@ -21,6 +21,5 @@ Voici quelques exemples entre une réponse dans la validation et de l’espoir d
 
 Pour plus d’informations à ce sujet ou concernant Whitney Hawkins Goodman :
 
-- Son compte sur Instagram : https://instagram.com/sitwithwhit/
+- Son compte sur Instagram : https://instagram.com/sitwithwhit/ et [la publication concernée](https://instagram.com/p/BtWE80-HOjx/)
 - https://www.ipnoze.com/validation-espoir-soutien-positivite-toxique-difference-sitwithwhit/ (source)
-- https://instagram.com/p/BtWE80-HOjx/
