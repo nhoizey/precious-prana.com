@@ -5,8 +5,16 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: src/evenements
-  label: Events
+  path: src/ateliers
+  label: Ateliers
+  create: documents
+  match: "*.md"
+  new_doc_ext: md
+  templates:
+  - atelier
+- type: directory
+  path: src/agenda
+  label: Événements
   create: documents
   match: "*.md"
   new_doc_ext: md
@@ -20,6 +28,13 @@ sections:
   new_doc_ext: md
   templates:
   - interview
+- type: directory
+  path: src/blog
+  label: Blog
+  create: documents
+  match: "*.md"
+  templates:
+  - billet
 - type: directory
   path: src
   label: Pages

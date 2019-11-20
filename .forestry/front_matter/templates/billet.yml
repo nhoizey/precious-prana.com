@@ -1,0 +1,13 @@
+---
+label: Billet de blog
+hide_body: false
+display_field: title
+fields:
+- type: text
+  name: title
+  label: Name
+- name: poster
+  type: file
+  config:
+    maxSize: 10
+  label: Poster
