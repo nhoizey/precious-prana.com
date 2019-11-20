@@ -194,10 +194,10 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig
     .addPassthroughCopy("src/files")
+    .addPassthroughCopy("src/admin")
     .addPassthroughCopy("src/fonts")
     .addPassthroughCopy("src/images")
     .addPassthroughCopy("src/_redirects")
-    .addPassthroughCopy("src/404.html")
     .addPassthroughCopy("src/favicon.ico");
 
   /* Forestry instant previews */
