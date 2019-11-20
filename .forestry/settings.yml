@@ -1,7 +1,7 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: ''
+admin_path: "/admin/"
 webhook_url: 
 sections:
 - type: directory
@@ -49,14 +49,15 @@ use_front_matter_path: false
 file_template: ":filename:"
 instant_preview: true
 build:
-  preview_command: gulp build
-  publish_command: gulp build
   preview_env:
   - ELEVENTY_ENV=staging
-  publish_env:
-  - JEKYLL_ENV=production
   preview_output_directory: _site
-  output_directory: dist
-  instant_preview_command: yarn start
+  install_dependencies_command: bundle install --path vendor/bundle
   preview_docker_image: node:10
   mount_path: "/srv"
+  instant_preview_command: yarn start
+  publish_command: gulp build
+  publish_env:
+  - JEKYLL_ENV=production
+  output_directory: dist
+  preview_command: gulp build
