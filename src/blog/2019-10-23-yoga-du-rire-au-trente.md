@@ -1,5 +1,6 @@
 ---
 title: "Séance Yoga du Rire au Trente à Paris-Saclay"
+date: 2019-10-23
 ---
 
 Durant cette séance Yoga du Rire à [Le Trente](https://www.facebook.com/LeTrenteParisSaclay/) (à Massy), entrepreneurs et co-workers ont choisi pour un moment de détente et lâcher prise.
