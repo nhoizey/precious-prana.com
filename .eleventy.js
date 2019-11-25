@@ -1,6 +1,7 @@
 const { DateTime } = require("luxon");
 const { parse, stringify } = require("flatted/cjs");
 const cleanCSS = require("clean-css");
+const slugify = require("@sindresorhus/slugify");
 
 const excerpt = require("./src/_filters/excerpt.js");
 const future = require("./src/_filters/future.js");
@@ -18,6 +19,15 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("permalinkDate", permalinkDate);
   eleventyConfig.addFilter("plainDate", plainDate);
   eleventyConfig.addFilter("safeDump", stringify);
+
+  eleventyConfig.addFilter("slugify", function (string) {
+    return slugify(string, {
+      decamelize: false,
+      customReplacements: [
+        ['%', ' ']
+      ]
+    });
+  })
 
   // https://www.11ty.io/docs/quicktips/inline-css/
   eleventyConfig.addFilter("cssmin", code => {
@@ -173,7 +183,6 @@ module.exports = function (eleventyConfig) {
     linkify: true
   };
   let markdownItAnchor = require("markdown-it-anchor");
-  let slugify = require("@sindresorhus/slugify");
   let markdownItAnchorOptions = {
     permalink: true,
     permalinkClass: "direct-link",
