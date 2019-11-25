@@ -8,28 +8,24 @@ navorder: 1
 ---
 
 <p class="intro">
-Precious Prana est une communauté de bien-être qui permet aux mères actives de se ressourcer, de savoir auto-gérer leur énergie et réussir l'équilibre entre vie personnelle, professionnelle et familiale.
+L’automne est bien installé, parfois on sent l’hiver pointer le bout de son nez. Les jours sont plus courts et vous pouvez avoir envie de rester sous la couette. Mais pendant cette période de l’année, c’est aussi le moment de l’introspection.
 </p>
 
 {% image_third src="/images/illustrations/woman-blowing-glitters-on-her-hands.jpg", alt="Woman blowing glitters on her hands, © Oleg Magni", zoom=false %}
 
-La rentrée est bien en route, les vacances semblent déjà loin ? Alors, on décide de continuer à profiter, de vivre bien, de faire perdurer les bons moments des vacances. On continue de pétiller et on a les outils pratiques pour rester acteur de notre vie et gérer notre équilibre entre vie perso et vie pro.
+L’introspection est un moment de repos certes, mais pour cultiver ce que vous avez préparé pendant le printemps et l’été. Tout comme dans les terres. C’est aussi le moment de préparer ce que vous avez envie de faire germer par la suite. Pour pouvoir faire germer de belles choses, vous aurez besoin de repos, d’une terre fertile, d’un bon arrosage.
 
-Nous avons concocté **des ateliers pour faire perdurer les bienfaits de l'été**, toujours dans notre esprit de communauté et moment de cocon :
+Nos ateliers, en individuel, en entreprise ou entre entrepreneurs, vous proposent ce moment de repos pour créer un environnement réceptif, pour créer des échanges et préparer vos idées et envies à faire germer demain.
+
+Des ateliers de lâcher prise et prise de recul, des ateliers construits autour des échanges et de l’ouverture des idées et de la créativité, et des ateliers pour apprécier la joie et se mettre en action. Nos ateliers sont faits pour accompagner le mouvement continu de la vie, de manière à ce que l’énergie soit utilisée au bon moment. Pour la vie personnelle, tout comme la vie professionnelle, et l’équilibre entre les deux.
 
 {% set events = collections.agenda_futur %}
 {% include "next-events.njk" %}
 
-Retrouvez tous nos événements dans [la page agenda qui leur est consacrée](/agenda/).
+**Les lieux seront précisés prochainement, et les formulaires d’inscription seront bientôt en ligne.**
 
-## Et plus encore…
+----
 
-Precious Prana vous accompagne aussi avec des ateliers plus spécifiques, tel que le co-développement, la gestion du stress et le mind-mapping (carte mentale). Ces ateliers peuvent se faire en entreprise, ou sur demande en groupe et espaces de co-working. Pour en savoir plus, [contactez nous directement](/contact/).
-
-## Retrouvez nos conseils pour pétiller
-
-Avec ces ateliers, vous aurez toutes les billes pour passer de l'été à l'automne, avec la dose d'énergie nécessaire pour être acteur de votre vie. Et en cas de doutes, revenez à nos conseils ci-dessous.
-
-{% image src="/images/conseils-precious-prana-pour-petiller.png", alt="Les conseils Precious Prana pour pétiller", zoom=true, width=800, height=1200 %}
+Dès à présent, abonnez-vous à [notre newsletter](/newsletter/) pour suivre nos actualités, nos astuces, et pour être au courant en direct de nos événement. Et trouvez nos publications sur [le blog](/blog/).
 
 Pour plus de renseignements, [contactez-nous](/contact/).
