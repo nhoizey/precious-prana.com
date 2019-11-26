@@ -1,9 +1,10 @@
 ---
 title: "Atelier Oser la voix"
-form_url: ""
+form_url: "https://www.weezevent.com/oser-la-voix-l-atelier-pour-mettre-de-l-energie-dans-votre-voix"
 show_homepage: true
-poster: ""
+poster: "/images/evenements/2019-12-04-atelier-oser-la-voix.png"
 moodboard: ""
+location: "coffice-corner"
 ateliers:
   - oser-la-voix
 ---
@@ -15,5 +16,3 @@ Lors de cet atelier, vous verrez que la voix peut aussi être un outil très eff
 Rendez-vous le **mercredi 04 décembre** avec la chanteuse et coach de voix, Claire Aschehoug.
 
 Trouvez [son interview dès à présent en ligne](https://precious-prana.com/interviews/claire-aschehoug/).
-
-*Détails et formulaire d’inscription bientôt en ligne.*
