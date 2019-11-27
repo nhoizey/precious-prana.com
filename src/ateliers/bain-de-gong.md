@@ -1,7 +1,7 @@
 ---
 title: "Bain de Gong"
 ---
-  
+
 Le bain de Gong offre un moment de relaxation mentale et physique, grâce aux vibrations, et permet d’entrer dans différentes phases méditatives. Le Gong est un instrument de sons ancien et utilisé également dans certains courants de Yoga pour la méditation et le nettoyage de notre système.
 
 Le Gong n'est pas considéré comme un instrument de musique, car il produit bien des sons, mais pas de mélodie. Mais c'est justement grâce à l'étendue des sons, et à l'harmonie dissonante qui se crée, que le mental s'arrête et que nous pouvons entrer dans différents états méditatifs.
