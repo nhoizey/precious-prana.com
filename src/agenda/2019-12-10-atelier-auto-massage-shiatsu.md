@@ -8,8 +8,6 @@ ateliers:
   - auto-massage-shiatsu
 ---
 
-L’automne est là et la fatigue, les rhumes et autres ne tardent pas à se manifester. Même la pluie est là pour baisser notre moral et énergie. Une séance d’auto-massage shiatsu vous apprend comment vous masser sur les méridiens d’automne, faire circuler votre énergie et rester en forme. Prenez soin de vous, vous le méritez bien !
-
 Plus qu'un massage, le shiatsu est un massage traditionnel japonais qui utilise les points d’acupressions. Par ce biais, on intervient sur plusieurs plans : physique, mental, émotionnel, relationnel, et on peut permettre à son corps de trouver des manières de s’autoguérir.
 
 Accessible à tous grâce à notre intervenante Véronique Mansart, Masseur kinésithérapeute depuis 30 ans, et praticienne de shiatsu depuis 10 ans (Certifiée par la F.F.S.T. et membre de l'U.F.P.S.T.). Des explications pas à pas, et un aide-mémoire à ramener avec vous après la séance.
