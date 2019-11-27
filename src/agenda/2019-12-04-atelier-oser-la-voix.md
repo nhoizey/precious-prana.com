@@ -4,7 +4,7 @@ form_url: "https://www.weezevent.com/oser-la-voix-l-atelier-pour-mettre-de-l-ene
 show_homepage: true
 poster: "/images/evenements/2019-12-04-atelier-oser-la-voix.png"
 moodboard: ""
-location: "coffice-corner"
+location: coffice-corner
 ateliers:
   - oser-la-voix
 ---

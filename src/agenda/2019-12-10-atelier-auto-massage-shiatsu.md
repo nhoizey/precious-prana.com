@@ -3,6 +3,7 @@ title: Atelier auto-massage shiatsu
 poster: ""
 form_url: 
 show_homepage: true
+location: espace-evolution
 ateliers:
   - auto-massage-shiatsu
 ---
