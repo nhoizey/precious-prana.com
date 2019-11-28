@@ -22,8 +22,6 @@ Des ateliers de lâcher prise et prise de recul, des ateliers construits autour 
 {% set events = collections.agenda_futur %}
 {% include "next-events.njk" %}
 
-**Les lieux seront précisés prochainement, et les formulaires d’inscription seront bientôt en ligne.**
-
 ----
 
 Dès à présent, abonnez-vous à [notre newsletter](/newsletter/) pour suivre nos actualités, nos astuces, et pour être au courant en direct de nos événement. Et trouvez nos publications sur [le blog](/blog/).
