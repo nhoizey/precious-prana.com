@@ -24,4 +24,22 @@ tags: agenda
 {{ content | safe }}
 </div>
 
+{% if location %}
+<h2>Localisation de l'événement</h2>
+<div class="vcard">
+<p class="fn">
+  {% if locations[location].url %}<a class="url" href="{{ locations[location].url }}">{% endif %}
+  <strong>{{ locations[location].name }}</strong>
+  {% if locations[location].url %}</a>{% endif %}
+</p>
+{% if locations[location].address or locations[location].postalcode or locations[location].city %}
+<p class="adr">
+  {% if locations[location].address %}<span class="street-address">{{ locations[location].address }}</span><br>{% endif %}
+  {% if locations[location].postalcode %}<span class="postal-code">{{ locations[location].postalcode }}</span> {% endif %}
+  {% if locations[location].city %}<span class="city">{{ locations[location].city }}</span>{% endif %}
+</p>
+{% endif %}
+</div>
+{% endif %}
+
 {% include "cta.njk" %}

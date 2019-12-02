@@ -1,32 +1,37 @@
 {
   "espace-evolution": {
     "name": "Espace Évolution",
-    "address": "",
-    "zipcode": "",
-    "city": "Brunoy"
+    "address": "79, rue de Villecresnes",
+    "postalcode": "91800",
+    "city": "Brunoy",
+    "url": "https://www.evolutionbrunoy.com/"
   },
   "radio-cocottes": {
     "name": "Radio Cocottes",
-    "address": "",
-    "zipcode": "",
-    "city": "Draveil"
+    "address": "270, boulevard Henri Barbusse",
+    "postalcode": "91210",
+    "city": "Draveil",
+    "url": "https://www.radiococottes.com/"
   },
   "le-trente": {
     "name": "Le Trente",
-    "address": "",
-    "zipcode": "",
-    "city": "Paris-Saclay"
+    "address": "30, avenue Carnot",
+    "postalcode": "91300",
+    "city": "Massy (Paris-Saclay)",
+    "url": "https://www.le30.paris-saclay.com/"
   },
   "coffice-corner": {
     "name": "Coffice Corner",
-    "address": "",
-    "zipcode": "",
-    "city": "Yerres"
+    "address": "87, rue de Concy",
+    "postalcode": "91330",
+    "city": "Yerres",
+    "url": "https://www.coffice-corner.fr/"
   },
   "bourgeoise-en-face": {
     "name": "Chez la bourgeoise d'en face",
     "address": "14, rue Jean-Jacques Rousseau",
-    "zipcode": "91260",
-    "city": "Juvisy-sur-Orge"
+    "postalcode": "91260",
+    "city": "Juvisy-sur-Orge",
+    "url": "https://www.facebook.com/labourgeoisedenface/"
   }
 }
