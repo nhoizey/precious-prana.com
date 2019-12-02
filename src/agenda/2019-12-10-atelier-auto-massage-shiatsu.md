@@ -1,7 +1,7 @@
 ---
 title: Atelier auto-massage shiatsu
 poster: ""
-form_url: 
+form_url: "https://www.weezevent.com/precious-prana-auto-massage-shiatsu-do-in"
 show_homepage: true
 location: espace-evolution
 ateliers:
