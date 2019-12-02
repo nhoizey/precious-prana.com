@@ -3,6 +3,7 @@ title: Soirée spéciale « Solstice d'hiver »
 poster: ""
 form_url: 
 show_homepage: true
+location: bourgeoise-en-face
 ---
 
 Le solstice d’hiver est un moment clef dans l’année et se célèbre depuis longtemps dans de nombreuses traditions. C’est le moment de transition entre un cycle qui se termine et un nouveau qui va démarrer.

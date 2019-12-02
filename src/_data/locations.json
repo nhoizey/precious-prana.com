@@ -1,18 +1,32 @@
 {
   "espace-evolution": {
     "name": "Espace Évolution",
+    "address": "",
+    "zipcode": "",
     "city": "Brunoy"
   },
   "radio-cocottes": {
     "name": "Radio Cocottes",
+    "address": "",
+    "zipcode": "",
     "city": "Draveil"
   },
   "le-trente": {
     "name": "Le Trente",
+    "address": "",
+    "zipcode": "",
     "city": "Paris-Saclay"
   },
   "coffice-corner": {
     "name": "Coffice Corner",
+    "address": "",
+    "zipcode": "",
     "city": "Yerres"
+  },
+  "bourgeoise-en-face": {
+    "name": "Chez la bourgeoise d'en face",
+    "address": "14, rue Jean-Jacques Rousseau",
+    "zipcode": "91260",
+    "city": "Juvisy-sur-Orge"
   }
 }
