@@ -1,13 +1,13 @@
 ---
 title: Atelier auto-massage shiatsu
 poster: "/images/evenements/2019-12-10-atelier-auto-massage-shiatsu-precious-prana.png"
-form_url: "https://www.weezevent.com/precious-prana-auto-massage-shiatsu-do-in"
+form_url: https://www.weezevent.com/precious-prana-auto-massage-shiatsu-do-in
 show_homepage: true
 location: espace-evolution
 ateliers:
-  - auto-massage-shiatsu
----
+- src/ateliers/auto-massage-shiatsu.md
 
+---
 Plus qu'un massage, le shiatsu est un massage traditionnel japonais qui utilise les points d’acupressions. Par ce biais, on intervient sur plusieurs plans : physique, mental, émotionnel, relationnel, et on peut permettre à son corps de trouver des manières de s’autoguérir.
 
 Accessible à tous grâce à notre intervenante Véronique Mansart, Masseur kinésithérapeute depuis 30 ans, et praticienne de shiatsu depuis 10 ans (Certifiée par la F.F.S.T. et membre de l'U.F.P.S.T.). Des explications pas à pas, et un aide-mémoire à ramener avec vous après la séance.
