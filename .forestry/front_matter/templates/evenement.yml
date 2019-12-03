@@ -24,6 +24,14 @@ fields:
 - name: form_url
   type: text
   label: Formulaire d'inscription
+- name: ateliers
+  type: list
+  label: Atelier(s)
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: src/ateliers/
 - name: location
   type: select
   label: Lieu
