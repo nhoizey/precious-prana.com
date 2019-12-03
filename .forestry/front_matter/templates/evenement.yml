@@ -29,10 +29,10 @@ fields:
   label: Lieu
   config:
     source:
-      type: pages
+      type: documents
       file: 
       path: 
-      section: evenements
+      section: lieux
 - name: form_url
   type: text
   label: Formulaire d'inscription

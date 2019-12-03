@@ -7,7 +7,6 @@ sections:
 - type: document
   path: src/_data/locations.json
   label: Lieux
-  match: "**/*"
 - type: directory
   path: src/ateliers
   label: Ateliers
