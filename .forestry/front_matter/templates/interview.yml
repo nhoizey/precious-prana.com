@@ -5,7 +5,7 @@ display_field: title
 fields:
 - type: text
   name: title
-  label: Name
+  label: Nom
 - type: text
   name: subtitle
   label: Role
