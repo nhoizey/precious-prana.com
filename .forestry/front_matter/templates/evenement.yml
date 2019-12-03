@@ -31,7 +31,7 @@ fields:
     use_select: true
     source:
       type: pages
-      section: src/ateliers/
+      section: ateliers
 - name: location
   type: select
   label: Lieu
@@ -39,15 +39,7 @@ fields:
     source:
       type: datafiles
       file: src/_data/locations.json
-      path:
-    # source:
-    #   type: custom
-    # options:
-    #   - ""
-    #   - "bourgeoise-en-face"
-    #   - "coffice-corner"
-    #   - "radio-cocottes"
-    #   - "le-trente"
+      path: 
 - name: show_homepage
   type: boolean
   label: Visible sur l'accueil ?
