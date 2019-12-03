@@ -4,9 +4,6 @@ auto_deploy: false
 admin_path: "/src/admin/"
 webhook_url: 
 sections:
-- type: document
-  path: src/_data/locations.json
-  label: Lieux
 - type: directory
   path: src/ateliers
   label: Ateliers
@@ -24,6 +21,13 @@ sections:
   templates:
   - evenement
 - type: directory
+  path: src/blog
+  label: Blog
+  create: documents
+  match: "*.md"
+  templates:
+  - billet
+- type: directory
   path: src/interviews
   label: Interviews
   create: documents
@@ -32,19 +36,15 @@ sections:
   templates:
   - interview
 - type: directory
-  path: src/blog
-  label: Blog
-  create: documents
-  match: "*.md"
-  templates:
-  - billet
-- type: directory
   path: src
   label: Pages
   create: all
   match: "*.md"
   templates:
   - page
+- type: document
+  path: src/_data/locations.json
+  label: Lieux
 upload_dir: src/images
 public_path: "/images"
 front_matter_path: ''
