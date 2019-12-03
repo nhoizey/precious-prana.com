@@ -1,0 +1,8 @@
+---
+label: Atelier
+hide_body: false
+display_field: title
+fields:
+- name: title
+  type: text
+  label: Titre
