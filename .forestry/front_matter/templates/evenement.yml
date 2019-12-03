@@ -1,5 +1,5 @@
 ---
-label: Events
+label: Événement
 hide_body: false
 display_field: title
 fields:
@@ -16,14 +16,6 @@ fields:
 - name: title
   type: text
   label: Titre
-- name: poster
-  type: file
-  config:
-    maxSize: 10
-  label: Poster
-- name: form_url
-  type: text
-  label: Formulaire d'inscription
 - name: ateliers
   type: list
   label: Atelier(s)
@@ -40,10 +32,18 @@ fields:
       type: datafiles
       file: src/_data/locations.json
       path: 
+- name: form_url
+  type: text
+  label: Formulaire d'inscription
 - name: show_homepage
   type: boolean
   label: Visible sur l'accueil ?
   default: true
+- name: poster
+  type: file
+  config:
+    maxSize: 10
+  label: Poster
 - name: moodboard
   type: file
   config:
