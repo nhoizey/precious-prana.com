@@ -1,6 +1,6 @@
 ---
 label: Lieu
-hide_body: false
+hide_body: true
 display_field: name
 fields:
 - name: name
