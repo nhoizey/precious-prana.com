@@ -6,6 +6,8 @@ fields:
 - name: name
   type: text
   label: Nom
+  config:
+    required: true
 - name: address
   type: text
   label: Adresse
