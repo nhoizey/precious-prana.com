@@ -5,9 +5,9 @@ form_url: http://bit.ly/JournalCreatif-PreciousPrana
 show_homepage: true
 location: espace-evolution
 ateliers:
-  - journal-creatif
----
+- src/ateliers/journal-creatif.md
 
+---
 Le printemps est synonyme de création, connexion et renouveau. La créativité aide à détourner notre attention de nos tracas et nous redonne de l’énergie. C’est donc le moment parfait pour un atelier Journal Créatif®.
 
 Notez le jeudi 28 mars pour vous connecter à votre moi-profond, retrouver votre créativité et hop, table rase du stress et stop aux priorités pour les autres. C’est un moment rien que pour SOI.
@@ -25,4 +25,3 @@ Vous vous demandez si c’est bien pour vous ? Sachez que le Journal Créatif® 
 Je l’ai testé. Cela m’a remis les idées claires et c’était un moment où je m’occupais de moi et de mes besoins, de manière spontanée et tout naturellement. Vous l’avez compris, le Journal Créatif® n’a rien d’enfantin et c’est un outil très puissant.
 
 Voyez plus de détails [sur notre page Facebook](https://www.facebook.com/events/1101982766675294/).
-
