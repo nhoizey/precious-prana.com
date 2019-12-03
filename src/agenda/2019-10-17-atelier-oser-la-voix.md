@@ -1,14 +1,14 @@
 ---
-title: "Atelier Oser la voix"
-form_url: "https://bit.ly/oser-la-voix"
+title: Atelier Oser la voix
+form_url: https://bit.ly/oser-la-voix
 show_homepage: true
 poster: "/images/evenements/2019-10-17-atelier-oser-la-voix.png"
-moodboard: ""
+moodboard: ''
 location: espace-evolution
 ateliers:
-  - oser-la-voix
----
+- src/ateliers/oser-la-voix.md
 
+---
 La voix ne trompe pas. Comme votre visage, elle dit tout de nous, depuis nos émotions du moment jusqu’à notre personnalité profonde. Notre voix est unique et participe à notre singularité.
 
 Lors de cet atelier, vous verrez que la voix peut aussi être un outil très efficace d'affirmation de soi. Tant au travail qu'avec les enfants. La voix favorise le bien-être, la confiance en soi et le lien social.
