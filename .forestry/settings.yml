@@ -36,6 +36,14 @@ sections:
   templates:
   - interview
 - type: directory
+  path: src/lieux
+  label: Lieux
+  create: documents
+  match: "*.md"
+  new_doc_ext: md
+  templates:
+  - lieu
+- type: directory
   path: src
   label: Pages
   create: all

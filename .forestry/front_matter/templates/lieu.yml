@@ -1,0 +1,20 @@
+---
+label: Lieu
+hide_body: false
+display_field: name
+fields:
+- name: name
+  type: text
+  label: Nom
+- name: address
+  type: text
+  label: Adresse
+- name: postalcode
+  type: text
+  label: Code postal
+- name: city
+  type: text
+  label: Ville
+- name: url
+  type: text
+  label: URL du site
