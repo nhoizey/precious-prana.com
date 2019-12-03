@@ -1,13 +1,13 @@
 ---
-title: "Atelier Bain de Gong"
-form_url:
+title: Atelier Bain de Gong
+form_url: 
 show_homepage: true
-poster: ""
-moodboard: ""
+poster: ''
+moodboard: ''
 ateliers:
-  - bain-de-gong
----
+- src/ateliers/bain-de-gong.md
 
+---
 Le bain de Gong offre un moment de relaxation mentale et physique, grâce aux vibrations, et permet d’entrer dans différentes phases méditatives. Le Gong est un instrument de sons ancien et utilisé également dans certains courants de Yoga pour la méditation et le nettoyage de notre système.
 
 Les vibrations du Gong ont une influence positive sur notre corps.
