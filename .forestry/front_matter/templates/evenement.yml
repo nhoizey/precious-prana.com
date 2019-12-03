@@ -31,7 +31,7 @@ fields:
     source:
       type: documents
       file: src/_data/locations.json
-      path: 
+      path: locations
       section: lieux
 - name: form_url
   type: text
