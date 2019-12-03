@@ -13,20 +13,36 @@ fields:
     time_format: 
     display_utc: false
     export_format: YYYY-MM-DD
-- type: text
-  name: title
+- name: title
+  type: text
   label: Titre
 - name: poster
   type: file
   config:
     maxSize: 10
   label: Poster
-- type: text
-  name: form_url
-  label: Inscription
+- name: form_url
+  type: text
+  label: Formulaire d'inscription
+- name: location
+  type: select
+  label: Lieu
+  config:
+    source:
+      type: datafiles
+      file: _data/locations.json
+      path:
+    # source:
+    #   type: custom
+    # options:
+    #   - ""
+    #   - "bourgeoise-en-face"
+    #   - "coffice-corner"
+    #   - "radio-cocottes"
+    #   - "le-trente"
 - name: show_homepage
   type: boolean
-  label: Show on homepage?
+  label: Visible sur l'accueil ?
   default: true
 - name: moodboard
   type: file
