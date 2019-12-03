@@ -5,9 +5,9 @@ form_url: https://bit.ly/Preciousprana-shiatsu-automne
 show_homepage: true
 location: espace-evolution
 ateliers:
-  - auto-massage-shiatsu
----
+- src/ateliers/auto-massage-shiatsu.md
 
+---
 L’automne approche et la fatigue, les rhumes et autres ne tardent pas à se manifester. Même la pluie est là pour baisser notre moral et énergie. Une séance d’auto-massage shiatsu vous apprend comment vous masser sur les méridiens d’automne, faire circuler votre énergie et rester en forme. Prenez soin de vous, vous le méritez bien !
 
 Plus qu'un massage, le shiatsu est un massage traditionnel japonais qui utilise les points d’acupressions. Par ce biais, on intervient sur plusieurs plans : physique, mental, émotionnel, relationnel, et on peut permettre à son corps de trouver des manières de s’autoguérir.
