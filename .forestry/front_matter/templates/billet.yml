@@ -8,11 +8,12 @@ fields:
   label: Date
   description: ''
   config:
-    required: false
+    required: true
     date_format: DD-MM-YYYY
     time_format: 
     display_utc: false
     export_format: YYYY-MM-DD
+  default: now
 - type: text
   name: title
   label: Titre
