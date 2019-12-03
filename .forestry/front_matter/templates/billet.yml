@@ -21,3 +21,5 @@ fields:
   config:
     maxSize: 10
   label: Poster
+pages:
+- src/lieux/radio-cocottes.md
