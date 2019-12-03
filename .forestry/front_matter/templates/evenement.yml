@@ -29,9 +29,10 @@ fields:
   label: Lieu
   config:
     source:
-      type: datafiles
-      file: src/_data/locations.json
+      type: pages
+      file: 
       path: 
+      section: evenements
 - name: form_url
   type: text
   label: Formulaire d'inscription
