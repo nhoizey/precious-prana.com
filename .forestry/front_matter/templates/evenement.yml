@@ -30,7 +30,7 @@ fields:
   config:
     source:
       type: datafiles
-      file: _data/locations.json
+      file: src/_data/locations.json
       path:
     # source:
     #   type: custom
