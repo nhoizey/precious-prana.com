@@ -6,3 +6,5 @@ fields:
 - name: title
   type: text
   label: Titre
+  config:
+    required: true
