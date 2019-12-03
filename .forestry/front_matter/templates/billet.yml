@@ -3,9 +3,19 @@ label: Billet de blog
 hide_body: false
 display_field: title
 fields:
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: DD-MM-YYYY
+    time_format: 
+    display_utc: false
+    export_format: YYYY-MM-DD
 - type: text
   name: title
-  label: Name
+  label: Titre
 - name: poster
   type: file
   config:
