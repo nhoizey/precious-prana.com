@@ -1,12 +1,12 @@
 ---
 title: Atelier Aromathérapie
-poster: /images/2019-05-21-atelier-aromatherapie.jpg
+poster: "/images/2019-05-21-atelier-aromatherapie.jpg"
 show_homepage: true
 location: espace-evolution
 ateliers:
-  - aromatherapie
----
+- src/ateliers/aromatherapie.md
 
+---
 Envie de savoir utiliser les huiles essentielles pour le relaxation, la gestion du stress, les rhumes et allergies et autres applications bien pratiques ?
 
 Venez à l'atelier Aromathérapie de Precious Prana avec Marie Duhammel Naturopathe, naturopathe formée à ISUPNAT.
