@@ -1,13 +1,13 @@
 ---
-title: "Atelier Yoga du Rire à Team Connect"
-form_url:
+title: Atelier Yoga du Rire à Team Connect
+form_url: 
 show_homepage: true
-poster: ""
-moodboard: ""
+poster: ''
+moodboard: ''
 ateliers:
-  - yoga-du-rire
----
+- src/ateliers/yoga-du-rire.md
 
+---
 Pour arrêter le stress, activer les hormones du bonheur, prendre du recul.
 
 Cet atelier Yoga du Rire aura lieu **vendredi 6 décembre** durant la **soirée Team Connect**, soirée dédiée aux femmes entrepreneurs.
