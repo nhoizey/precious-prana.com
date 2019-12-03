@@ -30,7 +30,7 @@ fields:
   config:
     source:
       type: documents
-      file: 
+      file: src/_data/locations.json
       path: 
       section: lieux
 - name: form_url
