@@ -9,10 +9,11 @@ tags: ateliers
 {{ content | safe }}
 </div>
 
+{% set atelierPath = page.inputPath | replace('./', '') %}
 {% set nbEvenements = 0 %}
 {%- for evenement in collections.agenda | reverse -%}
   {% if evenement.data.ateliers %}
-    {% if page.fileSlug in evenement.data.ateliers %}
+    {% if atelierPath in evenement.data.ateliers %}
       {% if nbEvenements == 0 %}
         <h2>Agenda</h2>
       {% endif %}
