@@ -6,6 +6,7 @@ show_homepage: true
 location: espace-evolution
 ateliers:
 - src/ateliers/auto-massage-shiatsu.md
+lieu: src/lieux/espace-evolution.md
 
 ---
 L’automne approche et la fatigue, les rhumes et autres ne tardent pas à se manifester. Même la pluie est là pour baisser notre moral et énergie. Une séance d’auto-massage shiatsu vous apprend comment vous masser sur les méridiens d’automne, faire circuler votre énergie et rester en forme. Prenez soin de vous, vous le méritez bien !
