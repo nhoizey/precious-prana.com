@@ -50,9 +50,6 @@ sections:
   match: "*.md"
   templates:
   - page
-- type: document
-  path: src/_data/locations.json
-  label: Lieux old
 upload_dir: src/images
 public_path: "/images"
 front_matter_path: ''
