@@ -1,7 +1,7 @@
 ---
 date: 2019-12-05
 title: Precious Prana s'investi pour l'association Fémininité Sans Abris en Essonne
-poster: ''
+poster: "/images/illustrations/feminite-sans-abri.png"
 
 ---
 Nous avons rencontré l'association « **Féminité Sans Abris** » qui lutte contre la précarité. Certes, comme plein d'autres, mais « FSA » a choisi de collecter des produits d'hygiène et de beauté, puis de les distribuer sous forme de kits aux personnes le plus démunies. **Ainsi elle permet à chacun de garder un peu de dignité et à la femme sa Féminité.**
