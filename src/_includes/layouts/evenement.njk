@@ -24,22 +24,27 @@ tags: agenda
 {{ content | safe }}
 </div>
 
-{% if location %}
-<h2>Localisation de l'événement</h2>
-<div class="vcard">
-<p class="fn">
-  {% if locations.locations[location].url %}<a class="url" href="{{ locations.locations[location].url }}">{% endif %}
-  <strong>{{ locations.locations[location].name }}</strong>
-  {% if locations.locations[location].url %}</a>{% endif %}
-</p>
-{% if locations.locations[location].address or locations.locations[location].postalcode or locations.locations[location].city %}
-<p class="adr">
-  {% if locations.locations[location].address %}<span class="street-address">{{ locations.locations[location].address }}</span><br>{% endif %}
-  {% if locations.locations[location].postalcode %}<span class="postal-code">{{ locations.locations[location].postalcode }}</span> {% endif %}
-  {% if locations.locations[location].city %}<span class="city">{{ locations.locations[location].city }}</span>{% endif %}
-</p>
-{% endif %}
-</div>
+{% if lieu %}
+  {% for lieuItem in collections.lieux %}
+    {% set lieuPath = lieuItem.inputPath | replace('./', '') %}
+    {% if lieuPath == lieu %}
+      <h2>Localisation de l'événement</h2>
+      <div class="vcard">
+      <p class="fn">
+        {% if lieuItem.data.url %}<a class="url" href="{{ lieuItem.data.url }}">{% endif %}
+        <strong>{{ lieuItem.data.title }}</strong>
+        {% if lieuItem.data.url %}</a>{% endif %}
+      </p>
+      {% if lieuItem.data.address or lieuItem.data.postalcode or lieuItem.data.city %}
+        <p class="adr">
+          {% if lieuItem.data.address %}<span class="street-address">{{ lieuItem.data.address }}</span><br>{% endif %}
+          {% if lieuItem.data.postalcode %}<span class="postal-code">{{ lieuItem.data.postalcode }}</span> {% endif %}
+          {% if lieuItem.data.city %}<span class="city">{{ lieuItem.data.city }}</span>{% endif %}
+        </p>
+      {% endif %}
+      </div>
+    {% endif %}
+  {% endfor %}
 {% endif %}
 
 {% include "cta.njk" %}
