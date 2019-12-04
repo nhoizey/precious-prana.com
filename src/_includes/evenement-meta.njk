@@ -4,9 +4,14 @@
     <dd>{{ date | plainDate }}</dd>
   </div>
   {% if location %}
-  <div>
-    <dt><svg class="icon"><use xlink:href="#symbol-map" /></svg></dt>
-    <dd>{{ locations.locations[location].name }}, à {{ locations.locations[location].city }}</dd>
-  </div>
+    {% for lieu in collections.lieux %}
+      {% set lieuPath = lieu.inputPath | replace('./', '') %}
+      {% if lieuPath == location %}
+        <div>
+          <dt><svg class="icon"><use xlink:href="#symbol-map" /></svg></dt>
+          <dd>{{ lieu.data.title }}, à {{ lieu.data.city }}</dd>
+        </div>
+      {% endif %}
+    {% endfor %}
   {% endif %}
 </dl>
