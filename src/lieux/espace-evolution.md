@@ -1,5 +1,5 @@
 ---
-name: "Espace Évolution"
+title: "Espace Évolution"
 address: "79, rue de Villecresnes"
 postalcode: "91800"
 city: "Brunoy"
