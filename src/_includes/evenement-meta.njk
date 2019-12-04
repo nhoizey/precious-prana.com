@@ -3,13 +3,13 @@
     <dt><svg class="icon"><use xlink:href="#symbol-date" /></svg></dt>
     <dd>{{ date | plainDate }}</dd>
   </div>
-  {% if location %}
-    {% for lieu in collections.lieux %}
-      {% set lieuPath = lieu.inputPath | replace('./', '') %}
-      {% if lieuPath == location %}
+  {% if lieu %}
+    {% for lieuItem in collections.lieux %}
+      {% set lieuPath = lieuItem.inputPath | replace('./', '') %}
+      {% if lieuPath == lieu %}
         <div>
           <dt><svg class="icon"><use xlink:href="#symbol-map" /></svg></dt>
-          <dd>{{ lieu.data.title }}, à {{ lieu.data.city }}</dd>
+          <dd>{{ lieuItem.data.title }}, à {{ lieuItem.data.city }}</dd>
         </div>
       {% endif %}
     {% endfor %}
