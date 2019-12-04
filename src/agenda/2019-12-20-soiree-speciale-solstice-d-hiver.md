@@ -3,7 +3,6 @@ title: Soirée spéciale « Solstice d'hiver »
 poster: ''
 form_url: 
 show_homepage: true
-location: bourgeoise-en-face
 lieu: src/lieux/chez-la-bourgeoise-d-en-face.md
 
 ---

@@ -3,7 +3,6 @@ title: Atelier auto-massage shiatsu
 poster: "/images/2019-06-18-atelier-auto-massage-shiatsu.png"
 form_url: http://bit.ly/precious-prana-auto-massage-juin
 show_homepage: true
-location: espace-evolution
 ateliers:
 - src/ateliers/auto-massage-shiatsu.md
 lieu: src/lieux/espace-evolution.md

@@ -2,7 +2,6 @@
 title: Atelier Aromathérapie
 poster: "/images/2019-05-21-atelier-aromatherapie.jpg"
 show_homepage: true
-location: espace-evolution
 ateliers:
 - src/ateliers/aromatherapie.md
 lieu: src/lieux/espace-evolution.md

@@ -4,7 +4,6 @@ form_url:
 show_homepage: true
 poster: ''
 moodboard: ''
-location: le-trente
 ateliers:
 - src/ateliers/yoga-du-rire.md
 lieu: src/lieux/le-trente.md

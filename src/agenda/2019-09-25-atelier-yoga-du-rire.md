@@ -1,7 +1,6 @@
 ---
 title: Atelier Yoga du Rire au « Trente », à Paris Saclay
 show_homepage: false
-location: le-trente
 ateliers:
 - src/ateliers/yoga-du-rire.md
 lieu: src/lieux/le-trente.md

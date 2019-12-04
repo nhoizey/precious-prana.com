@@ -4,7 +4,6 @@ form_url: https://bit.ly/oser-la-voix
 show_homepage: true
 poster: "/images/evenements/2019-10-17-atelier-oser-la-voix.png"
 moodboard: ''
-location: espace-evolution
 ateliers:
 - src/ateliers/oser-la-voix.md
 lieu: src/lieux/espace-evolution.md

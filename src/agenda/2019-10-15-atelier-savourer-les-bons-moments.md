@@ -4,7 +4,6 @@ form_url: https://bit.ly/savourerlesbonsmoments-automne
 show_homepage: true
 poster: "/images/evenements/2019-10-15-atelier-savourer-les-bons-moments.jpg"
 moodboard: ''
-location: radio-cocottes
 ateliers:
 - src/ateliers/savourer-les-bons-moments.md
 lieu: src/lieux/radio-cocottes.md

@@ -3,7 +3,6 @@ title: Atelier auto-massage shiatsu
 poster: "/images/2019-10-01-atelier-auto-massage-shiatsu.jpg"
 form_url: https://bit.ly/Preciousprana-shiatsu-automne
 show_homepage: true
-location: espace-evolution
 ateliers:
 - src/ateliers/auto-massage-shiatsu.md
 lieu: src/lieux/espace-evolution.md

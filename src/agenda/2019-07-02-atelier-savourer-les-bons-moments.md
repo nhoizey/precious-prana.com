@@ -4,7 +4,6 @@ form_url: http://bit.ly/PreciousPrana-savourerlesbonsmoments
 show_homepage: true
 poster: "/images/2019-07-02-atelier-savourer-les-bons-moments.png"
 moodboard: ''
-location: espace-evolution
 ateliers:
 - src/ateliers/savourer-les-bons-moments.md
 lieu: src/lieux/espace-evolution.md
