@@ -5,8 +5,9 @@ form_url: https://www.eventbrite.fr/e/billets-journee-bien-etre-atelier-et-confe
 moodboard: ''
 show_homepage: false
 location: le-trente
----
+lieu: src/lieux/le-trente.md
 
+---
 Nous avons le plaisir de vous annoncer la journée bien être au "Trente" (Massy, 91) le vendredi 21 juin.
 
 Une journée d'ateliers, conférences, séances individuelles et stands pour rencontrer des professionnels du bien être pour les entreprises et pour les particuliers.
