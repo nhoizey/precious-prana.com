@@ -134,6 +134,12 @@ module.exports = function (eleventyConfig) {
     });
   });
 
+  eleventyConfig.addCollection("lieux", function (collection) {
+    return collection.getFilteredByTag("lieux").sort((a, b) => {
+      return a.data.title.localeCompare(b.data.title);
+    });
+  });
+
   eleventyConfig.addCollection("agenda_futur", function (collection) {
     return collection.getFilteredByTag("agenda").filter(evenement => {
       return (
