@@ -3,7 +3,7 @@ label: Lieu
 hide_body: true
 display_field: name
 fields:
-- name: name
+- name: title
   type: text
   label: Nom
   config:

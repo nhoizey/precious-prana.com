@@ -1,5 +1,5 @@
 ---
-name: Le Trente
+title: Le Trente
 address: 30, avenue Carnot
 postalcode: "91300"
 city: Massy (Paris-Saclay)
