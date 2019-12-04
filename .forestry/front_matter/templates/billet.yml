@@ -22,3 +22,5 @@ fields:
   config:
     maxSize: 10
   label: Poster
+pages:
+- src/blog/precious-prana-s-investi-pour-l-association-fémininité-sans-abris-en-essonne.md
