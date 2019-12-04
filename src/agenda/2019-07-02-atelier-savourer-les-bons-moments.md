@@ -7,6 +7,7 @@ moodboard: ''
 location: espace-evolution
 ateliers:
 - src/ateliers/savourer-les-bons-moments.md
+lieu: src/lieux/espace-evolution.md
 
 ---
 Envie de bien profiter de vos moments, de les savourer et non de passer à côté et le regretter ?
