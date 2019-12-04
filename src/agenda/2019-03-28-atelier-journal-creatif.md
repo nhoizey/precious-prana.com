@@ -6,6 +6,7 @@ show_homepage: true
 location: espace-evolution
 ateliers:
 - src/ateliers/journal-creatif.md
+lieu: src/lieux/espace-evolution.md
 
 ---
 Le printemps est synonyme de création, connexion et renouveau. La créativité aide à détourner notre attention de nos tracas et nous redonne de l’énergie. C’est donc le moment parfait pour un atelier Journal Créatif®.
