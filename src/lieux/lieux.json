@@ -1,3 +1,4 @@
 {
-  "permalink": false
+  "layout": "layouts/lieu.njk",
+  "permalink": "/lieux/{{ title | slugify }}/"
 }
