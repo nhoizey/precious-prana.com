@@ -21,4 +21,5 @@ fields:
   type: text
   label: URL du site
 pages:
+- src/lieux/le-trente.md
 - src/lieux/radio-cocottes.md
