@@ -21,6 +21,7 @@ fields:
   type: text
   label: URL du site
 pages:
+- src/lieux/chez-la-bourgeoise-d-en-face.md
 - src/lieux/coffice-corner.md
 - src/lieux/le-trente.md
 - src/lieux/radio-cocottes.md
