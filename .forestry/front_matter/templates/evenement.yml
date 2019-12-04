@@ -26,13 +26,25 @@ fields:
       section: ateliers
 - name: location
   type: select
-  label: Lieu
+  label: Lieu old
   config:
     source:
       type: documents
       file: src/_data/locations.json
       path: locations
       section: lieux
+- name: lieu
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: lieux
+      file: 
+      path: 
+  label: Lieu
 - name: form_url
   type: text
   label: Formulaire d'inscription
