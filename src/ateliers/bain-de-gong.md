@@ -15,3 +15,5 @@ Voici un témoignage d'une participante :
 ::: note
 J’ai vécu mon premier bain de gong comme un moment très intense, à la fois doux et enveloppant, mais aussi physique, mettant en vibration tout mon corps. C’est une sensation agréable que je continue de ressentir et qui me fait du bien. A refaire !!! (H.M.)
 :::
+
+{% image src="/images/illustrations/circle-waves-on-water-bleu.jpg", alt="" %}
