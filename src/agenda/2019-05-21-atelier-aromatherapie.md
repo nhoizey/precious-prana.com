@@ -5,6 +5,7 @@ show_homepage: true
 location: espace-evolution
 ateliers:
 - src/ateliers/aromatherapie.md
+lieu: src/lieux/espace-evolution.md
 
 ---
 Envie de savoir utiliser les huiles essentielles pour le relaxation, la gestion du stress, les rhumes et allergies et autres applications bien pratiques ?
