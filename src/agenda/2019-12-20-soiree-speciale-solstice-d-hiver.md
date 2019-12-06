@@ -1,6 +1,6 @@
 ---
 title: Soirée spéciale « Solstice d'hiver »
-poster: ''
+poster: "/images/evenements/2019-12-21-solstice-d-hiver.png"
 form_url: https://www.weezevent.com/atelier-solstice-d-hiver-2
 show_homepage: true
 lieu: src/lieux/chez-la-bourgeoise-d-en-face.md
