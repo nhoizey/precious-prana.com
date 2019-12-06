@@ -20,8 +20,3 @@ fields:
 - name: url
   type: text
   label: URL du site
-pages:
-- src/lieux/coffice-corner.md
-- src/lieux/chez-la-bourgeoise-d-en-face.md
-- src/lieux/radio-cocottes.md
-- src/lieux/le-trente.md
