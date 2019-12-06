@@ -17,6 +17,8 @@ fields:
 - name: city
   type: text
   label: Ville
+  config:
+    required: true
 - name: url
   type: text
   label: URL du site
