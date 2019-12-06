@@ -10,8 +10,10 @@ De plus, les vibrations du Gong ont une influence positive sur notre corps. C'es
 
 Le Gong est souvent expérimenté lors d'un « bain de Gong », d'une durée de 45 à 60 minutes.
 
-Voici le témoignage d'une participante :
+Voici des témoignages de participantes :
 
 > J’ai vécu mon premier bain de gong comme un moment très intense, à la fois doux et enveloppant, mais aussi physique, mettant en vibration tout mon corps. C’est une sensation agréable que je continue de ressentir et qui me fait du bien. A refaire !!! (H.M.)
+
+> Je ne savais pas du tout à quoi m'attendre en allant à la séance. Et au final, j'ai vécu un moment incroyable et j'ai adoré. Au-delà de la détente et de la relaxation ressenties longtemps après, j'ai trouvé l'expérience sonore très belle. Le mélange d'harmoniques et de graves du gong m'a fait voyager loin dans l'espace et le temps. J'espère le refaire un jour et faire découvrir cette expérience autour de moi, aux amis et à la famille. (G.Q.)
 
 {% image src="/images/illustrations/circle-waves-on-water-bleu.jpg", alt="" %}
