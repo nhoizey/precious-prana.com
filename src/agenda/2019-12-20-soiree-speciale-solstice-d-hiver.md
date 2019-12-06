@@ -4,6 +4,7 @@ poster: ''
 form_url: 
 show_homepage: true
 lieu: src/lieux/chez-la-bourgeoise-d-en-face.md
+date: 2019-12-21
 
 ---
 Le solstice d’hiver est un moment clef dans l’année et se célèbre depuis longtemps dans de nombreuses traditions. C’est le moment de transition entre un cycle qui se termine et un nouveau qui va démarrer.
