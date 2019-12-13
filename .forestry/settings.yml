@@ -64,7 +64,7 @@ build:
   preview_docker_image: node:latest
   mount_path: "/srv"
   working_dir: "/srv"
-  instant_preview_command: yarn start
+  instant_preview_command: ELEVENTY_ENV=development gulp watch & gulp serve
   publish_command: yarn build
   publish_env:
   - ELEVENTY_ENV=production
