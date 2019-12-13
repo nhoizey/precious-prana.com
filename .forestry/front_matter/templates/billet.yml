@@ -22,5 +22,3 @@ fields:
   config:
     maxSize: 10
   label: Poster
-pages:
-- src/blog/lancement-d-un-groupe-de-codéveloppement-pour-les-parents-d-ados.md
