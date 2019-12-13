@@ -57,15 +57,15 @@ use_front_matter_path: false
 file_template: ":filename:"
 instant_preview: true
 build:
+  install_dependencies_command: yarn install
+  output_directory: dist
+  preview_docker_image: node:13.3
+  mount_path: "/srv"
   preview_env:
   - ELEVENTY_ENV=staging
-  preview_output_directory: _site
-  install_dependencies_command: yarn install
-  preview_docker_image: node:10
-  mount_path: "/srv"
+  preview_output_directory: dist
+  preview_command: yarn build
   instant_preview_command: yarn start
-  publish_command: gulp build
   publish_env:
-  - JEKYLL_ENV=production
-  output_directory: dist
-  preview_command: gulp build
+  - ELEVENTY_ENV=production
+  publish_command: yarn build
