@@ -60,7 +60,7 @@ build:
   preview_env:
   - ELEVENTY_ENV=staging
   preview_output_directory: _site
-  install_dependencies_command: bundle install --path vendor/bundle
+  install_dependencies_command: yarn install
   preview_docker_image: node:10
   mount_path: "/srv"
   instant_preview_command: yarn start
