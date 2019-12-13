@@ -15,5 +15,3 @@ fields:
   config:
     maxSize: 10
   label: Photo
-pages:
-- src/interviews/test-interview-draft.md
