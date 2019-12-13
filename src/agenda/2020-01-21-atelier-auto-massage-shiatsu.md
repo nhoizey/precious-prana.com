@@ -1,12 +1,12 @@
 ---
 title: Atelier auto-massage shiatsu
-poster: "/images/evenements/2019-12-10-atelier-auto-massage-shiatsu-precious-prana.png"
+poster: "/images/evenements/2020-01-21-atelier-auto-massage-shiatsu-precious-prana.png"
 form_url: https://www.weezevent.com/precious-prana-auto-massage-shiatsu-do-in
 show_homepage: true
 lieu: src/lieux/espace-evolution.md
 ateliers:
 - src/ateliers/auto-massage-shiatsu.md
-date: 2019-12-10
+date: 2020-01-21
 
 ---
 Plus qu'un massage, le shiatsu est un massage traditionnel japonais qui utilise les points d’acupressions. Par ce biais, on intervient sur plusieurs plans : physique, mental, émotionnel, relationnel, et on peut permettre à son corps de trouver des manières de s’autoguérir.
@@ -21,7 +21,7 @@ Déjà le 4e atelier d’auto-massage Shiatsu (aussi appelé Do-In) chez Preciou
 
 C’est l’occasion pour choisir une façon efficace pour être en forme cet automne, retrouver une ambiance d’échange et de détente, bref une vraie pause pour vous !
 
-Rendez-vous le **mardi 10 décembre**.
+Rendez-vous le **mardi 21 janvier 2020**.
 
 ## Vous hésitez ?
 
