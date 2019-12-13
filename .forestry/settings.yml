@@ -58,13 +58,13 @@ file_template: ":filename:"
 instant_preview: true
 build:
   preview_env:
-  - ELEVENTY_ENV=staging
+  - ELEVENTY_ENV=development
   preview_output_directory: dist
   install_dependencies_command: yarn install
   preview_docker_image: node:latest
   mount_path: "/srv"
   working_dir: "/srv"
-  instant_preview_command: ELEVENTY_ENV=development gulp watch & gulp serve
+  instant_preview_command: gulp watch & gulp serve
   publish_command: yarn build
   publish_env:
   - ELEVENTY_ENV=production
