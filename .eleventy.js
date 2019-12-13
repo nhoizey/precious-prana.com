@@ -129,53 +129,79 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addCollection("ateliers", function (collection) {
-    return collection.getFilteredByTag("ateliers").sort((a, b) => {
-      return a.data.title.localeCompare(b.data.title);
-    });
+    return collection.getFilteredByTag("ateliers")
+      .filter(item => {
+        return item.data.published || item.data.published === undefined;
+      })
+      .sort((a, b) => {
+        return a.data.title.localeCompare(b.data.title);
+      });
   });
 
   eleventyConfig.addCollection("lieux", function (collection) {
-    return collection.getFilteredByTag("lieux").sort((a, b) => {
-      return a.data.title.localeCompare(b.data.title);
-    });
+    return collection.getFilteredByTag("lieux")
+      .filter(item => {
+        return item.data.published || item.data.published === undefined;
+      })
+      .sort((a, b) => {
+        return a.data.title.localeCompare(b.data.title);
+      });
   });
 
   eleventyConfig.addCollection("agenda_futur", function (collection) {
-    return collection.getFilteredByTag("agenda").filter(evenement => {
-      return (
-        DateTime.fromJSDate(evenement.date, {
+    return collection.getFilteredByTag("agenda")
+      .filter(evenement => {
+        eventDiff = DateTime.fromJSDate(evenement.date, {
           zone: "Europe/Paris"
         })
           .diffNow("hours")
-          .toObject().hours >= -24
-      );
-    });
+          .toObject().hours;
+        return (
+          eventDiff >= -24 && (evenement.data.published === undefined || evenement.data.published)
+        );
+      });
   });
 
   eleventyConfig.addCollection("agenda_futur_homepage", function (collection) {
-    return collection.getFilteredByTag("agenda").filter(evenement => {
-      return (
-        (evenement.data.show_homepage === undefined ||
-          evenement.data.show_homepage) &&
-        DateTime.fromJSDate(evenement.date, {
+    return collection.getFilteredByTag("agenda")
+      .filter(evenement => {
+        eventDiff = DateTime.fromJSDate(evenement.date, {
           zone: "Europe/Paris"
         })
           .diffNow("hours")
-          .toObject().hours >= -24
-      );
-    });
+          .toObject().hours;
+        return (
+          (evenement.data.show_homepage === undefined ||
+            evenement.data.show_homepage) &&
+          eventDiff >= -24 && (evenement.data.published === undefined || evenement.data.published)
+        );
+      });
   });
 
   eleventyConfig.addCollection("agenda_passe", function (collection) {
-    return collection.getFilteredByTag("agenda").filter(evenement => {
-      return (
-        DateTime.fromJSDate(evenement.date, {
+    return collection.getFilteredByTag("agenda")
+      .filter(evenement => {
+        eventDiff = DateTime.fromJSDate(evenement.date, {
           zone: "Europe/Paris"
         })
           .diffNow("hours")
-          .toObject().hours < -24
-      );
-    });
+          .toObject().hours;
+        return eventDiff < -24 && (evenement.data.published || evenement.data.published === undefined)
+      });
+  });
+
+  eleventyConfig.addCollection("blog", function (collection) {
+    return collection.getFilteredByTag("blog")
+      .filter(item => {
+        return item.data.published || item.data.published === undefined;
+      });
+  });
+
+  eleventyConfig.addCollection("interviews", function (collection) {
+    return collection.getFilteredByTag("interviews")
+      .filter(item => {
+        return item.data.published || item.data.published === undefined;
+      });
   });
 
   // ------------------------------------------------------------------------
