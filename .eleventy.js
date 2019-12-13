@@ -131,7 +131,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection("ateliers", function (collection) {
     return collection.getFilteredByTag("ateliers")
       .filter(item => {
-        return process.env.ELEVENTY_ENV === 'staging' || item.data.published || item.data.published === undefined;
+        return process.env.ELEVENTY_ENV === 'development' || item.data.published || item.data.published === undefined;
       })
       .sort((a, b) => {
         return a.data.title.localeCompare(b.data.title);
@@ -141,7 +141,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection("lieux", function (collection) {
     return collection.getFilteredByTag("lieux")
       .filter(item => {
-        return process.env.ELEVENTY_ENV === 'staging' || item.data.published || item.data.published === undefined;
+        return process.env.ELEVENTY_ENV === 'development' || item.data.published || item.data.published === undefined;
       })
       .sort((a, b) => {
         return a.data.title.localeCompare(b.data.title);
@@ -157,7 +157,7 @@ module.exports = function (eleventyConfig) {
           .diffNow("hours")
           .toObject().hours;
         return (
-          eventDiff >= -24 && (process.env.ELEVENTY_ENV === 'staging' || evenement.data.published === undefined || evenement.data.published)
+          eventDiff >= -24 && (process.env.ELEVENTY_ENV === 'development' || evenement.data.published === undefined || evenement.data.published)
         );
       });
   });
@@ -173,7 +173,7 @@ module.exports = function (eleventyConfig) {
         return (
           (evenement.data.show_homepage === undefined ||
             evenement.data.show_homepage) &&
-          eventDiff >= -24 && (process.env.ELEVENTY_ENV === 'staging' || evenement.data.published === undefined || evenement.data.published)
+          eventDiff >= -24 && (process.env.ELEVENTY_ENV === 'development' || evenement.data.published === undefined || evenement.data.published)
         );
       });
   });
@@ -186,21 +186,22 @@ module.exports = function (eleventyConfig) {
         })
           .diffNow("hours")
           .toObject().hours;
-        return eventDiff < -24 && (process.env.ELEVENTY_ENV === 'staging' || evenement.data.published || evenement.data.published === undefined)
+        return eventDiff < -24 && (process.env.ELEVENTY_ENV === 'development' || evenement.data.published || evenement.data.published === undefined)
       });
   });
 
   eleventyConfig.addCollection("blog", function (collection) {
     return collection.getFilteredByTag("blog")
       .filter(item => {
-        return process.env.ELEVENTY_ENV === 'staging' || item.data.published || item.data.published === undefined;
+        return process.env.ELEVENTY_ENV === 'development' || item.data.published || item.data.published === undefined;
       });
   });
 
   eleventyConfig.addCollection("interviews", function (collection) {
+    console.log(process.env.ELEVENTY_ENV);
     return collection.getFilteredByTag("interviews")
       .filter(item => {
-        return process.env.ELEVENTY_ENV === 'staging' || item.data.published || item.data.published === undefined;
+        return process.env.ELEVENTY_ENV === 'development' || item.data.published || item.data.published === undefined;
       });
   });
 
