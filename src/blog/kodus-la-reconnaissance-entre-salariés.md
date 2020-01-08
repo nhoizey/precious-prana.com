@@ -1,6 +1,6 @@
 ---
 date: 2020-01-08
-title: Kodus – la reconnaissance entre salariés
+title: Kudos – la reconnaissance entre salariés
 poster: "/images/Canva - Thank You Led Signage petit Gratisography.jpg"
 
 ---
