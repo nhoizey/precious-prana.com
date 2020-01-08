@@ -5,8 +5,6 @@ poster: "/images/Canva - Thank You Led Signage petit Gratisography.jpg"
 published: false
 
 ---
-**Kodus – la reconnaissance entre salariés**
-
 Vous connaissez les Kudos ? il s’agit de petits mots d’appréciation entre collègues qui pourront être déposé dans un « Kudo box » et qui seront affichés publiquement (une sorte de « kudos mur »). Une excellente façon de motiver des salariés et de créer l’encouragement. Installer le principe est simple, très peu couteux et peut être très efficace.
 
 **Il y a 6 règles à respecter** :
