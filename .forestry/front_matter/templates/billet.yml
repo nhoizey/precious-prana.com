@@ -22,3 +22,5 @@ fields:
   config:
     maxSize: 10
   label: Poster
+pages:
+- src/blog/kodus-la-reconnaissance-entre-salariés.md
