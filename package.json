@@ -17,7 +17,7 @@
     "url": "https://github.com/nhoizey/precious-prana.com"
   },
   "dependencies": {
-    "@11ty/eleventy": "~0.9",
+    "@11ty/eleventy": "~0.10",
     "@sindresorhus/slugify": "~0.9",
     "concurrent-transform": "~1.0",
     "flatted": "~2.0",
