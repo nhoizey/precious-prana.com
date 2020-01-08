@@ -27,5 +27,5 @@ _Pour démarrer des kudos dans votre entreprise, vous pouvez commencer petit ave
 **Aller plus loin** :
 
 * Envie de mettre en place des kudos dans votre entreprise, [contactez-nous](mailto:contact@precious-prana.com) pour en parler et voir comment nous pouvons vous accompagner,
-* Vous pourrez trouver des articles intéressants (en anglais) sur le site [https://www.kudosnow.com/resource/white-papers/](https://www.kudosnow.com/resource/white-papers/ "https://www.kudosnow.com/resource/white-papers/"),
-* Jurgen Appello a écrit un très bon livre : [Managing for Happiness](http://jurgenappelo.com/managing-for-happiness/) où les kudos sont également développés.
+* Jurgen Appello a écrit un très bon livre : [Managing for Happiness](http://jurgenappelo.com/managing-for-happiness/) où les kudos sont également développés,
+* Vous pourrez trouver des articles intéressants (en anglais) sur le site [https://www.kudosnow.com/resource/white-papers/](https://www.kudosnow.com/resource/white-papers/ "https://www.kudosnow.com/resource/white-papers/") 
