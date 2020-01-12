@@ -27,7 +27,7 @@
     {%- if title != 'Accueil' %}
       {% set pageTitle %}{{ title }} — Precious Prana{% endset %}
     {% else %}
-      {% set pageTitle = "Precious Prana, faire pétiller les femmes" %}
+      {% set pageTitle = "Precious Prana, faire pétiller" %}
     {% endif %}
     <title>{{ pageTitle }}</title>
 
@@ -37,11 +37,13 @@
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Precious Prana" />
     <meta property="og:title" content="{{ pageTitle }}" />
-    <meta name="description" content="Faire pétiller les femmes" />
-    <meta property="og:description" content="Faire pétiller les femmes" />
-    <meta property="og:image" content="https://precious-prana.com/images/logo-precious-prana-social.jpg" />
+    <meta name="description" content="Faire pétiller" />
+    <meta property="og:description" content="Faire pétiller" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
+    {% block opengraphImage %}
+    <meta property="og:image" content="{% ogImage "Faire pétiller" %}" />
+    {% endblock %}
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:creator" content="@preciousprana" />
     <meta name="twitter:site" content="@preciousprana" />
