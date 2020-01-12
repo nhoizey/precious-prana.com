@@ -118,6 +118,30 @@ module.exports = function (eleventyConfig) {
     return `<div class="note">${content}</div>`;
   });
 
+  const getShareImage = require('@jlengstorf/get-share-image').default;
+  eleventyConfig.addNunjucksShortcode('ogImage', (title, tagline) => {
+    return title ? getShareImage({
+      imageWidth: 1200,
+      imageHeight: 630,
+      cloudName: 'nho',
+      imagePublicID: 'resources/precious-prana-opengraph-background',
+      textAreaWidth: 1000,
+      textLeftOffset: 100,
+      textColor: '479b10',
+
+      titleFont: 'Dosis',
+      titleBottomOffset: 270,
+      titleFontSize: 70,
+      title: title,
+
+      taglineFont: 'Dosis',
+      taglineTopOffset: 400,
+      taglineFontSize: 40,
+      tagline: tagline
+    }) : '';
+  });
+
+
   // ------------------------------------------------------------------------
   // Collections
   // ------------------------------------------------------------------------
@@ -198,7 +222,6 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addCollection("interviews", function (collection) {
-    console.log(process.env.ELEVENTY_ENV);
     return collection.getFilteredByTag("interviews")
       .filter(item => {
         return process.env.ELEVENTY_ENV === 'development' || item.data.published || item.data.published === undefined;
