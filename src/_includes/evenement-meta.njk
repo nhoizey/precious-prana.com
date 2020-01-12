@@ -1,17 +1,17 @@
+{% from "macros/intituleLieu.njk" import intituleLieu %}
+
 <dl class="meta">
   <div>
     <dt><svg class="icon"><use xlink:href="#symbol-date" /></svg></dt>
     <dd>{{ date | plainDate }}</dd>
   </div>
 {% if lieu %}
-{% for lieuItem in collections.lieux %}
-  {% set lieuPath = lieuItem.inputPath | replace('./', '') %}
-  {% if lieuPath == lieu %}
-  <div>
-    <dt><svg class="icon"><use xlink:href="#symbol-map" /></svg></dt>
-    <dd>{{ lieuItem.data.title }}, à {{ lieuItem.data.city }}</dd>
-  </div>
+  {% set lieuString %}{{ intituleLieu(lieu, collections.lieux) }}{% endset %}
+  {% if lieuString != '' %}
+    <div>
+      <dt><svg class="icon"><use xlink:href="#symbol-map" /></svg></dt>
+      <dd>{{ lieuString }}</dd>
+    </div>
   {% endif %}
-{% endfor %}
 {% endif %}
 </dl>
