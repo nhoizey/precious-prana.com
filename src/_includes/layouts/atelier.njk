@@ -3,6 +3,13 @@ layout: layouts/base.njk
 tags: ateliers
 ---
 
+{# {% extends "layouts/base.njk" %} #}
+
+{% block opengraphImage %}
+  {% set atelierExcerpt = page.templateContent | excerpt | safe %}
+  <meta property="og:image" content="{% ogImage title, atelierExcerpt %}" />
+{% endblock %}
+
 <h1>{{ title }}</h1>
 
 <div class="content">

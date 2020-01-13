@@ -3,6 +3,16 @@ layout: layouts/base.njk
 tags: agenda
 ---
 
+{% block opengraphImage %}
+  {% from "macros/intituleLieu.njk" import intituleLieu %}
+  {% set tagline = page.date | plainDate %}
+  {% set lieuString %}{{ intituleLieu(page.data.lieu, collections.lieux) }}{% endset %}
+  {% if lieuString != '' %}
+    {% set tagline %}{{ tagline }}%0A{{ lieuString | safe }}{% endset %}
+  {% endif %}
+  <meta property="og:image" content="{% ogImage title, tagline %}" />
+{% endblock %}
+
 <h1>{{ title }}</h1>
 
 {% set date = page.date %}
