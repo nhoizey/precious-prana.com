@@ -1,7 +1,7 @@
 const { DateTime } = require("luxon");
-const { parse, stringify } = require("flatted/cjs");
 const cleanCSS = require("clean-css");
 const slugify = require("@sindresorhus/slugify");
+const util = require('util');
 
 const excerpt = require("./src/_filters/excerpt.js");
 const future = require("./src/_filters/future.js");
@@ -18,7 +18,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("future", future);
   eleventyConfig.addFilter("permalinkDate", permalinkDate);
   eleventyConfig.addFilter("plainDate", plainDate);
-  eleventyConfig.addFilter("safeDump", stringify);
+  eleventyConfig.addFilter("dump", obj => util.inspect(obj));
 
   eleventyConfig.addFilter("slugify", function (string) {
     return slugify(string, {

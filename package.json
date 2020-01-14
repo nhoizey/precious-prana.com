@@ -20,7 +20,6 @@
     "@11ty/eleventy": "~0.10",
     "@sindresorhus/slugify": "~0.9",
     "concurrent-transform": "~1.0",
-    "flatted": "~2.0",
     "gravatar": "~1.8",
     "gulp": "~4.0",
     "gulp-clean": "~0.4",
