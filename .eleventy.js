@@ -125,6 +125,7 @@ module.exports = function (eleventyConfig) {
       imageHeight: 630,
       cloudName: 'nho',
       imagePublicID: 'resources/precious-prana-opengraph-background',
+      version: 'v1578868816',
       textAreaWidth: 1000,
       textLeftOffset: 100,
       textColor: '479b10',
