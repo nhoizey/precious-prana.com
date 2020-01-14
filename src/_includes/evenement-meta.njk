@@ -8,10 +8,10 @@
 {% if lieu %}
   {% set lieuString %}{{ intituleLieu(lieu, collections.lieux) }}{% endset %}
   {% if lieuString != '' %}
-    <div>
-      <dt><svg class="icon"><use xlink:href="#symbol-map" /></svg></dt>
-      <dd>{{ lieuString }}</dd>
-    </div>
+  <div>
+    <dt><svg class="icon"><use xlink:href="#symbol-map" /></svg></dt>
+    <dd>{{ lieuString }}</dd>
+  </div>
   {% endif %}
 {% endif %}
 </dl>
