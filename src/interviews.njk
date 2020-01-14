@@ -1,7 +1,14 @@
 ---
-title: Interviews
-layout: layouts/base.njk
+title: Interviews des intervenantes
 ---
+
+{% extends "layouts/base.njk" %}
+
+{# #######################################################################
+# Content block
+####################################################################### #}
+
+{% block content %}
 
 <h1>Interviews des intervenantes</h1>
 
@@ -12,3 +19,4 @@ layout: layouts/base.njk
     </li>
   {%- endfor -%}
 </ul>
+{% endblock %}

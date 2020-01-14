@@ -1,14 +1,18 @@
----
-layout: layouts/base.njk
----
+{% extends "layouts/base.njk" %}
 
-{# {% extends "layouts/base.njk" %} #}
+{# #######################################################################
+# Opengraph image block
+####################################################################### #}
 
 {% block opengraphImage %}
-  {% set atelierExcerpt = page.templateContent | excerpt | safe %}
-  <meta property="og:image" content="{% ogImage title, atelierExcerpt %}" />
+  <meta property="og:image" content="{% ogImage title, "Un atelier Precious Prana" %}" />
 {% endblock %}
 
+{# #######################################################################
+# Content block
+####################################################################### #}
+
+{% block content %}
 <h1>{{ title }}</h1>
 
 <div class="content">
@@ -36,3 +40,4 @@ layout: layouts/base.njk
     {% endif %}
   {% endif %}
 {%- endfor -%}
+{% endblock %}

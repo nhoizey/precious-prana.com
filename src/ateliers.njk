@@ -1,10 +1,17 @@
 ---
 title: Ateliers
-layout: layouts/base.njk
 tags:
   - navigation
 navorder: 2
 ---
+
+{% extends "layouts/base.njk" %}
+
+{# #######################################################################
+# Content block
+####################################################################### #}
+
+{% block content %}
 
 <h1>Ateliers</h1>
 
@@ -14,3 +21,4 @@ navorder: 2
   <p>En savoir plus sur l'<a href="{{ atelier.url }}">atelier {{ atelier.data.title }}</a>
   </p>
 {%- endfor -%}
+{% endblock %}

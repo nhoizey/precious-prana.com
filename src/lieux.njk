@@ -1,7 +1,14 @@
 ---
 title: Lieux
-layout: layouts/base.njk
 ---
+
+{% extends "layouts/base.njk" %}
+
+{# #######################################################################
+# Content block
+####################################################################### #}
+
+{% block content %}
 
 <h1>Lieux</h1>
 
@@ -12,3 +19,4 @@ layout: layouts/base.njk
     </li>
   {%- endfor -%}
 </ul>
+{% endblock %}
