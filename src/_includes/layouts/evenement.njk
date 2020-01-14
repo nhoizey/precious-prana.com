@@ -1,17 +1,25 @@
----
-layout: layouts/base.njk
----
+
+{% extends "layouts/base.njk" %}
+
+{# #######################################################################
+# Opengraph image block
+####################################################################### #}
 
 {% block opengraphImage %}
   {% from "macros/intituleLieu.njk" import intituleLieu %}
   {% set tagline = page.date | plainDate %}
-  {% set lieuString %}{{ intituleLieu(page.data.lieu, collections.lieux) }}{% endset %}
+  {% set lieuString %}{{ intituleLieu(lieu, collections.lieux) }}{% endset %}
   {% if lieuString != '' %}
     {% set tagline %}{{ tagline }}%0A{{ lieuString | safe }}{% endset %}
   {% endif %}
   <meta property="og:image" content="{% ogImage title, tagline %}" />
 {% endblock %}
 
+{# #######################################################################
+# Content block
+####################################################################### #}
+
+{% block content %}
 <h1>{{ title }}</h1>
 
 {% set date = page.date %}
@@ -57,3 +65,5 @@ layout: layouts/base.njk
 {% endif %}
 
 {% include "cta.njk" %}
+
+{% endblock %}

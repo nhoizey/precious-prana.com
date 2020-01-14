@@ -63,7 +63,9 @@
     {% include "navigation.njk" %}
     <main>
       <div class="container">
-        {{ content | safe }}
+        {% block content %}
+          {{ content | safe }}
+        {% endblock %}
 
         <div class="flyer">
           <a href="/files/flyer-juin2019.pdf">

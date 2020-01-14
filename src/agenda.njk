@@ -1,10 +1,25 @@
 ---
 title: Agenda
-layout: layouts/base.njk
 tags:
   - navigation
 navorder: 3
 ---
+
+{% extends "layouts/base.njk" %}
+
+{# #######################################################################
+# Opengraph image block
+####################################################################### #}
+
+{% block opengraphImage %}
+  <meta property="og:image" content="{% ogImage "L'agenda Precious Prana", site.url + page.url %}" />
+{% endblock %}
+
+{# #######################################################################
+# Content block
+####################################################################### #}
+
+{% block content %}
 
 <h1>Agenda</h1>
 
@@ -20,3 +35,5 @@ navorder: 3
   {% include "evenement-meta.njk" %}
   {{ evenement.templateContent | excerpt | safe }}
 {%- endfor -%}
+
+{% endblock %}
