@@ -1,4 +1,5 @@
 {
   "layout": "layouts/atelier.njk",
+  "tags": "ateliers",
   "permalink": "/ateliers/{{ title | slugify }}/"
 }

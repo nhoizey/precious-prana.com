@@ -1,4 +1,5 @@
 {
   "layout": "layouts/interview.njk",
+  "tags": "interviews",
   "permalink": "/interviews/{{ title | slugify }}/"
 }

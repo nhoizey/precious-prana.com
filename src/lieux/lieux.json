@@ -1,4 +1,5 @@
 {
   "layout": "layouts/lieu.njk",
+  "tags": "lieux",
   "permalink": "/lieux/{{ title | slugify }}/"
 }
