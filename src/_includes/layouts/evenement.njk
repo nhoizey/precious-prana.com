@@ -2,6 +2,15 @@
 {% extends "layouts/base.njk" %}
 
 {# #######################################################################
+# Title block
+####################################################################### #}
+
+{% block title %}
+<title>{{ title }}, le {{ page.date | plainDate }} — {{ site.name }}</title>
+<meta property="og:title" content="{{ title }}, le {{ page.date | plainDate }} — {{ site.name }}" />
+{% endblock %}
+
+{# #######################################################################
 # Opengraph image block
 ####################################################################### #}
 

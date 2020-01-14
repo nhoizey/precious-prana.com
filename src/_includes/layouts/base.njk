@@ -24,19 +24,16 @@
     </script>
     <script src="https://www.google-analytics.com/analytics.js" async defer></script>
 
-    {%- if title != 'Accueil' %}
-      {% set pageTitle %}{{ title }} — Precious Prana{% endset %}
-    {% else %}
-      {% set pageTitle = "Precious Prana, faire pétiller" %}
-    {% endif %}
-    <title>{{ pageTitle }}</title>
+    {% block title %}
+    <title>{{ title }} — {{ site.name }}</title>
+    <meta property="og:title" content="{{ title }} — {{ site.name }}" />
+    {% endblock %}
 
     <link rel="canonical" href="https://precious-prana.com{{ page.url }}" />
     <meta property="og:url" content="https://precious-prana.com{{ page.url }}" />
 
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Precious Prana" />
-    <meta property="og:title" content="{{ pageTitle }}" />
     <meta name="description" content="Faire pétiller" />
     <meta property="og:description" content="Faire pétiller" />
     <meta property="og:image:width" content="1200" />
