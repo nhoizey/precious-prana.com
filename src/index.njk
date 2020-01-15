@@ -1,0 +1,48 @@
+---
+title: Accueil
+subtitle: La communauté pour faire pétiller l’énergie vitale des mères actives
+tags:
+  - navigation
+navorder: 1
+---
+
+{% extends "layouts/base.njk" %}
+
+{% block title %}
+<title>Precious Prana, faire pétiller</title>
+{% endblock %}
+
+{# #######################################################################
+# Opengraph image block
+####################################################################### #}
+
+{% block opengraphImage %}
+  <meta property="og:image" content="{% ogImage "Interviews des intervenantes%0APrecious Prana" %}" />
+{% endblock %}
+
+{# #######################################################################
+# Content block
+####################################################################### #}
+
+{% block content %}
+
+<p class="intro">
+L’automne est bien installé, parfois on sent l’hiver pointer le bout de son nez. Les jours sont plus courts et vous pouvez avoir envie de rester sous la couette. Mais pendant cette période de l’année, c’est aussi le moment de l’introspection.
+</p>
+
+{% image_third src="/images/illustrations/woman-blowing-glitters-on-her-hands.jpg", alt="Woman blowing glitters on her hands, © Oleg Magni", zoom=false %}
+
+<p>L’introspection est un moment de repos certes, mais pour cultiver ce que vous avez préparé pendant le printemps et l’été. Tout comme dans les terres. C’est aussi le moment de préparer ce que vous avez envie de faire germer par la suite. Pour pouvoir faire germer de belles choses, vous aurez besoin de repos, d’une terre fertile, d’un bon arrosage.</p>
+<p>Nos ateliers, en individuel, en entreprise ou entre entrepreneurs, vous proposent ce moment de repos pour créer un environnement réceptif, pour créer des échanges et préparer vos idées et envies à faire germer demain.</p>
+<p>Des ateliers de lâcher prise et prise de recul, des ateliers construits autour des échanges et de l’ouverture des idées et de la créativité, et des ateliers pour apprécier la joie et se mettre en action. Nos ateliers sont faits pour accompagner le mouvement continu de la vie, de manière à ce que l’énergie soit utilisée au bon moment. Pour la vie personnelle, tout comme la vie professionnelle, et l’équilibre entre les deux.</p>
+
+{% set events = collections.agenda_futur %}
+{% include "next-events.njk" %}
+
+<hr />
+
+<p>Dès à présent, abonnez-vous à <a href="/newsletter/">notre newsletter</a> pour suivre nos actualités, nos astuces, et pour être au courant en direct de nos événement. Et trouvez nos publications sur <a href="/blog/">le blog</a>.</p>
+
+<p>Pour plus de renseignements, <a href="/contact">contactez-nous</a>.</p>
+
+{% endblock %}
