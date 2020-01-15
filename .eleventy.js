@@ -250,13 +250,12 @@ module.exports = function (eleventyConfig) {
     }
   };
   let markdownItContainer = require("markdown-it-container");
-  eleventyConfig.setLibrary(
-    "md",
-    markdownIt(markdownItOptions)
+  const md = markdownIt(markdownItOptions)
       .use(markdownItAnchor, markdownItAnchorOptions)
       .use(markdownItContainer, "info")
-      .use(markdownItContainer, "note")
-  );
+      .use(markdownItContainer, "note");
+
+  eleventyConfig.setLibrary("md", md);
 
   eleventyConfig
     .addPassthroughCopy("src/files")
