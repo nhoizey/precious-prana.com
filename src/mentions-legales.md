@@ -13,13 +13,11 @@ E-mail : <contact@precious-prana.com>
 Adresse : 21, allée de la Chênaie 91210 Draveil, France
 Tel : [06 33 96 84 83](tel:+33633968483)
 
-« Precious Prana » est juridiquement hébergée par Couveuse GEAI
-(Groupement des Entrepreneurs Accompagnés Individuellement)
-Adresse : 18, rue du Faubourg du Temple 75011 Paris, France
-Tel : [01 43 55 09 48](tel:+33143550948)
-SIRET : 433 545 357 00025
-Code APE : 9499Z
-N° de TVA intracommunautaire : FR 40433545357
+« Precious Prana » est juridiquement hébergée par ESSCOOP
+Siège Social et Bureau : 28 avenue de la Résistance 91700 Sainte Geneviève des Bois
+SIRET : 5393283930035
+Code APE : 7022Z
+N° de TVA intracommunautaire : FR68539328393
 
 ## L’hébergeur
 
