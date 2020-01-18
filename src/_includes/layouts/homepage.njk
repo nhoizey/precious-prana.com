@@ -1,0 +1,24 @@
+{% extends "layouts/base.njk" %}
+
+{% block title %}
+<title>Precious Prana, faire pétiller</title>
+<meta property="og:title" content="Precious Prana, faire pétiller" />
+{% endblock %}
+
+{# #######################################################################
+# Opengraph image block
+####################################################################### #}
+
+{% block opengraphImage %}
+  <meta property="og:image" content="{% ogImage "Interviews des intervenantes%0APrecious Prana" %}" />
+{% endblock %}
+
+{# #######################################################################
+# Content block
+####################################################################### #}
+
+{% block content %}
+
+{{ content | safe }}
+
+{% endblock %}
