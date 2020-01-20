@@ -49,3 +49,5 @@ fields:
   config:
     maxSize: 10
   label: Moodboard
+pages:
+- src/agenda/atelier-yoga-du-rire.md
