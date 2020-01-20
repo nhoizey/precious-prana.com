@@ -1,8 +1,8 @@
 ---
-title: "Yoga du Rire"
----
+title: Yoga du Rire
 
-Pour arrêter le stress, activer les hormones du bonheur, prendre du recul : participez à une séance de Yoga du Rire. Efficace même si vous pensez ne pas savoir rire !
+---
+Pour supprimer le stress, activer les hormones du bonheur, prendre du recul, rien de mieux que de participer à une séance de Yoga du Rire. Techniquement, le Yoga du rire est une combinaison judicieuse de rires sans raison favorisant les respirations profondes (prana). N’importe qui peut ainsi rire, sans recourir à l’humour ou à des blagues. Mettez donc vos hésitations de côté, car même si vous pensez ne pas savoir rire, c'est efficace ! C'est même prouvé maintenant par les scientifiques : rire est bon pour la santé. Vous en ressortirez plus léger, détendu et avec le moral au beau fixe.
 
 ## Historique
 
@@ -18,21 +18,22 @@ La science confirme que la pratique du Yoga du Rire augmente la longévité et c
 
 On peut donc lister les bienfaits suivants :
 
-- Détruit le stress et libère les tensions
-- Améliore la qualité du sommeil
-- Lutte contre la douleur
-- Renforce notre système immunitaire
-- Facilite la digestion
-- Installe rapide de la bonne humeur
-- Renforce des idées positives
-- Arrête le mental (on ne pense plus à autre chose)
-- Rapproche avec les autres
+* Détruit le stress et libère les tensions
+* Améliore la qualité du sommeil
+* Lutte contre la douleur
+* Renforce notre système immunitaire
+* Facilite la digestion
+* Installe rapide de la bonne humeur
+* Renforce des idées positives
+* Arrête le mental (on ne pense plus à autre chose)
+* Rapproche avec les autres
 
 Regardez un court extrait en vidéo :
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CTE2uGTJrRw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Pour plus d’informations
+
 {% image_third src="/images/yoga-du-rire-logo-officiel.jpg", alt="Yoga du Rire", width=2598 %}
 
 L'atelier est animé par Jacqueline Oud, fondatrice Precious Prana et animatrice agréée formée par l’[Institut Français du Yoga du Rire](https://www.formation-yogadurire.fr/).
