@@ -11,14 +11,15 @@ moodboard: ''
 published: false
 
 ---
+A l'occasion de sa journée portes ouvertes, le Rooftop de Viry - nouvelle espace de co-working à Viry Chatillon - propose différents ateliers et rencontres.
 
-A l'occasion de sa journée portes ouvertes, le Rooftop de Viry - nouvelle espace de co-working propose différents ateliers et rencontres. 
+Precious Prana y sera présent avec deux ateliers Yoga du Rire :
 
-Precious Prana y sera avec deux ateliers Yoga du Rire :
-
-* 11h - 12h 
+* 11h - 12h
 * 16h - 17h
 
-Pour vous inscrire, allez directement sur le site du Rooftop : 
+Pour vous inscrire, allez directement sur le site du Rooftop :
 
 [https://www.lerooftopdeviry.fr/evenements-rooftop-de-viry/journee-portes-ouvertes/](https://www.lerooftopdeviry.fr/evenements-rooftop-de-viry/journee-portes-ouvertes/ "https://www.lerooftopdeviry.fr/evenements-rooftop-de-viry/journee-portes-ouvertes/")
+
+L'atelier aura lieu au 3e étage du Rootfop avec la superbe vue sur les lacs de Viry. 
