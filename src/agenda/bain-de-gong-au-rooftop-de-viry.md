@@ -8,7 +8,6 @@ lieu: src/lieux/le-rooftop-de-viry.md
 form_url: ''
 poster: "/images/illustrations/circle-waves-on-water-bleu.jpg"
 moodboard: ''
-published: false
 
 ---
 A l'occasion de sa journée portes ouvertes, le Rooftop de Viry - nouvelle espace de co-working à Viry Chatillon - propose différents ateliers et rencontres.
