@@ -35,7 +35,7 @@
     "markdown-it-container": "~2.0",
     "pump": "~3.0",
     "require-dir": "~1.2",
-    "clean-css": "^4.2.1",
+    "clean-css": "^4.2.3",
     "@jlengstorf/get-share-image": "^0.4.0"
   }
 }
