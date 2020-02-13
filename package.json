@@ -27,7 +27,7 @@
     "gulp-rename": "~1.4",
     "gulp-sass": "~4.0",
     "gulp-serve": "~1.4",
-    "gulp-shell": "~0.7",
+    "gulp-shell": "~0.8",
     "gulp-uglify": "~3.0",
     "luxon": "~1.21",
     "markdown-it": "~10.0",
