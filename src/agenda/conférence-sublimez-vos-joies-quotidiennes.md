@@ -1,7 +1,7 @@
 ---
 show_homepage: true
 date: 2020-03-01
-title: 'Conférence " Sublimez vos joies quotidiennes" '
+title: 'Conférence "Sublimez vos joies quotidiennes"'
 ateliers:
 - src/ateliers/savourer-les-bons-moments.md
 lieu: ''
@@ -19,7 +19,8 @@ Lors de cette conférence, vous y trouverez des principes de "Savourer les bons 
 
 Precious Prana sera présent au salon les deux jours avec un stand dédié. Alors venez aux salon pour assister à la conférence et échanger avec nous en direct.
 
-![](/images/Flyer vivre autrement 2020 verso-2.jpg)
+{% image src="/images/Flyer vivre autrement 2020 verso-2.jpg", alt="Flyer Vivre Autrement 2020, verso", zoom="true" %}
+
 
 #### **Conférence "Sublimez vos joies quotidiennes", dimanche 1er mars à 12h30 (durée 1 heure, accès gratuit)**
 
