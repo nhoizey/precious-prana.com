@@ -6,8 +6,8 @@ ateliers:
 - src/ateliers/savourer-les-bons-moments.md
 lieu: ''
 form_url: ''
-poster: "/images/Flyer vivre autrement 2020 verso.jpg"
-moodboard: "/images/Flyer vivre autrement 2020 recto.jpg"
+poster: "/images/Affiche Brunoy 2020 A4.jpg"
+moodboard: "/images/Flyer vivre autrement 2020 verso-1.jpg"
 published: false
 
 ---
@@ -19,9 +19,11 @@ Lors de cette conférence, vous y trouverez des principes de "Savourer les bons 
 
 Precious Prana sera présent au salon les deux jours avec un stand dédié. Alors venez aux salon pour assister à la conférence et échanger avec nous en direct.
 
-**Conférence "Sublimez vos joies quotidiennes", dimanche 1er mars à 12h30 (durée 1 heure)**
+![](/images/Flyer vivre autrement 2020 verso-2.jpg)
 
-Salon Vivre Autrement, par l'Association Transm'être
+##### **Conférence "Sublimez vos joies quotidiennes", dimanche 1er mars à 12h30 (durée 1 heure, accès gratuit)**
+
+Salon Vivre Autrement, par [l'Association Transm'être](https://assotransmetre.fr/programme-salon-vivre-autrement-brunoy-2020/)
 
 Salle des fêtes et salles associatives 
 
