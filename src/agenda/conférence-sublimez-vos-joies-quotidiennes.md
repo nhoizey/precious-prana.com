@@ -17,7 +17,7 @@ Parfois notre vie de tous les jours semble nous fatiguer, et nous aspirons uniqu
 
 Lors de cette conférence, vous y trouverez des principes de "Savourer les bons moments" complétés par des exercises appliqués en direct pour découvrir toute la force de nos ateliers Precious Prana.
 
-Precious Prana sera présent au salon les deux jours avec un stand dédié. Alors venez aux salon pour assiter à la conférence et échanger avec nous en direct.
+Precious Prana sera présent au salon les deux jours avec un stand dédié. Alors venez aux salon pour assister à la conférence et échanger avec nous en direct.
 
 **Conférence "Sublimez vos joies quotidiennes", dimanche 1er mars à 12h30 (durée 1 heure)**
 
