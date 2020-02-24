@@ -23,6 +23,6 @@ Precious Prana sera présent au salon les deux jours avec un stand dédié. Alor
 
 Salon Vivre Autrement, par l'Association Transm'être
 
-SALLE DES FÊTES ET SALLES ASSOCIATIVES
+Salle des fêtes et salles associatives 
 
-IMPASSE DE LA MAIRIE, BRUNOY
+Impasse de la Mairie, Brunoy
