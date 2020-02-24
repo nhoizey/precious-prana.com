@@ -6,20 +6,20 @@ ateliers:
 - src/ateliers/savourer-les-bons-moments.md
 lieu: ''
 form_url: ''
-poster: "/images/Flyer vivre autrement 2020.pdf"
-moodboard: ''
+poster: "/images/Flyer vivre autrement 2020 verso.jpg"
+moodboard: "/images/Flyer vivre autrement 2020 recto.jpg"
 published: false
 
 ---
-Le salon Vivre Autrement au lieu le samedi 29 février et dimanche 1er mars. A cet ocassion, Precious Prana donne une conférence sur le thème Sublimez vos joies quotidiennes". 
+Le salon Vivre Autrement au lieu le samedi 29 février et dimanche 1er mars. A cet ocassion, Precious Prana donne une conférence sur le thème "Sublimez vos joies quotidiennes".
 
-_Parfois notre vie de tous les jours semble nous fatiguer, et nous aspirons uniquement aux vacances pour nous ressourcer. Et si nous faisions le contraire, et sublimions notre vie de tous les jours pour nous donner de l’énergie, y mettre des instants magiques et apprendre à apprécier les moments ? Basé sur la psychologie positive et la science du bien-être, découvrez comment quelques étapes peuvent sublimer les joies de tous les jours. Accessible à tous ceux qui souhaitent être acteurs/actrices de leur vie. Vous allez pétiller._
+Parfois notre vie de tous les jours semble nous fatiguer, et nous aspirons uniquement aux vacances pour nous ressourcer. Et si nous faisions le contraire, et sublimions notre vie de tous les jours pour nous donner de l’énergie, y mettre des instants magiques et apprendre à apprécier les moments ? Basé sur la psychologie positive et la science du bien-être, découvrez comment quelques étapes peuvent sublimer les joies de tous les jours. Accessible à tous ceux qui souhaitent être acteurs/actrices de leur vie. Vous allez pétiller.
 
-Lors de cette conférence, vous y trouverez des principes de "Savourer les bons moments" complétés par des exercises appliqués en direct pour découvrir toute la force de nos ateliers Precious Prana. 
+Lors de cette conférence, vous y trouverez des principes de "Savourer les bons moments" complétés par des exercises appliqués en direct pour découvrir toute la force de nos ateliers Precious Prana.
 
-Precious Prana sera présent au salon les deux jours avec un stand dédié. Alors venez aux salon pour assiter à la conférence et échanger avec nous en direct. 
+Precious Prana sera présent au salon les deux jours avec un stand dédié. Alors venez aux salon pour assiter à la conférence et échanger avec nous en direct.
 
-**Conférence "Sublimez vos joies quotidiennes", dimanche 1er mars à 12h30 (durée 1 heure)** 
+**Conférence "Sublimez vos joies quotidiennes", dimanche 1er mars à 12h30 (durée 1 heure)**
 
 Salon Vivre Autrement, par l'Association Transm'être
 
