@@ -21,7 +21,7 @@ Precious Prana sera présent au salon les deux jours avec un stand dédié. Alor
 
 ![](/images/Flyer vivre autrement 2020 verso-2.jpg)
 
-##### **Conférence "Sublimez vos joies quotidiennes", dimanche 1er mars à 12h30 (durée 1 heure, accès gratuit)**
+#### **Conférence "Sublimez vos joies quotidiennes", dimanche 1er mars à 12h30 (durée 1 heure, accès gratuit)**
 
 Salon Vivre Autrement, par [l'Association Transm'être](https://assotransmetre.fr/programme-salon-vivre-autrement-brunoy-2020/)
 
