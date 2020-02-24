@@ -11,7 +11,7 @@ moodboard: "/images/Flyer vivre autrement 2020 verso-1.jpg"
 published: false
 
 ---
-Le salon Vivre Autrement au lieu le samedi 29 février et dimanche 1er mars. A cet ocassion, Precious Prana donne une conférence sur le thème "Sublimez vos joies quotidiennes".
+Le salon "Vivre Autrement" au lieu le samedi 29 février et dimanche 1er mars. A cet ocassion, Precious Prana donne une conférence sur le thème "Sublimez vos joies quotidiennes".
 
 Parfois notre vie de tous les jours semble nous fatiguer, et nous aspirons uniquement aux vacances pour nous ressourcer. Et si nous faisions le contraire, et sublimions notre vie de tous les jours pour nous donner de l’énergie, y mettre des instants magiques et apprendre à apprécier les moments ? Basé sur la psychologie positive et la science du bien-être, découvrez comment quelques étapes peuvent sublimer les joies de tous les jours. Accessible à tous ceux qui souhaitent être acteurs/actrices de leur vie. Vous allez pétiller.
 
