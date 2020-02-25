@@ -36,6 +36,6 @@
     "pump": "~3.0",
     "require-dir": "~1.2",
     "clean-css": "^4.2.1",
-    "@jlengstorf/get-share-image": "^0.4.0"
+    "@jlengstorf/get-share-image": "^0.7.0"
   }
 }
