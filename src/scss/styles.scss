@@ -240,9 +240,15 @@ figure {
   margin: 1em 0 1em 1em;
 }
 
+.onethird {
+  width: 33%;
+  float: right;
+  margin: 1em 0 1em 1em;
+}
+
 .onehalf {
   width: 100%;
-  margin: 1em 0;
+  margin: 1em auto;
 
   @media screen and (min-width: 40rem) {
     width: 50%;
@@ -251,15 +257,13 @@ figure {
   }
 }
 
-.onethird {
-  width: 33%;
-  float: right;
-  margin: 1em 0 1em 1em;
-}
-
 .twothirds {
-  text-align: center;
+  width: 100%;
   margin: 1em auto;
+
+  @media screen and (min-width: 40rem) {
+    width: 66%;
+  }
 }
 
 .gallery {
@@ -269,7 +273,7 @@ figure {
   flex-wrap: wrap;
   align-items: flex-start;
 
-  .onehalf, .onethird, .fullwidth {
+  .onehalf, .onethird, .twothirds, .fullwidth {
     float: none;
     margin: 1em 0 0 1em;
   }
