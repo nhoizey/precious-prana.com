@@ -1,12 +1,12 @@
 ---
 show_homepage: true
-date: 2020-03-15
-title: Atelier Yoga du Rire
+date: 2020-03-28
+title: Atelier Yoga du Rire à Draveil
 ateliers:
 - src/ateliers/yoga-du-rire.md
-lieu: ''
-form_url: ''
-poster: ''
+lieu: src/lieux/radio-cocottes.md
+form_url: https://www.weezevent.com/atelier-yoga-du-rire-7
+poster: "/images/Yoga du Rire - Mars- image-1.jpg"
 moodboard: ''
 published: false
 
