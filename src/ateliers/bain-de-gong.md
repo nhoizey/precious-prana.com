@@ -18,12 +18,12 @@ Voici des témoignages de participantes :
 
 ### Nouveau - séances individuelles
 
-Depuis début mars il est possible de profitez d'une séance de relaxation vibratoire "Bain de Gong" individuelle. Il y a deux durées possibles :
+Depuis début mars, il est possible de profiter d'une séance de relaxation vibratoire "Bain de Gong" individuelle. Il y a deux durées possibles :
 
 * **30 minutes : 30€**
 * **50 minutes : 50€**
 
-A noter: pour le mois de mars, mois d'ouverture des séances individuelles auprès de particuliers, je propose une **réduction de 10% sur la durée de 50 minutes**. La séance de 50 minutes sera donc au prix de 45€.
+A noter: pour le mois de mars, mois d'ouverture des séances individuelles auprès de particuliers, nous proposons une **réduction de 10% sur la durée de 50 minutes**. La séance de 50 minutes sera donc au prix de 45€.
 
 **Informations pratiques :**
 
