@@ -16,8 +16,6 @@ Voici des témoignages de participantes :
 
 > Je ne savais pas du tout à quoi m'attendre en allant à la séance. Et au final, j'ai vécu un moment incroyable et j'ai adoré. Au-delà de la détente et de la relaxation ressenties longtemps après, j'ai trouvé l'expérience sonore très belle. Le mélange d'harmoniques et de graves du gong m'a fait voyager loin dans l'espace et le temps. J'espère le refaire un jour et faire découvrir cette expérience autour de moi, aux amis et à la famille. (G.Q.)
 
-{% image src="/images/illustrations/circle-waves-on-water-bleu.jpg", alt="" %}
-
 ### Nouveau - séances individuelles
 
 Depuis début mars il est possible de profitez d'une séance de relaxation vibratoire "Bain de Gong" individuelle. Il y a deux durées possibles :
@@ -32,3 +30,5 @@ A noter: pour le mois de mars, mois d'ouverture des séances individuelles aupr�
 * Le cabinet se trouve au Rooftop de Viry, 53 Rue Francoeur, 91170 Viry-Châtillon
 * Le règlement se fait en espèces ou chèque
 * Pour prendez rdv: au téléphone 06.33.96.84.83 ou via mail : contact@precious-prana.com
+
+{% image src="/images/illustrations/circle-waves-on-water-bleu.jpg", alt="" %}
