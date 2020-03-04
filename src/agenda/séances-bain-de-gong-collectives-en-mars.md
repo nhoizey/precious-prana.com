@@ -8,7 +8,6 @@ lieu: ''
 form_url: https://www.medamagnetisme.com/book-online
 poster: ''
 moodboard: ''
-published: false
 
 ---
 Nous continuons les séances collectives de relaxation vibratoire en mars. Toujours en petits groupes pour garder l'esprit cocon et l'envie d'un moment de partage après la séance. 
