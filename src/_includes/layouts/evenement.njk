@@ -37,7 +37,10 @@
 {% include "cta.njk" %}
 
 {% if poster %}
-<img src="{{ poster }}" alt="{{ title }} le {{ page.date | plainDate }}, par Precious Prana" class="poster" />
+<img
+  src="{{ poster }}"
+  alt="{{ title }} le {{ page.date | plainDate }}, par Precious Prana"
+  class="poster" />
 {% endif %}
 
 <div class="content">

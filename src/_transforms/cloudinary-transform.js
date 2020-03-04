@@ -157,7 +157,7 @@ module.exports = function (value, outputPath) {
           image.classList.remove(...image.classList);
           const figCaption = document.createElement('figcaption');
           figCaption.innerHTML =
-            md.render(caption) + imageSettings.zoom ? `<p class="zoom">&#128269;&nbsp;<a href="${imageUrl}" target="_blank">zoom</a></p>` : ''; // TODO: parse Markdown
+            (caption ? md.render(caption) : '') + (imageSettings.zoom ? `<p class="zoom">&#128269;&nbsp;<a href="${imageUrl}" target="_blank">zoom</a></p>` : ''); // TODO: parse Markdown
           figure.appendChild(image.cloneNode(true));
           figure.appendChild(figCaption);
           image.replaceWith(figure);

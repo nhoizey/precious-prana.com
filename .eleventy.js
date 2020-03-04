@@ -239,10 +239,8 @@ module.exports = function (eleventyConfig) {
   // Transforms
   // ------------------------------------------------------------------------
 
-    if (process.env.ELEVENTY_ENV == "production") {
-      const cloudinaryTransform = require("./src/_transforms/cloudinary-transform.js");
-      eleventyConfig.addTransform("cloudinary", cloudinaryTransform);
-    }
+    const cloudinaryTransform = require("./src/_transforms/cloudinary-transform.js");
+    eleventyConfig.addTransform("cloudinary", cloudinaryTransform);
 
   // ------------------------------------------------------------------------
   // Markdown
