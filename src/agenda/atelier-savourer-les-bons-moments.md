@@ -1,12 +1,13 @@
 ---
 title: Atelier Savourer les bons moments
-form_url: https://bit.ly/savourerlesbonsmoments-automne
+form_url: https://www.weezevent.com/atelier-savourer-les-bons-moments
 show_homepage: true
-poster: "/images/evenements/2019-10-15-atelier-savourer-les-bons-moments.jpg"
+poster: "/images/Savourer les bons moments - Mars image.jpg"
 moodboard: ''
 ateliers:
 - src/ateliers/savourer-les-bons-moments.md
 lieu: src/lieux/radio-cocottes.md
+date: 2020-03-20
 published: false
 
 ---
@@ -17,8 +18,6 @@ L'atelier **« Savourer les bons moments »** vous explique ce qui vous empêc
 Mieux encore : on vous apprend aussi les astuces pour faire perdurer les bienfaits le plus longtemps possible, vous permettre de recharger votre énergie et pétiller !
 
 **Au programme :** des exercices ludiques, des explications et études, des exemples, des jeux et des échanges.
-
-**Nouveau lieu :** Radio Cocottes, à Draveil.
 
 Et, comme d'habitude, un buffet et moment de partage.
 
