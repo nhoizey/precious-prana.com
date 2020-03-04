@@ -10,9 +10,13 @@ lieu: src/lieux/radio-cocottes.md
 date: 2020-03-20
 
 ---
-Envie de bien profiter de vos moments, de les savourer et non de passer à côté et le regretter ?
+Envie de bien profiter de vos moments, de les savourer et non de passer à côté et le regretter ? Les effets positifs de savoir savourer sont nombreux sur le cerveau, alors apprenez à les mettre à votre profit. 
 
-L'atelier **« Savourer les bons moments »** vous explique ce qui vous empêche de profiter à fond de vos moments, quelles sont les raisons de ces déceptions, et comment les éviter, pour être en forme et profiter des moments.
+L'atelier **« Savourer les bons moments »** vous explique ce qui vous empêche de profiter à fond de vos moments, quelles sont les raisons de ces déceptions, et comment les éviter, pour être en forme et profiter des moments. 
+
+::: note <Nous doutons trop de notre potentiel. Cet atelier m’a appris par des actes simples comment se redonner confiance. 
+
+> :::
 
 Mieux encore : on vous apprend aussi les astuces pour faire perdurer les bienfaits le plus longtemps possible, vous permettre de recharger votre énergie et pétiller !
 
