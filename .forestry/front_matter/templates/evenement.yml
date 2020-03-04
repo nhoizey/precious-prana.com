@@ -50,6 +50,7 @@ fields:
     maxSize: 10
   label: Moodboard
 pages:
+- src/agenda/atelier-yoga-du-rire-1.md
 - src/agenda/atelier-yoga-du-rire.md
 - src/agenda/bain-de-gong-au-rooftop-de-viry.md
 - src/agenda/conférence-sublimez-vos-joies-quotidiennes.md
