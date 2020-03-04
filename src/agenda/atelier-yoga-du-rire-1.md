@@ -6,7 +6,7 @@ ateliers:
 - src/ateliers/yoga-du-rire.md
 lieu: ''
 form_url: ''
-poster: ''
+poster: "/images/Yoga du Rire - Arbre de vie -image-1.jpg"
 moodboard: ''
 published: false
 
@@ -23,4 +23,10 @@ On le constate à chaque fois maintenant, que vous ayez des appréhensions ou no
 
 **Pour trouver plus d'informations sur le Yoga du Rire et ses bienfaits** : [https://precious-prana.com/ateliers/yoga-du-rire/](https://precious-prana.com/ateliers/yoga-du-rire/ "https://precious-prana.com/ateliers/yoga-du-rire/")
 
-![](/images/Yoga du Rire - Arbre de vie -image.jpg)
+**Pour vous inscrire** : 
+
+L'arbre de Vie [https://www.ladevie.com/](https://www.ladevie.com/ "https://www.ladevie.com/") 
+
+**106 Bis avenue de verdun 91520 EGLY, France**
+
+[contact@ladevie.com](mailto:contact@ladevie.com?subject=Adresse email de contact) // 01 64 95 19 21 ou 06 70 51 92 32
