@@ -8,7 +8,6 @@ lieu: ''
 form_url: ''
 poster: "/images/JOURNEE INTERNATIONALE DES FEMMES- image.jpg"
 moodboard: ''
-published: false
 
 ---
 
