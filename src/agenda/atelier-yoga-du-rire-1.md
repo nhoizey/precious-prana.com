@@ -1,7 +1,7 @@
 ---
 show_homepage: true
 date: 2020-03-15
-title: Atelier Yoga du Rire
+title: 'Atelier Yoga du Rire à Egly '
 ateliers:
 - src/ateliers/yoga-du-rire.md
 lieu: ''
