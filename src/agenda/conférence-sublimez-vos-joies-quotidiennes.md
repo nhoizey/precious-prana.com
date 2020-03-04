@@ -6,8 +6,8 @@ ateliers:
 - src/ateliers/savourer-les-bons-moments.md
 lieu: ''
 form_url: ''
-poster: "/images/Affiche Brunoy 2020 A4.jpg"
-moodboard: "/images/Flyer vivre autrement 2020 verso-1.jpg"
+poster: "/images/2020-02-29-affiche-salon-vivre-autrement-brunoy.jpg"
+moodboard: ''
 
 ---
 Le salon "Vivre Autrement" a lieu les samedi 29 février et dimanche 1er mars. À cette ocassion, Precious Prana donne une conférence sur le thème "Sublimez vos joies quotidiennes".
@@ -18,8 +18,6 @@ Lors de cette conférence, vous trouverez certains des principes de notre atelie
 
 Precious Prana sera présent au salon durant les deux jours, avec un stand dédié. Alors venez au salon pour assister à la conférence et échanger avec nous en direct.
 
-{% image src="/images/Flyer vivre autrement 2020 verso-2.jpg", alt="Flyer Vivre Autrement 2020, verso", zoom="true" %}
-
 #### **Conférence "Sublimez vos joies quotidiennes", dimanche 1er mars à 12h30 (durée 1 heure, accès gratuit)**
 
 Salon Vivre Autrement, par [l'Association Transm'être](https://assotransmetre.fr/programme-salon-vivre-autrement-brunoy-2020/)
@@ -27,3 +25,7 @@ Salon Vivre Autrement, par [l'Association Transm'être](https://assotransmetre.f
 Salle des fêtes et salles associatives
 
 Impasse de la Mairie, Brunoy
+
+![Flyer Vivre Autrement 2020, recto](/images/2020-02-29-flyer-salon-vivre-autrement-brunoy-recto.jpg){.zoom}
+
+![Flyer Vivre Autrement 2020, verso](/images/2020-02-29-flyer-salon-vivre-autrement-brunoy-verso.jpg){.zoom}
