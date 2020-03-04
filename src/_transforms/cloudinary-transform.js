@@ -21,6 +21,7 @@ module.exports = function (value, outputPath) {
       steps: 5,
       sizes: '100vw',
       figure: 'auto',
+      zoom: false,
       classes: [],
       attributes: {}
     };
@@ -150,12 +151,13 @@ module.exports = function (value, outputPath) {
         if (caption === null && imageSettings.figure === 'always') {
           caption = image.getAttribute('alt');
         }
-        if ((caption && imageSettings.figure !== 'never') || imageSettings.figure === 'always') {
+        if ((caption && imageSettings.figure !== 'never') || imageSettings.figure === 'always' || imageSettings.zoom) {
           const figure = document.createElement('figure');
           figure.classList.add(...image.classList);
           image.classList.remove(...image.classList);
           const figCaption = document.createElement('figcaption');
-          figCaption.innerHTML = md.render(caption); // TODO: parse Markdown
+          figCaption.innerHTML =
+            md.render(caption) + imageSettings.zoom ? `<p class="zoom">&#128269;&nbsp;<a href="${imageUrl}" target="_blank">zoom</a></p>` : ''; // TODO: parse Markdown
           figure.appendChild(image.cloneNode(true));
           figure.appendChild(figCaption);
           image.replaceWith(figure);

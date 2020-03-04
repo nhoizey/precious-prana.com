@@ -28,6 +28,7 @@ module.exports = {
       fallbackWidth: 200,
       minWidth: 100,
       maxWidth: 400,
+      zoom: true,
       sizes: '(min-width: 66rem) 20rem, 30vw',
       classes: ['poster', 'right']
     }
