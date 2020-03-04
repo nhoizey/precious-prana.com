@@ -1,6 +1,6 @@
 ---
 show_homepage: true
-date: 
+date: 2020-03-10
 title: Séances bain de Gong collectives en mars
 ateliers:
 - src/ateliers/bain-de-gong.md
