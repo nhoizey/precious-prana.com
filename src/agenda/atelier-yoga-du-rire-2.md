@@ -21,3 +21,5 @@ On le constate à chaque fois maintenant, que vous ayez des appréhensions ou no
 > **Témoignage** : "l'Atelier Yoga du rire animé par Jacqueline Oud est un vrai moment de joie, de lâcher prise et d'énergie communicative."
 
 **Pour trouver plus d'informations sur le Yoga du Rire et ses bienfaits** : [https://precious-prana.com/ateliers/yoga-du-rire/](https://precious-prana.com/ateliers/yoga-du-rire/ "https://precious-prana.com/ateliers/yoga-du-rire/")
+
+{% image src="/images/illustrations/pixabay-smile-yellow-plush-toy.jpg", alt="<alt text>", zoom="true" %}
