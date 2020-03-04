@@ -8,7 +8,6 @@ lieu: ''
 form_url: ''
 poster: "/images/Yoga du Rire - Arbre de vie -image-1.jpg"
 moodboard: ''
-published: false
 
 ---
 Precious Prana est heureux de proposer un atelier Yoga du Rire dans le centre de bien être "Larbre de Vie" à Egly. Ce centre qui propose une large variété d'activités de bien-être ouvre ses portes pour notre atelier Yoga du Rire.  Qu'est-ce que c'est le Yoga du Rire ?
