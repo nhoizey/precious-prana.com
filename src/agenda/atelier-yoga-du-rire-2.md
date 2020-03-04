@@ -11,7 +11,7 @@ moodboard: ''
 published: false
 
 ---
-Precious Prana est heureux de proposer un atelier Yoga du Rire dans le centre de bien être "Larbre de Vie" à Egly. Ce centre qui propose une large variété d'activités de bien-être ouvre ses portes pour notre atelier Yoga du Rire.  Qu'est-ce que c'est le Yoga du Rire ?
+Precious Prana est heureux de proposer un atelier Yoga du Rire à Draveil chez Radio Cocottes. Radio Cocottes, propose différents ateliers pour des particuliers, mais aussi dédié aux entrepreneurs. C'est donc un lieu parfait pour faire pétiller l'énergie. Mais, savez-vous qu'est-ce que c'est le Yoga du Rire ?
 
 Techniquement, le Yoga du rire est une combinaison judicieuse de rires sans raison favorisant les respirations profondes (prana). N’importe qui peut ainsi rire, sans recourir à l’humour ou à des blagues. Mettez donc vos hésitations de côté, car même si vous pensez ne pas savoir rire, c'est efficace ! C'est même prouvé maintenant par les scientifiques : rire est bon pour la santé. Vous en ressortirez plus léger, détendu et avec le moral au beau fixe.
 
@@ -23,4 +23,4 @@ On le constate à chaque fois maintenant, que vous ayez des appréhensions ou no
 
 **Pour trouver plus d'informations sur le Yoga du Rire et ses bienfaits** : [https://precious-prana.com/ateliers/yoga-du-rire/](https://precious-prana.com/ateliers/yoga-du-rire/ "https://precious-prana.com/ateliers/yoga-du-rire/")
 
-![](/images/Yoga du Rire - Arbre de vie -image.jpg)
+![](/images/Yoga du Rire - Mars- image.jpg)
