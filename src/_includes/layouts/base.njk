@@ -49,7 +49,9 @@
 
     <link rel="icon" type="image/png" href="/images/favicon-128.png" />
   </head>
-  <body>
+  <body
+    data-img-src="{{ page.inputPath | dirname }}/"
+    data-img-dist="{{ page.outputPath | dirname }}/">
     <header>
       <div class="container">
         {%- if title != 'Accueil' %}

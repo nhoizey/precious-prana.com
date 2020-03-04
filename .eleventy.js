@@ -2,6 +2,7 @@ const { DateTime } = require("luxon");
 const cleanCSS = require("clean-css");
 const slugify = require("@sindresorhus/slugify");
 const util = require('util');
+const path = require('path');
 
 const excerpt = require("./src/_filters/excerpt.js");
 const future = require("./src/_filters/future.js");
@@ -27,7 +28,12 @@ module.exports = function (eleventyConfig) {
         ['%', ' ']
       ]
     });
-  })
+  });
+
+  eleventyConfig.addFilter("dirname", function (filePath) {
+    return path.dirname(filePath);
+  });
+
 
   // https://www.11ty.io/docs/quicktips/inline-css/
   eleventyConfig.addFilter("cssmin", code => {
@@ -230,6 +236,13 @@ module.exports = function (eleventyConfig) {
   });
 
   // ------------------------------------------------------------------------
+  // Transforms
+  // ------------------------------------------------------------------------
+
+  const cloudinaryTransform = require("./src/_transforms/cloudinary-transform.js");
+  eleventyConfig.addTransform("cloudinary", cloudinaryTransform);
+
+  // ------------------------------------------------------------------------
   // Markdown
   // ------------------------------------------------------------------------
 
@@ -251,9 +264,9 @@ module.exports = function (eleventyConfig) {
   };
   let markdownItContainer = require("markdown-it-container");
   const md = markdownIt(markdownItOptions)
-      .use(markdownItAnchor, markdownItAnchorOptions)
-      .use(markdownItContainer, "info")
-      .use(markdownItContainer, "note");
+    .use(markdownItAnchor, markdownItAnchorOptions)
+    .use(markdownItContainer, "info")
+    .use(markdownItContainer, "note");
 
   eleventyConfig.setLibrary("md", md);
 
