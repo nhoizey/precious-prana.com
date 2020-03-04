@@ -31,4 +31,4 @@ A noter: pour le mois de mars, mois d'ouverture des séances individuelles aupr�
 * Le règlement se fait en espèces ou chèque
 * Pour prendez rdv: au téléphone 06.33.96.84.83 ou via mail : contact@precious-prana.com
 
-{% image src="/images/illustrations/circle-waves-on-water-bleu.jpg", alt="" %}
+![](/images/illustrations/circle-waves-on-water-bleu.jpg)

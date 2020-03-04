@@ -34,6 +34,6 @@ Regardez un court extrait en vidéo :
 
 ## Pour plus d’informations
 
-{% image_third src="/images/yoga-du-rire-logo-officiel.jpg", alt="Yoga du Rire", width=2598 %}
+![Yoga du Rire](/images/yoga-du-rire-logo-officiel.jpg){.onethird}
 
 L'atelier est animé par Jacqueline Oud, fondatrice Precious Prana et animatrice agréée formée par l’[Institut Français du Yoga du Rire](https://www.formation-yogadurire.fr/).

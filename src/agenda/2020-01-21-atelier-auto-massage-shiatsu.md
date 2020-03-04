@@ -31,4 +31,4 @@ Rendez-vous le **mardi 21 janvier 2020**.
 
 Voyez [le moodboard et les retours des participantes](/evenements/2019/02/19/atelier-auto-massage-shiatsu/#le-moodboard-et-les-retours-des-participantes) d'un précédent atelier d'auto-massage shiatsu.
 
-{% image src="/images/illustrations/canva-brown-house-pixabay.jpg", alt="" %}
+![](/images/illustrations/canva-brown-house-pixabay.jpg)
