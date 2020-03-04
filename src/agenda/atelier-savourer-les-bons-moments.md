@@ -8,7 +8,6 @@ ateliers:
 - src/ateliers/savourer-les-bons-moments.md
 lieu: src/lieux/radio-cocottes.md
 date: 2020-03-20
-published: false
 
 ---
 Envie de bien profiter de vos moments, de les savourer et non de passer à côté et le regretter ?
