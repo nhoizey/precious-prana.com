@@ -8,7 +8,6 @@ lieu: src/lieux/radio-cocottes.md
 form_url: https://www.weezevent.com/atelier-yoga-du-rire-7
 poster: "/images/Yoga du Rire - Mars- image-1.jpg"
 moodboard: ''
-published: false
 
 ---
 Precious Prana est heureux de proposer un atelier Yoga du Rire à Draveil chez Radio Cocottes. Radio Cocottes, propose différents ateliers pour des particuliers, mais aussi dédié aux entrepreneurs. C'est donc un lieu parfait pour faire pétiller l'énergie. Mais, savez-vous qu'est-ce que c'est le Yoga du Rire ?
@@ -22,5 +21,3 @@ On le constate à chaque fois maintenant, que vous ayez des appréhensions ou no
 > **Témoignage** : "l'Atelier Yoga du rire animé par Jacqueline Oud est un vrai moment de joie, de lâcher prise et d'énergie communicative."
 
 **Pour trouver plus d'informations sur le Yoga du Rire et ses bienfaits** : [https://precious-prana.com/ateliers/yoga-du-rire/](https://precious-prana.com/ateliers/yoga-du-rire/ "https://precious-prana.com/ateliers/yoga-du-rire/")
-
-![](/images/Yoga du Rire - Mars- image.jpg)
