@@ -1,7 +1,8 @@
 ---
-title: "Une retraite de Gong aux Pays-Bas"
----
+title: Une retraite de Gong aux Pays-Bas
+date: 2019-10-31
 
+---
 Une expérience hors du commun lors d'une "retraite de Gong" aux Pays-Bas en octobre.
 
 🔎 Un Gong? C'est quoi ?
