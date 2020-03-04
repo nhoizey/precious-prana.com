@@ -25,8 +25,6 @@ On le constate à chaque fois maintenant, que vous ayez des appréhensions ou no
 
 **Pour vous inscrire** :
 
-L'arbre de Vie [https://www.ladevie.com/](https://www.ladevie.com/ "https://www.ladevie.com/")
-
-**106 Bis avenue de verdun 91520 EGLY, France**
-
-contact@ladevie.com // 01 64 95 19 21 ou 06 70 51 92 32
+* [L'arbre de Vie](https://www.ladevie.com/ "L'arbre de vie site") 
+* 106 Bis avenue de verdun 91520 EGLY, France
+* contact@ladevie.com // 01 64 95 19 21 ou 06 70 51 92 32
