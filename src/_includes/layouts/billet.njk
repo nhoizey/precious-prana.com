@@ -8,13 +8,10 @@ layout: layouts/base.njk
 {% include "billet-meta.njk" %}
 
 {% if poster %}
-  {% set cloudinaryPrefix = "https://res.cloudinary.com/nho/image/fetch/c_fill,f_auto,q_auto," %}
-  {% set posterAlt %}{{ title }} le {{ page.date | plainDate }}, par Precious Prana{% endset %}
-
-  {% poster
-  src = poster,
-  alt = posterAlt,
-  zoom = true %}
+  <img
+    src="{{ poster }}"
+    alt="{{ title }} le {{ page.date | plainDate }}, par Precious Prana"
+    class="poster" />
 {% endif %}
 
 <div class="content">
