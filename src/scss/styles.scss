@@ -251,7 +251,13 @@ figure {
   }
 }
 
-.fullwidth {
+.onethird {
+  width: 33%;
+  float: right;
+  margin: 1em 0 1em 1em;
+}
+
+.twothirds {
   text-align: center;
   margin: 1em auto;
 }

@@ -10,6 +10,9 @@ module.exports = {
         loading: 'lazy'
       }
     },
+    zoom: {
+      zoom: true
+    },
     onehalf: {
       fallbackWidth: 400,
       minWidth: 180,
@@ -23,6 +26,13 @@ module.exports = {
       maxWidth: 560,
       sizes: '(min-width: 66rem) 20rem, 30vw',
       classes: ['onethird', 'right']
+    },
+    twothirds: {
+      fallbackWidth: 600,
+      minWidth: 240,
+      maxWidth: 1120,
+      sizes: '(min-width: 66rem) 40rem, 60vw',
+      classes: ['twothirds', 'right']
     },
     poster: {
       fallbackWidth: 200,
