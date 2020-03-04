@@ -239,8 +239,8 @@ module.exports = function (eleventyConfig) {
   // Transforms
   // ------------------------------------------------------------------------
 
-    const cloudinaryTransform = require("./src/_transforms/cloudinary-transform.js");
-    eleventyConfig.addTransform("cloudinary", cloudinaryTransform);
+  const cloudinaryTransform = require("./src/_transforms/cloudinary-transform.js");
+  eleventyConfig.addTransform("cloudinary", cloudinaryTransform);
 
   // ------------------------------------------------------------------------
   // Markdown
@@ -262,9 +262,11 @@ module.exports = function (eleventyConfig) {
       return slugify(s);
     }
   };
+  let markdownItAttributes = require("markdown-it-attrs");
   let markdownItContainer = require("markdown-it-container");
   const md = markdownIt(markdownItOptions)
     .use(markdownItAnchor, markdownItAnchorOptions)
+    .use(markdownItAttributes)
     .use(markdownItContainer, "info")
     .use(markdownItContainer, "note");
 
