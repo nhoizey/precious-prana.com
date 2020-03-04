@@ -6,7 +6,7 @@ ateliers:
 - src/ateliers/bain-de-gong.md
 lieu: ''
 form_url: ''
-poster: "/images/JOURNEE INTERNATIONALE DES FEMMES- image.jpg"
+poster: "/images/2020-03-08-journee-internationale-des-femmes.jpg"
 moodboard: ''
 
 ---
