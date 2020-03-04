@@ -32,4 +32,4 @@ Envie de savoir comment s’est passé l’atelier précédent d’auto-massage 
 >
 > <cite>Proverbe breton, par François Loux, "Le corps dans la société traditionnelle", Berger-Levrault, "Espaces des Hommes"</cite>
 
-{% image src="/images/illustrations/canva-red-and-yellow-flower-par-veeterzy-recadre.jpg", alt="" %}
+<img src="/images/illustrations/canva-red-and-yellow-flower-par-veeterzy-recadre.jpg" />

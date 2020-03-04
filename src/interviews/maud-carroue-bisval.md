@@ -9,7 +9,7 @@ Maud anime des ateliers sur le thème du Journal Créatif. Elle a eu la gentille
 
 ## Qu'est-ce que l'Art-Thérapie et pourquoi ce nom ?
 
-{% image_half src="/images/2019-03-28-maud-carroue-bisval.jpg", alt="Maud Carroué-Bisval, intervenante Art Thérapie / Journal Créatif®", caption="Maud Carroué-Bisval" %}
+![Maud Carroué-Bisval, intervenante Art Thérapie / Journal Créatif®](/images/2019-03-28-maud-carroue-bisval.jpg "Maud Carroué-Bisval"){.onehalf}
 
 L'art-thérapie est une pratique de soin visant l'expression des pensées, des émotions à travers une création. Ce qui est important pour moi en tant qu'art-thérapeute c'est le chemin parcouru pour créer et non la création en elle-même.
 
