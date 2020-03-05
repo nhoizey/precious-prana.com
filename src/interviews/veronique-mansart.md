@@ -53,5 +53,3 @@ Manger moins souvent au restaurant mais dans des restaurants de qualité:
 * Une alimentation saine, un bon sommeil, une activité physique, sont nécessaires pour être en forme.
 * Être en accord avec nous-même, avec nos actes et nos choix de vie sont le secret de l'équilibre de la libre circulation de l’Énergie, donc de la santé.
 * Soyez passionnées, vibrez, aimez et faites-vous confiance.
-
-![](/images/2019-07-precious-prana-summer.png){.onethird .zoom}
