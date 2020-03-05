@@ -2,9 +2,9 @@
 title: Véronique Mansart
 subtitle: intervenante auto-massage shiatsu
 ateliers:
-  - auto-massage-shiatsu
----
+- auto-massage-shiatsu
 
+---
 Véronique Mansart anime des ateliers d'auto-massage shiatsu.
 
 ## Comment vous décrivez-vous ?
@@ -26,9 +26,9 @@ Un ancrage tous les jours avant de travailler, et très régulièrement qi gong 
 
 ## Qu’est-ce qui vous fait du bien quand vous n’avez pas le moral ?
 
-- Rien de mieux qu'une marche dans la forêt, en pleine conscience, en demandant de l'aide, de l'énergie et des réponses aux arbres.
-- Et toujours le regard tourné vers le ciel.
-- Écrire, soulager mon coeur des émotions en les couchant sur le papier.
+* Rien de mieux qu'une marche dans la forêt, en pleine conscience, en demandant de l'aide, de l'énergie et des réponses aux arbres.
+* Et toujours le regard tourné vers le ciel.
+* Écrire, soulager mon coeur des émotions en les couchant sur le papier.
 
 ## Quel est votre pêché mignon ?
 
@@ -42,14 +42,16 @@ Les ateliers Precious Prana, lieu d'échange et de découverte toujours dans la 
 
 Manger moins souvent au restaurant mais dans des restaurants de qualité:
 
-- Coté Cuisine à Montgeron
-- L'Étincelle à Brunoy
+* Coté Cuisine à Montgeron
+* L'Étincelle à Brunoy
 
 ## Quel message voudriez-vous passer aux femmes pour les encourager dans leur équilibre de vie et leur permettre de pétiller ?
 
-- Prenez soin de vous et des êtres chers qui vous entourent.
-- Faites de votre mieux sans culpabiliser.
-- Notez et profitez des petits bonheurs du quotidien, ce sont eux qui embellissent la vie.
-- Une alimentation saine, un bon sommeil, une activité physique, sont nécessaires pour être en forme.
-- Être en accord avec nous-même, avec nos actes et nos choix de vie sont le secret de l'équilibre de la libre circulation de l’Énergie, donc de la santé.
-- Soyez passionnées, vibrez, aimez et faites-vous confiance.
+* Prenez soin de vous et des êtres chers qui vous entourent.
+* Faites de votre mieux sans culpabiliser.
+* Notez et profitez des petits bonheurs du quotidien, ce sont eux qui embellissent la vie.
+* Une alimentation saine, un bon sommeil, une activité physique, sont nécessaires pour être en forme.
+* Être en accord avec nous-même, avec nos actes et nos choix de vie sont le secret de l'équilibre de la libre circulation de l’Énergie, donc de la santé.
+* Soyez passionnées, vibrez, aimez et faites-vous confiance.
+
+![](/images/2019-07-precious-prana-summer.png){.zoom}
