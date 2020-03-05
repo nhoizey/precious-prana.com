@@ -14,4 +14,4 @@ Cet atelier Yoga du Rire aura lieu **vendredi 6 décembre** durant la **soirée 
 
 *Détails et formulaire d’inscription bientôt en ligne.*
 
-{% image src="/images/illustrations/pixabay-smile-yellow-plush-toy.jpg", alt="Two yellow plush toys smiling", title="Crédits photo: Smile Yellow Plush Toy, Pixabay", width=6000, height=4000 %}
+![Two yellow plush toys smiling](/images/illustrations/pixabay-smile-yellow-plush-toy.jpg "Crédits photo: Smile Yellow Plush Toy, Pixabay")
