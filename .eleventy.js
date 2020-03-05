@@ -44,76 +44,8 @@ module.exports = function (eleventyConfig) {
   // Shortcodes
   // ------------------------------------------------------------------------
 
-  function genericImage(image, cssClass, sizes) {
-    if (process.env.ELEVENTY_ENV === 'development') {
-      return `<figure class="${cssClass}"><img src="${image.src}" sizes="${sizes}" /></figure>`;
-    } else {
-      const cloudinaryPrefix =
-        "https://res.cloudinary.com/nho/image/fetch/c_fill,f_auto,q_auto,";
-      let imageUrl = "https://precious-prana.com" + image.src;
-
-      let html = `<figure class="${cssClass}">
-<img
-  src="${cloudinaryPrefix}w_360/${imageUrl}"
-  srcset="${cloudinaryPrefix}w_360/${imageUrl} 360w`;
-      if (!image.width || image.width >= 480) {
-        html += `, ${cloudinaryPrefix}w_480/${imageUrl} 480w`;
-      }
-      if (!image.width || image.width >= 640) {
-        html += `, ${cloudinaryPrefix}w_640/${imageUrl} 640w`;
-      }
-      if (!image.width || image.width >= 800) {
-        html += `, ${cloudinaryPrefix}w_800/${imageUrl} 800w`;
-      }
-      if (!image.width || image.width >= 1024) {
-        html += `, ${cloudinaryPrefix}w_1024/${imageUrl} 1024w`;
-      }
-      html += `" sizes="${sizes}"`;
-      if (image.alt) {
-        html += ` alt="${image.alt}"`;
-      }
-      if (image.width) {
-        html += ` width="${image.width}"`;
-      }
-      html += ` />`;
-      if (image.caption || image.zoom) {
-        html += `<figcaption>`;
-        if (image.caption) {
-          html += `<p>${image.caption}</p>`;
-        }
-        if (image.zoom) {
-          html += `<p class="zoom">&#128269;&nbsp;<a href="${image.src}" target="_blank">zoomer</a></p>`;
-        }
-        html += `</figcaption>`;
-      }
-      html += `</figure>`;
-
-      return html;
-    }
-  }
-
-  eleventyConfig.addNunjucksShortcode("image", function (image) {
-    return genericImage(image, "fullwidth", "(min-width: 66rem) 60rem, 90vw");
-  });
-
-  eleventyConfig.addNunjucksShortcode("image_half", function (image) {
-    return genericImage(
-      image,
-      "onehalf",
-      "(min-width: 66rem) 30rem, (min-width: 40rem) 45vw, 90vw"
-    );
-  });
-
-  eleventyConfig.addNunjucksShortcode("image_third", function (image) {
-    return genericImage(image, "onethird", "(min-width: 66rem) 20rem, 30vw");
-  });
-
   eleventyConfig.addPairedNunjucksShortcode("gallery", function (images) {
     return `<div class="gallery">${images}</div>`;
-  });
-
-  eleventyConfig.addNunjucksShortcode("poster", function (image) {
-    return genericImage(image, "poster", "(min-width: 66rem) 20rem, 30vw");
   });
 
   eleventyConfig.addNunjucksShortcode("youtube", function (id) {

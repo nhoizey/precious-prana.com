@@ -23,7 +23,7 @@ Bien entendu, toujours dans l'ambiance de Precious Prana avec le moment « coco
 
 ## Le Yoga du Rire, ca fait quoi ?
 
-{% image_third src="/images/yoga-du-rire-logo-officiel.jpg", alt="Yoga du Rire", width=2598 %}
+![Yoga du Rire](/images/yoga-du-rire-logo-officiel.jpg){.onethird}
 
 En quelques mots ces avantages :
 
@@ -45,4 +45,4 @@ Pour vraiment vous faire du bien en cette rentrée, je propose cet atelier Yoga 
 
 Rendez-vous mardi 17 septembre à Brunoy, à 19h30.
 
-{% image src="/images/illustrations/pixabay-smile-yellow-plush-toy.jpg", alt="Two yellow plush toys smiling", title="Crédits photo: Smile Yellow Plush Toy, Pixabay", width=6000, height=4000 %}
+![Two yellow plush toys smiling](/images/illustrations/pixabay-smile-yellow-plush-toy.jpg "Crédits photo: Smile Yellow Plush Toy, Pixabay")

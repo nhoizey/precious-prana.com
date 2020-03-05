@@ -23,7 +23,7 @@ L’atelier sera animé par Jacqueline Oud, Fondatrice de Precious Prana.
 
 ## Le moodboard et les retours des participantes
 
-{% image src="/images/moodboards/2019-07-02-atelier-savourer-les-bons-moments.jpg", alt="Moodboard de l'atelier « Savourer les bons moments » du 2 juillet 2019, par Precious Prana", zoom="true" %}
+![Moodboard de l'atelier « Savourer les bons moments » du 2 juillet 2019, par Precious Prana](/images/moodboards/2019-07-02-atelier-savourer-les-bons-moments.jpg){.zoom}
 
 Juste avant les vacances on est occupé, et on se projette. Parfois cette projection nous donne plus de stress et on oublie que les vacances sont là pour nous ressourcer. En effet, se faire du bien, savoir profiter des bons moments, lors des vacances ou à tout autre moment, comme être avec ses enfants, ce n’est pas toujours facile. Et pire, quand le moment est terminé il est trop tard et on peut avoir des regrets.
 

@@ -23,7 +23,8 @@ Découvrez [l'interview que Marie Duhammel nous a accordée](/interviews/marie-d
 
 Le moodboard :
 
-{% image src="/images/2019-05-21-moodboard-aromatherapie.jpg", alt="Moodboard de l'atelier aromathérapie du 21 mai 2019, par Precious Prana", zoom="true" %}
+
+![Moodboard de l'atelier aromathérapie du 21 mai 2019, par Precious Prana](/images/2019-05-21-moodboard-aromatherapie.jpg){.zoom}
 
 ## Bonus
 
