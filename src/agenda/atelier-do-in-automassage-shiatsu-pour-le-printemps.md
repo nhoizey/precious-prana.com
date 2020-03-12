@@ -8,7 +8,6 @@ lieu: src/lieux/espace-evolution.md
 form_url: ''
 poster: "/images/Do In printemps-affiche mini.png"
 moodboard: ''
-published: false
 
 ---
 Plus qu'un massage, le shiatsu est un massage traditionnel japonais qui utilise les points d’acupressions. Par ce biais, nous intervenons sur plusieurs plans : physique, mental, émotionnel, relationnel, et nous pouvons permettre à notre corps de trouver des manières de s’autoguérir.
