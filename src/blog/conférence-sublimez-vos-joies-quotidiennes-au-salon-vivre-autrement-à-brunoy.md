@@ -5,7 +5,7 @@ poster: "/images/Conférence Sublimez les joies quotidiennes-1.jpeg"
 published: false
 
 ---
-Comme annoncé, j’ai donné la conférence « Sublimez vos joies quotidiennes » au salon Vivre Autrement à Brunoy le 1 mars. Pour ceux qui me connaissent, il va de soi que je donne une conférence qui allie théorie et la pratique. Rien de mieux qu’expérimenter en direct ce qu’on cherche à transmettre. 
+Comme annoncé, j’ai donné la conférence « Sublimez vos joies quotidiennes » au salon Vivre Autrement à Brunoy le 1 mars. Pour ceux qui me connaissent, il est évident, que dans cette conférence j'ai tenu à allier théorie et la pratique. Rien de mieux qu’expérimenter en direct ce qu’on cherche à transmettre.
 
 Alors les participant(e)s se sont servi(e)s avec le bloc-notes et stylo pour répondre à plusieurs reprises à des questions, pas toujours facile, pour comprendre leur ressentis et comment apporter plus de joie dans leur vie et le faire perdurer.  J’ai adoré donner cette conférence et j’ai beaucoup aimé le public et les réactions.
 
