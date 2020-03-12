@@ -22,3 +22,5 @@ L’atelier Auto-Massage Do-In est accessible à tous - femmes et hommes -  grâ
 Comme d'habitude, l'atelier sera suivi d'un buffet et d’un moment de partage pour un plaisir complet
 
 **Pour en savoir plus sur nos ateliers Auto-massage Shiatsu**:  [https://precious-prana.com/ateliers/auto-massage-shiatsu/](https://precious-prana.com/ateliers/auto-massage-shiatsu/ "https://precious-prana.com/ateliers/auto-massage-shiatsu/")
+
+**Pour vous inscrire** : contactez-nous par mail (contact@precious-prana.com) ou au téléphone : 06.33.96.84.83 
