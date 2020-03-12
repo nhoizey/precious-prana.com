@@ -1,7 +1,7 @@
 ---
 date: 2020-03-12
 title: Conférence "Sublimez vos joies quotidiennes au salon Vivre Autrement à Brunoy
-poster: ''
+poster: "/images/Conférence Sublimez les joies quotidiennes-1.jpeg"
 published: false
 
 ---
