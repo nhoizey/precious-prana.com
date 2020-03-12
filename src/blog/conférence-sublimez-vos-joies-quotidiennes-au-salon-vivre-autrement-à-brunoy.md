@@ -17,6 +17,5 @@ Alors les participant(e)s se sont servi(e)s avec le bloc-notes et stylo pour ré
 
 **Si cela vous donne envie de mettre en pratique**, je vous rappelle notre atelier « Savourer les bons moments », l’atelier pratique pour mieux savoir ce qui vous apporte de la joie, comment l’intégrer dans la vie de tous les jours et comment le faire durer plus longtemps :
 
-· Vendredi 20 mars à 19h, à Draveil chez Radio Cocottes
-
-· [https://precious-prana.com/agenda/2020/03/20/atelier-savourer-les-bons-moments/](https://precious-prana.com/agenda/2020/03/20/atelier-savourer-les-bons-moments/ "https://precious-prana.com/agenda/2020/03/20/atelier-savourer-les-bons-moments/")
+* Vendredi 20 mars à 19h, à Draveil chez Radio Cocottes
+* [https://precious-prana.com/agenda/2020/03/20/atelier-savourer-les-bons-moments/](https://precious-prana.com/agenda/2020/03/20/atelier-savourer-les-bons-moments/ "https://precious-prana.com/agenda/2020/03/20/atelier-savourer-les-bons-moments/")
