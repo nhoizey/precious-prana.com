@@ -2,7 +2,6 @@
 date: 2020-03-12
 title: Conférence "Sublimez vos joies quotidiennes au salon Vivre Autrement à Brunoy
 poster: "/images/Conférence Sublimez les joies quotidiennes-1.jpeg"
-published: false
 
 ---
 Comme annoncé, j’ai donné la conférence « Sublimez vos joies quotidiennes » au salon Vivre Autrement à Brunoy le 1 mars. Pour ceux qui me connaissent, il est évident, que dans cette conférence j'ai tenu à allier théorie et pratique. Rien de mieux qu’expérimenter en direct ce que l'on cherche à transmettre.
