@@ -10,9 +10,8 @@ Alors les participant(e)s se sont servi(e)s avec le bloc-notes et le stylo pour 
 
 **Alors, comment mettre plus de joie** ? Cela peut surprendre car on a tendance à être sceptique, méfiant, mais croyez-moi cela mérite vraiment que vous vous accordez une pause sur le sujet. Je vous propose donc deux vidéos d’experts dans le domaine.
 
-· Vidéo sur TED de[ Martin Seligman sur la psychologie positive et les impacts](https://www.ted.com/talks/martin_seligman_the_new_era_of_positive_psychology?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare) (sous-titré en français)
-
-· Et cette vidéo de[ Sonia Lyubomirsky, expert en « Happiness](https://youtu.be/F7JDbP_x8So ) »  sur ce qui nous rend vraiment heureux (sous-titré en anglais).
+* Vidéo sur TED de[ Martin Seligman sur la psychologie positive et les impacts](https://www.ted.com/talks/martin_seligman_the_new_era_of_positive_psychology?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare) (sous-titré en français)
+* Et cette vidéo de[ Sonia Lyubomirsky, expert en « Happiness](https://youtu.be/F7JDbP_x8So ) »  sur ce qui nous rend vraiment heureux (sous-titré en anglais).
 
 **Si cela vous donne envie de mettre en pratique**, je vous invite à venir à notre atelier «Savourer les bons moments », l’atelier pratique de cette conférence pour mieux savoir ce qui vous apporte de la joie, comment l’intégrer dans la vie de tous les jours et comment la faire durer plus longtemps :
 
