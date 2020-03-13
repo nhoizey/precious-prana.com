@@ -14,7 +14,7 @@ Sa soif de connaissance du corps humain et son désir de soulager ses patients l
 
 ::: note Note : si besoin, les participant(e)s ont la possibilité de redemander une copie de la feuille d’exercices. :::
 
-## Le moodboard et les retours des participantes
+## Le moodboard et les retours des participant(e)s
 
 ![Moodboard de l'atelier auto-massage shiatsu du 19 février 2019, par Precious Prana](/images/2019-02-19-moodboard-shiatsu.jpg){.zoom}
 
