@@ -1,6 +1,6 @@
 ---
 title: Atelier Savourer les bons moments
-form_url: https://www.weezevent.com/atelier-savourer-les-bons-moments
+form_url: https://forms.gle/ugXRFTNhNhwrJfzv7
 show_homepage: true
 poster: "/images/2020-03-20-savourer-les-bons-moments.jpg"
 moodboard: ''
