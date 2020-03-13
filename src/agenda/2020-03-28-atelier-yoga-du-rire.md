@@ -5,7 +5,7 @@ title: Atelier Yoga du Rire à Draveil
 ateliers:
 - src/ateliers/yoga-du-rire.md
 lieu: src/lieux/radio-cocottes.md
-form_url: https://www.weezevent.com/atelier-yoga-du-rire-7
+form_url: https://forms.gle/sXBW5V8Y36v93Z3u7
 poster: "/images/2020-03-28-yoga-du-rire.jpg"
 moodboard: ''
 
