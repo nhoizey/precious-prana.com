@@ -24,4 +24,4 @@ Comme d'habitude, l'atelier sera suivi d'un buffet et d’un moment de partage p
 
 **Pour en savoir plus sur nos ateliers Auto-massage Shiatsu**:  [https://precious-prana.com/ateliers/auto-massage-shiatsu/](https://precious-prana.com/ateliers/auto-massage-shiatsu/ "https://precious-prana.com/ateliers/auto-massage-shiatsu/")
 
-![](/images/Canva - Green Trees.jpg)
+![](/images/Canva_GreenTrees.jpg)
