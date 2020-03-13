@@ -20,7 +20,9 @@ L’atelier Auto-Massage Do-In est accessible à tous - femmes et hommes -  grâ
 
 Comme d'habitude, l'atelier sera suivi d'un buffet et d’un moment de partage pour un plaisir complet
 
-**Note important :** pour assurer la sécurité de tous nous avons de quoi vous laver les mains en arrivant, pendant et à la fin de l'atelier. Nous évitons également les contacts physiques, à savoir qu'il s'agit d'un automassage. Les corrections seront montrées sans toucher. La bonne santé est une affaire à nous tous.  
+**Note important :** pour assurer la sécurité de tous nous avons de quoi vous laver les mains en arrivant, pendant et à la fin de l'atelier. Nous évitons également les contacts physiques, à savoir qu'il s'agit d'un automassage, donc normalement pas de contacts d'autrui et les corrections seront montrées sans toucher. La taille du groupe sera limit pour éviter trop de proximité. 
+
+La bonne santé est une affaire à nous tous.  
 
 **Pour en savoir plus sur nos ateliers Auto-massage Shiatsu**:  [https://precious-prana.com/ateliers/auto-massage-shiatsu/](https://precious-prana.com/ateliers/auto-massage-shiatsu/ "https://precious-prana.com/ateliers/auto-massage-shiatsu/")
 
