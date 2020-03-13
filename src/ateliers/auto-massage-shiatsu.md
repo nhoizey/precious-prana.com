@@ -12,7 +12,11 @@ Sa soif de connaissance du corps humain et son désir de soulager ses patients l
 
 **Les ateliers sont à chaque fois tournés autour d'une thématique**. En généal il s'agit d'une thématique des saisons, car le DO-In se base sur la médécine traditionnelle chinoise et l'effet des saisons sur notre corps. Les participant(e)s viennent habillé(e)s dans une tenue confortable pour pouvoir faire les différents exercices. À la suite de l’atelier, toutes les participant(e)s orepartent avec un résumé des exercices et points d’attention afin de pouvoir les reproduire chez eux. Les ateliers étaient initialement ouverts uniquement pour les femmes, mais sont maintenant également accéssibles aux hommes pour pouvoir permettre d'élargir les bienfaits à tout le monde. 
 
-: note Note : si besoin, les participant(e)s ont la possibilité de redemander une copie de la feuille d’exercices. :
+::: note
+
+Note : si besoin, les participant(e)s ont la possibilité de redemander une copie de la feuille d’exercices.
+
+:::
 
 ## Le moodboard et les retours des participant(e)s
 
