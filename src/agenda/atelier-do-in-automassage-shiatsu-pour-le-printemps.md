@@ -6,7 +6,7 @@ ateliers:
 - src/ateliers/auto-massage-shiatsu.md
 lieu: src/lieux/espace-evolution.md
 form_url: https://forms.gle/UudionWkYKMz6oLC8
-poster: "/images/Do In printemps-affiche mini.png"
+poster: "/images/Do In printemps-affiche .png"
 moodboard: ''
 
 ---
