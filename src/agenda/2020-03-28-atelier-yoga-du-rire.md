@@ -22,4 +22,10 @@ On le constate à chaque fois maintenant, que vous ayez des appréhensions ou no
 
 **Pour trouver plus d'informations sur le Yoga du Rire et ses bienfaits** : [https://precious-prana.com/ateliers/yoga-du-rire/](https://precious-prana.com/ateliers/yoga-du-rire/ "https://precious-prana.com/ateliers/yoga-du-rire/")
 
+**NOTE IMPORTANT** : Compte tenu de l'environnement actuel, nous avons adapté les séances Yoga du Rire pour assurer votre tranquilité. Selon nous, il est d'autant plus important maintenant d'avoir des moments de lâcher prise et évacuation de stress, mais en toute sécurité. Voici nos actions : 
+
+1. Possibilité de laver les mains avant, pendant et après la séance
+2. Adaptation de la séance pour éviter le contact physique entre personnes
+3. Ajustement des exercices de rire
+
 ![](/images/illustrations/pixabay-smile-yellow-plush-toy.jpg)
