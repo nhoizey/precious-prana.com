@@ -25,7 +25,7 @@ On le constate à chaque fois maintenant, que vous ayez des appréhensions ou no
 **NOTE IMPORTANT** : Compte tenu de l'environnement actuel, nous avons adapté les séances Yoga du Rire pour assurer votre tranquilité. Selon nous, il est d'autant plus important maintenant d'avoir des moments de lâcher prise et évacuation de stress, mais en toute sécurité. Voici nos actions : 
 
 1. Possibilité de laver les mains avant, pendant et après la séance
-2. Adaptation de la séance pour éviter le contact physique entre personnes
+2. Adaptation de la séance pour éviter les contacts avec les mains entre personnes
 3. Ajustement des exercices de rire
 
 ![](/images/illustrations/pixabay-smile-yellow-plush-toy.jpg)
