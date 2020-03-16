@@ -6,23 +6,21 @@ poster: "/images/evenements/2019-10-15-atelier-savourer-les-bons-moments.jpg"
 moodboard: ''
 ateliers:
 - src/ateliers/savourer-les-bons-moments.md
-lieu: 
+lieu: src/lieux/radio-cocottes.md
 date: 2019-10-15
 
 ---
-Envie de bien profiter de vos moments, de les savourer et apporter plus de joie dans votre vie de tous les jours ?
+Envie de bien profiter de vos moments, de les savourer et non de passer à côté et le regretter ?
 
-L'atelier **« Savourer les bons moments »** donne les astuces en étapes pour pleinement profiter des moments mais également des conseils pour mieux vous ouvrir à la joie et la ressentir, encrer et intensifier. En parallèle, nous vous expliquons ce qui vous empêche de profiter à fond de vos moments, quelles sont les raisons de ces déceptions, et comment les éviter, pour être en forme et profiter des moments. Cet atelier - un vrai moment de pause et d'introspection dans la vie de tous les jours - est très bénéfique à notre système immunitaire et notre estime et amour de soi.
+L'atelier **« Savourer les bons moments »** vous explique ce qui vous empêche de profiter à fond de vos moments, quelles sont les raisons de ces déceptions, et comment les éviter, pour être en forme et profiter des moments.
 
 Mieux encore : on vous apprend aussi les astuces pour faire perdurer les bienfaits le plus longtemps possible, vous permettre de recharger votre énergie et pétiller !
 
-**Au programme :** des exercices ludiques, des explications et études, des exemples, des jeux et des échanges.
+**Au programme :** des exercices ludiques, des explications et études, des exemples, des jeux et des échanges.
 
-**Lieu:** face à la situation en France et les consignes de sécurité, cet atelier sera adapté et est proposé en ligne. Les horaires restent identiques, vous aurez les détails de connexion et de préparation après votre inscription.
+**Nouveau lieu :** Radio Cocottes, à Draveil.
 
-Et, par conséquence, notre moment de partage et buffet sera adapté en mode virtuel également. Cela fera également l'exercice de joie et de le savourer.
-
-**Le prix de cet atelie**r, modifié en atelier en ligne, sera exceptionnellement gratuit. C'est pour nous une façon de vous accompagner dans cette période particulière et de développer l'offre en ligne. Nous limitons le nombre de participants à 15 max, pour faciliter l'échange et le suivi.
+Et, comme d'habitude, un buffet et moment de partage.
 
 L’atelier sera animé par Jacqueline Oud, Fondatrice de Precious Prana.
 
