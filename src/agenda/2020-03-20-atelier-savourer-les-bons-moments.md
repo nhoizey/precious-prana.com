@@ -2,7 +2,7 @@
 title: Atelier Savourer les bons moments - édition printemps
 form_url: https://forms.gle/ugXRFTNhNhwrJfzv7
 show_homepage: true
-poster: "/images/2020-03-20-savourer-les-bons-moments.jpg"
+poster: "/images/Savourer les bons moments-bis - Mars .png"
 moodboard: ''
 ateliers:
 - src/ateliers/savourer-les-bons-moments.md
