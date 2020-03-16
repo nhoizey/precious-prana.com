@@ -2,7 +2,6 @@
 date: 2020-03-16
 title: Notre action dans le contexte actuel pour éviter la propagation du Coronavirus
 poster: ''
-published: false
 
 ---
 Face à la situation et en accord avec les consignes pour éviter de propager le Coronavirus, nous avons décidé de ne pas assurer nos ateliers en présentiel et de trouver d’autres solutions. 
