@@ -3,7 +3,7 @@
     {%- for lieuItem in lieux -%}
       {%- set lieuPath = lieuItem.inputPath | replace('./', '') -%}
       {%- if lieuPath == slug -%}
-        {{ lieuItem.data.title | replace("'", '’') }}, à {{ lieuItem.data.city | replace("'", '’') }}
+        {{ lieuItem.data.title | replace("'", '’') }}{% if lieuItem.data.city %}, à {{ lieuItem.data.city | replace("'", '’') }}{%- endif -%}
       {%- endif -%}
     {%- endfor -%}
   {%- endif -%}
