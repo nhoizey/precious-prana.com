@@ -6,7 +6,7 @@ poster: "/images/2020-03-20-savourer-les-bons-moments.jpg"
 moodboard: ''
 ateliers:
 - src/ateliers/savourer-les-bons-moments.md
-lieu: 
+lieu: src/lieux/atelier-en-direct-live-streaming.md
 date: 2020-03-20
 
 ---
