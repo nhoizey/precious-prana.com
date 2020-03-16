@@ -17,7 +17,7 @@ Nous proposons des **ateliers et workshops**, suivant des thématiques, qui alli
 
 ::: note
 
-Face à la situation et en accord avec les consignes pour éviter de propager le Coronavirus, nous avons décidé de ne pas assurer nos ateliers en présentiel et de trouver d’autres solutions.[ Lisez nos ajustement prévues](https://precious-prana.com/blog/2020/03/16/notre-action-dans-le-contexte-actuel-pour-%C3%A9viter-la-propagation-du-coronavirus/).
+Face à la situation et en accord avec les consignes pour éviter de propager le Coronavirus, nous avons décidé de ne pas assurer nos ateliers en présentiel et de trouver d’autres solutions.[ Lisez nos ajustements prévus](https://precious-prana.com/blog/2020/03/16/notre-action-dans-le-contexte-actuel-pour-%C3%A9viter-la-propagation-du-coronavirus/).
 
 :::
 
