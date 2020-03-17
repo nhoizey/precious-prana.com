@@ -1,7 +1,7 @@
 const deepmerge = require('deepmerge')
 const fs = require('fs');
 const imageSize = require('image-size');
-const jsdom = require("@tbranyen/jsdom");
+const jsdom = require("jsdom");
 const markdownIt = require('markdown-it');
 
 const md = new markdownIt();
