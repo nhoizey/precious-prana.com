@@ -1,7 +1,7 @@
 ---
 show_homepage: true
 date: 2020-03-24
-title: Atelier "Do-In" Automassage Shiatsu pour le printemps
+title: Atelier "Do-In" Automassage Shiatsu pour le printemps - REPORTE temporairement
 ateliers:
 - src/ateliers/auto-massage-shiatsu.md
 lieu: src/lieux/espace-evolution.md
