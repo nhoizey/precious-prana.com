@@ -6,7 +6,7 @@ ateliers:
 - src/ateliers/yoga-du-rire.md
 lieu: src/lieux/atelier-en-direct-live-streaming.md
 form_url: https://forms.gle/zDjBkoggvo9BjiPU9
-poster: "/images/Yoga du Rire enligne.png"
+poster: "/images/YogaduRire-enligne.png"
 moodboard: ''
 
 ---
