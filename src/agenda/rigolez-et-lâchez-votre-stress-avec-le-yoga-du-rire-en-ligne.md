@@ -22,3 +22,8 @@ C'est votre moment pour rire et vous faire du bien.
 Pour en savoir plus du Yoga du Rire : [https://precious-prana.com/ateliers/yoga-du-rire/](https://precious-prana.com/ateliers/yoga-du-rire/ "https://precious-prana.com/ateliers/yoga-du-rire/")
 
 Attention toutefois, le yoga du rire est déconseillé aux personnes ayant subi une intervention chirurgicale depuis moins de 3 mois.
+
+::: note
+**Témoignage** : "l'Atelier Yoga du rire animé par Jacqueline Oud est un vrai moment de joie, de lâcher prise et d'énergie communicative."
+
+ :::
