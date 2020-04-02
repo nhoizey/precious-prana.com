@@ -22,3 +22,5 @@ fields:
   name: navorder
   label: navorder
   hidden: true
+pages:
+- src/yoga-du-rire-contre-indications-médicales.md
