@@ -1,6 +1,6 @@
 ---
 layout: layouts/base.njk
-title: Yoga du Rire - Contre-indications médicales
+title: Yoga du Rire - contre-indications médicales
 subtitle: ''
 tags: []
 navorder: 
