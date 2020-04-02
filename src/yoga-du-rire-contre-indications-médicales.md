@@ -4,7 +4,6 @@ title: Yoga du Rire - contre-indications médicales
 subtitle: ''
 tags: []
 navorder: 
-published: false
 
 ---
 Le Yoga du Rire n’est pas une pratique à risque. Cependant, le médecin fondateur a émis des réserves, par soucis de précaution et rappelle quelques limites relevant souvent du bon sens.  
