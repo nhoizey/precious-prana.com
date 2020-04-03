@@ -16,14 +16,12 @@ Voici des témoignages de participantes :
 
 > Je ne savais pas du tout à quoi m'attendre en allant à la séance. Et au final, j'ai vécu un moment incroyable et j'ai adoré. Au-delà de la détente et de la relaxation ressenties longtemps après, j'ai trouvé l'expérience sonore très belle. Le mélange d'harmoniques et de graves du gong m'a fait voyager loin dans l'espace et le temps. J'espère le refaire un jour et faire découvrir cette expérience autour de moi, aux amis et à la famille. (G.Q.)
 
-### Nouveau - séances individuelles
+### Nouveau - séances individuelles en cabinet 
 
 Depuis début mars, il est possible de profiter d'une séance de relaxation vibratoire "Bain de Gong" individuelle. Il y a deux durées possibles :
 
 * **30 minutes : 30€**
 * **50 minutes : 50€**
-
-A noter: pour le mois de mars, mois d'ouverture des séances individuelles auprès de particuliers, nous proposons une **réduction de 10% sur la durée de 50 minutes**. La séance de 50 minutes sera donc au prix de 45€.
 
 **Informations pratiques :**
 
