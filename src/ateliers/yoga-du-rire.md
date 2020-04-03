@@ -37,3 +37,5 @@ Regardez un court extrait en vidéo :
 ![Yoga du Rire](/images/yoga-du-rire-logo-officiel.jpg){.onethird}
 
 L'atelier est animé par Jacqueline Oud, fondatrice Precious Prana et animatrice agréée formée par l’[Institut Français du Yoga du Rire](https://www.formation-yogadurire.fr/).
+
+**Remarque** : Le Yoga du Rire n’est pas une pratique à risque. Cependant, le médecin fondateur a émis des réserves, par soucis de précaution et rappelle quelques limites relevant souvent du bon sens. Ces contre-indications sont disponibles ici  [https://precious-prana.com/yoga-du-rire-contre-indications-medicales/](https://precious-prana.com/yoga-du-rire-contre-indications-medicales/ "https://precious-prana.com/yoga-du-rire-contre-indications-medicales/")  
