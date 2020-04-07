@@ -2,7 +2,6 @@
 date: 2020-04-07
 title: 'Le Yoga du Rire en ligne, ça fait du bien '
 poster: "/images/Ho-ho-hahaha6-enfants -floute.png"
-published: false
 
 ---
 Le Yoga du Rire en version "en ligne", ça marché aussi !
