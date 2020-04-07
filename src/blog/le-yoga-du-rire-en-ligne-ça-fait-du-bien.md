@@ -17,4 +17,4 @@ Le Yoga du Rire, même à distance, permet un réel lâcher prise, la socialisat
 
 Pour en savoir plus : [https://precious-prana.com/ateliers/yoga-du-rire/](https://precious-prana.com/ateliers/yoga-du-rire/ "https://precious-prana.com/ateliers/yoga-du-rire/")
 
-![](/images/collage-yogadurire.png)
+![](/images/collage-yoga-du-rire-medium.png)
