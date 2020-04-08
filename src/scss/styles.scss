@@ -268,13 +268,17 @@ figure {
 
 .gallery {
   width: 100%;
-  margin: 1em 0 1em -1em;
+  margin: 1em -1em 1em 0;
   display: flex;
   flex-wrap: wrap;
   align-items: flex-start;
 
-  .onehalf, .onethird, .twothirds, .fullwidth {
-    margin: 1em 0 0 1em;
+  p {
+    display: contents;
+  }
+
+  img {
+    margin: 1em 1em 0 0;
   }
 
   .onehalf {

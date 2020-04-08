@@ -45,11 +45,15 @@ On peut donc lister les bienfaits suivants :
 * _"J'étais pas mal stressée et j'ai senti la relaxation arriver pendant la séance."_
 * _"Jacqueline nous a emmenés en vacances, un beau voyage dans la joie et le rire. C'est précieux en cette période de confinement. Bravo pour l'inventivité dans le scénario… Nous avons même réussi à jouer les poupoules, les cocottes… Un très bon moment !"_
 
-![](/images/Yoga-du-rire-Rooftop-Feb-2020-4.jpg)
+{% gallery %}
 
-![](/images/Yoga-du-rire-Rooftop-Feb-2020-1.jpg)
+![](/images/Yoga-du-rire-Rooftop-Feb-2020-4.jpg){.onehalf}
+
+![](/images/Yoga-du-rire-Rooftop-Feb-2020-1.jpg){.onehalf}
 
 ![](/images/Ho-ho-hahaha6-enfants-floute.png)
+
+{% endgallery %}
 
 Regardez un court extrait en vidéo :
 
