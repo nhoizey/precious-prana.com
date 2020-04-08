@@ -48,9 +48,7 @@ On peut donc lister les bienfaits suivants :
 {% gallery %}
 
 ![](/images/Yoga-du-rire-Rooftop-Feb-2020-4.jpg){.onehalf}
-
 ![](/images/Yoga-du-rire-Rooftop-Feb-2020-1.jpg){.onehalf}
-
 ![](/images/Ho-ho-hahaha6-enfants-floute.png)
 
 {% endgallery %}

@@ -16,7 +16,6 @@ Si vous souhaitez en savoir plus, où expérimenter les bienfaits du Gong lors d
 
 {% gallery %}
 
-
 ![](/images/blog/2019-10-31-retraite-gong/FB_IMG_GONG_RETREATE_OFFiciel.jpg)
 ![](/images/blog/2019-10-31-retraite-gong/FB_IMG_GONG-1572389401701-petit.jpg){.onehalf}
 ![](/images/blog/2019-10-31-retraite-gong/20191011_GONG_URANUS.jpg){.onehalf}
