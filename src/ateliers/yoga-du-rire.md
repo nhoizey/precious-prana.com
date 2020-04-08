@@ -28,6 +28,22 @@ On peut donc lister les bienfaits suivants :
 * Arrête le mental (on ne pense plus à autre chose)
 * Rapproche avec les autres
 
+## Quelques témoignages de participant(e)s  
+
+**Quelques témoignages d'une séance en présentiel :** 
+
+*  "génial, je me sens chouette et détendu",
+*  "sympa, à refaire, "je me sens à la fois détendu et reboosté",
+*  "j'ai envie de rire".
+* "Faire rire, c'est faire oublier" écrit Victor Hugo dans l'Homme qui rit. Faire rire les salariés, la formule magique pour bien commencer son après-midi par Precious Prana. Merci Jacqueline pour cette animation. Energie et lâcher-prise pour plus de performance.
+
+**Quelques témoignages d'une séance en ligne :** 
+
+* _"Je me suis sentie immédiatement très détendue et j'ai observé une très grande énergie quelques heures après."_ 
+* _"Bravo pour la belle énergie, elle est contagieuse et merci. J'ai quelques douleurs d’hernie cervicale et de tendinite au bras qui m'empêchent de dormir longtemps, je viens de faire une bonne sieste. Merci."_ 
+* _"J'étais pas mal stressée et j'ai senti la relaxation arriver pendant la séance."_
+* _"Jacqueline nous a emmenés en vacances, un beau voyage dans la joie et le rire. C'est précieux en cette période de confinement. Bravo pour l'inventivité dans le scénario… Nous avons même réussi à jouer les poupoules, les cocottes… Un très bon moment !"_
+
 Regardez un court extrait en vidéo :
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CTE2uGTJrRw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -38,6 +54,4 @@ Regardez un court extrait en vidéo :
 
 L'atelier est animé par Jacqueline Oud, fondatrice Precious Prana et animatrice agréée formée par l’[Institut Français du Yoga du Rire](https://www.formation-yogadurire.fr/).
 
-**Remarque** : Le Yoga du Rire n’est pas une pratique à risque. Cependant, le médecin fondateur a émis des réserves, par soucis de précaution et rappelle quelques limites relevant souvent du bon sens. Ces contre-indications sont disponibles ici  [https://precious-prana.com/yoga-du-rire-contre-indications-medicales/](https://precious-prana.com/yoga-du-rire-contre-indications-medicales/ "https://precious-prana.com/yoga-du-rire-contre-indications-medicales/") 
-
-  
+**Remarque** : Le Yoga du Rire n’est pas une pratique à risque. Cependant, le médecin fondateur a émis des réserves, par soucis de précaution et rappelle quelques limites relevant souvent du bon sens. Ces contre-indications sont disponibles ici  [https://precious-prana.com/yoga-du-rire-contre-indications-medicales/](https://precious-prana.com/yoga-du-rire-contre-indications-medicales/ "https://precious-prana.com/yoga-du-rire-contre-indications-medicales/")
