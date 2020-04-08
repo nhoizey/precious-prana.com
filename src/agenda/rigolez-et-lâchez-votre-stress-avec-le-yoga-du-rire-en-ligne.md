@@ -34,3 +34,5 @@ Attention toutefois, le yoga du rire est déconseillé aux personnes ayant subi 
 * J'ai participé avec ma fille a une séance de yoga du rire pendant le confinement. Je ne savais pas trop comment cela allait se passer, au bout du compte j ai réussi vraiment à me détendre j ai beaucoup bailler pendant la séance et je suis vraiment détendue. J espère bientôt recommencer... Une très belle expérience merci à Jacqueline pour ce bon moment"
 
   :::
+
+![](/images/collage-yoga-du-rire-medium.png)
