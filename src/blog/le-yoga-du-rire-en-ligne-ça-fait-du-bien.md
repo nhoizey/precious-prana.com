@@ -1,7 +1,7 @@
 ---
 date: 2020-04-07
 title: 'Le Yoga du Rire en ligne, ça fait du bien '
-poster: "/images/Ho-ho-hahaha6-enfants -floute.png"
+poster: "/images/Ho-ho-hahaha6-enfants-floute.png"
 
 ---
 Pendant cette 1ère séance de Yoga du Rire en ligne, un groupe de personnes qui ne se connaissait pas ou quasiment pas, s'est retrouvé à faire équipe et partir ensemble en vacances virtuelles grâce aux exercices de rire sans raison. Aussi surprenant que cela puisse paraître, ce groupe s'est vraiment imprégné des bienfaits du rire et de l'effet de groupe et en est ressorti détendu et relâché.
