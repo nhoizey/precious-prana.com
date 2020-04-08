@@ -23,7 +23,9 @@ Pour en savoir plus du Yoga du Rire : [https://precious-prana.com/ateliers/yoga-
 
 Attention toutefois, le yoga du rire est déconseillé aux personnes ayant subi une intervention chirurgicale depuis moins de 3 mois.
 
-::: note **Quelques** **témoignages de cette séance en ligne**  **:** 
+::: note  
+
+**Quelques** **témoignages de cette séance en ligne**  **:**
 
 *  _"Je me suis sentie immédiatement très détendue et j'ai observé une très grande énergie quelques heures après."_
 
