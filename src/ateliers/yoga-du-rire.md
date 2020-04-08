@@ -33,7 +33,8 @@ On peut donc lister les bienfaits suivants :
 **Quelques témoignages d'une séance en présentiel :** 
 
 *  "génial, je me sens chouette et détendu",
-*  "sympa, à refaire, "je me sens à la fois détendu et reboosté",
+*  "sympa, à refaire, "je me sens à la fois détendu et reboosté."
+* "J'ai fait appel à Precious Prana pour animer une séance de yoga du rire dans mon espace de coworking. Bien que réticents au début de l'atelier, tous les participants ont vraiment apprécié ce moment et ont ressenti des bienfaits immédiats. Jacqueline a su mettre tout le monde à l'aise.
 *  "j'ai envie de rire".
 * "Faire rire, c'est faire oublier" écrit Victor Hugo dans l'Homme qui rit. Faire rire les salariés, la formule magique pour bien commencer son après-midi par Precious Prana. Merci Jacqueline pour cette animation. Energie et lâcher-prise pour plus de performance.
 
