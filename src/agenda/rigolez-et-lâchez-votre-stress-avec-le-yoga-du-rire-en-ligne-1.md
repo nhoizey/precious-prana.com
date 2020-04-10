@@ -16,14 +16,14 @@ Cette séance en ligne, en groupe, combine des exercices de rire sans raison et 
 
 Yoga du rire et quelques mots des avantages : détruit le stress et libère les tensions, améliore la qualité du sommeil, lutte contre la douleur, renforce notre système immunitaire, installe rapide de la bonne humeur, renforce des idées positives et arrête le mental (on ne pense plus à autre chose).
 
-Je vous rappelle, il ne s'agit pas d'exercices de gym ou yoga. Pas besoin de savoir rire facilement non plus.
+Je vous rappelle, il ne s'agit pas d'exercices de gym ou yoga. Pas besoin de savoir rire facilement non plus. Vous pouvez également assister en famille, cela renforce la complicité et les rires.
 
 C'est votre moment pour rire et vous faire du bien.  
 Pour en savoir plus du Yoga du Rire : [https://precious-prana.com/ateliers/yoga-du-rire/](https://precious-prana.com/ateliers/yoga-du-rire/ "https://precious-prana.com/ateliers/yoga-du-rire/")
 
 Attention toutefois, le yoga du rire est déconseillé aux personnes ayant subi une intervention chirurgicale depuis moins de 3 mois.
 
-Prix: participation libre pour la séance (Lydia ou Paylib. Une séance en présentiel coûte habituellement 15€). 
+Prix : participation libre pour la séance, (Vous pouvez utiliser Lydia ou Paylib. Une séance en présentiel coûte habituellement 15€ par adulte).
 
 ::: note
 
