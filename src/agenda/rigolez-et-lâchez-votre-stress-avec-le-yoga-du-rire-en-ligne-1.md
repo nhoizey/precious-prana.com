@@ -23,7 +23,7 @@ Pour en savoir plus du Yoga du Rire : [https://precious-prana.com/ateliers/yoga-
 
 Attention toutefois, le yoga du rire est déconseillé aux personnes ayant subi une intervention chirurgicale depuis moins de 3 mois.
 
-Prix: participation libre pour la séance (une séance 
+Prix: participation libre pour la séance (Lydia ou Paylib. Une séance en présentiel coûte habituellement 15€). 
 
 ::: note
 
