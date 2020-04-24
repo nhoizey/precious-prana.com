@@ -1,12 +1,12 @@
 ---
 show_homepage: true
-date: 2020-04-18
+date: 2020-05-02
 title: Rigolez et lâchez votre stress avec le Yoga du Rire en ligne
 ateliers:
 - src/ateliers/yoga-du-rire.md
 lieu: src/lieux/atelier-en-direct-live-streaming.md
-form_url: https://forms.gle/iuecfJuKNxVpx8Hg6
-poster: "/images/image-Yoga-du-Rire-enligne-avril18.png"
+form_url: https://forms.gle/2weLAUk9YhvLPG1q7
+poster: "/images/YogaduRire.jpg"
 moodboard: ''
 published: false
 
@@ -15,7 +15,7 @@ Pendant le confinement, notre niveau de stress monte et nous avons besoin de ret
 
 Cette séance en ligne, en groupe, combine des exercices de rire sans raison et des respirations. Les appréhensions sont vite mises de côté, essayez et vous allez appréciez.
 
-Yoga du rire et quelques mots des avantages : détruit le stress et libère les tensions, améliore la qualité du sommeil, lutte contre la douleur, renforce notre système immunitaire, installe rapide de la bonne humeur, renforce des idées positives et arrête le mental (on ne pense plus à autre chose).
+Yoga du rire et quelques mots des avantages : détruit le stress et libère les tensions, améliore la qualité du sommeil, lutte contre la douleur, renforce notre système immunitaire, installe rapide de la bonne humeur, renforce des idées positives et rapproche avec les autres.
 
 Je vous rappelle, il ne s'agit pas d'exercices de gym ou yoga. Pas besoin de savoir rire facilement non plus. Vous pouvez également assister en famille, cela renforce la complicité et les rires.
 
@@ -24,7 +24,7 @@ Pour en savoir plus du Yoga du Rire : [https://precious-prana.com/ateliers/yoga-
 
 Attention toutefois, le yoga du rire est déconseillé aux personnes ayant subi une intervention chirurgicale depuis moins de 3 mois.
 
-Prix : participation libre pour la séance, (Vous pouvez utiliser Lydia ou Paylib. Une séance en présentiel coûte habituellement 15€ par adulte).
+Prix : 10€ participation, à relger avant la séance. Vous recevrez le lien après paiement. (Vous pouvez utiliser divers modes de paiement). Une séance en présentiel coûte habituellement 15€ par adulte).
 
 ::: note
 
@@ -38,6 +38,6 @@ Prix : participation libre pour la séance, (Vous pouvez utiliser Lydia ou Payli
 
   :::
 
-**Et un aperçu d'une séance en ligne:** 
+**Et un aperçu d'une séance en ligne:**
 
 ![](/images/collage-yoga-du-rire-medium.png)
