@@ -25,7 +25,7 @@
     "gulp-clean": "~0.4",
     "gulp-concat": "~2.6",
     "gulp-rename": "~2.0",
-    "gulp-sass": "~4.0",
+    "gulp-sass": "~4.1",
     "gulp-serve": "~1.4",
     "gulp-shell": "~0.8",
     "gulp-uglify": "~3.0",
