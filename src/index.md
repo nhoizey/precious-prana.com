@@ -17,17 +17,15 @@ Nous proposons des **ateliers et workshops**, suivant des thématiques, qui alli
 
 ::: note
 
-Face à la situation et en accord avec les consignes pour éviter de propager le Coronavirus, nous avons décidé de ne pas assurer nos ateliers en présentiel et de trouver d’autres solutions.[ Lisez nos ajustements prévus](https://precious-prana.com/blog/2020/03/16/notre-action-dans-le-contexte-actuel-pour-%C3%A9viter-la-propagation-du-coronavirus/).
-
-:::
+Face à la situation et en accord avec les consignes pour éviter de propager le Coronavirus, j'ai décidé d'animer les ateliers en ligne afin de pouvoir vous proposer les séances variés et vous apporter un moment de joie et de positif.  Ceci s'applique tant pour l'offre auprès des particiuliers comme celle pour les entreprises. :::
 
 Ces ateliers s’adressent aux salariés en **entreprise**, mais aussi aux **entrepreneurs** et aux **particuliers**. C’est votre moment de repos dans un environnement réceptif, pour créer des échanges et préparer vos idées et envies à faire germer demain, ressentir la joie et vous mettre en action.
 
-Découvrez [nos types d’ateliers](/ateliers/).
+Découvrez [nos types d’ateliers](/ateliers/) et découvrez également notre [offre de services spécifiques pour les entreprises](precious-prana.com/files/Precious-Prana-flyer-entreprise.pdf) 
 
 Nous avons également **une offre dédiée spécialement aux femmes actives**. Pour cette communauté, des rencontres ont actuellement lieu dans l’Essonne, Paris suivra sous peu. Au-delà des ateliers et leur cadre, ces femmes bénéficient des astuces qui leurs correspondent, pour retrouver l’énergie et être moteur.
 
-Pour voir les prochains ateliers, allez sur <a href="/agenda/">notre agenda</a> ou inscrivez-vous à <a href="/newsletter/">notre newsletter</a>.
+Pour voir les prochains ateliers ouverts au public, allez sur <a href="/agenda/">notre agenda</a> ou inscrivez-vous à <a href="/newsletter/">notre newsletter</a>.
 
 <p class="intro">Vous êtes plus dynamique, plus confiant(e) et vos relations le sont aussi.
 <p class="intro">Pétillez et soyez acteur/actrice de votre vie.
