@@ -46,6 +46,6 @@ J'adore l'instant de partage après une séance de Bain de Gong, car les moments
 
 Difficile de bien transmettre  le son et les virations avec un simple enregistrement d'un Bain de Gong. Toutefois, j'ai eu envie de vous partager un courte expérience pour vous donner un aperçu de l'étendu possible. Le moment que vous pourrez écouter ici, je l'ai fait dans une démarche d'essai d'enregistrement, sans aucune prétention, simplement pour le plaisir de partager l'instant spontané.
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/lcABQNErvXc](https://www.youtube.com/embed/lcABQNErvXc "https://www.youtube.com/embed/lcABQNErvXc")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lcABQNErvXc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Laissez-vous bercer, belle découverte, et expérimenter ensuite les Bains de Gong en vrai. Chaque séance de Bain de Gong est différent, car vous êtes chaque fois différent. 
+Laissez-vous bercer, belle découverte, et expérimenter ensuite les Bains de Gong en vrai. Chaque séance de Bain de Gong est différent, car vous êtes chaque fois différent.
