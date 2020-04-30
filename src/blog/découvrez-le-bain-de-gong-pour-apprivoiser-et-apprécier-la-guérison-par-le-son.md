@@ -6,7 +6,7 @@ poster: ''
 published: false
 
 ---
-Sur le site vous avez vu que je donne des séances de relaxation vibratoire au Gong. Cela s'appelle un "Bain de Gong" car je vous berce - comme baigner - par les vibrations sonores. Mais ce Bain de Gong, laisse encore pas mal de personnes interrogatives. 
+Sur le site vous avez vu que je donne des séances de relaxation vibratoire au Gong. Cela s'appelle un "Bain de Gong" car je vous berce - comme baigner - par les vibrations sonores. Mais ce Bain de Gong, laisse encore pas mal de personnes interrogatives.
 
 Est-ce le mot "bain" qui perturbe ? Est-ce l'appréhension au son "ah, ca risque d'être fort non?" Les raisons sont variées, et avant tout c'est l'inconnu qui crée cette méfiance, cette hésitation. Pire encore, si on utilise le terme "Guérison par le son". Alors, comment l'aprivoisir pour apprécier les effets ?
 
@@ -26,7 +26,7 @@ Une autre forme de thérapie de guérison par le son - que vous connaissez certa
 
 Déjà dans la vie de tous les jours, vous pouvez également profitez d'écouter de la **musique sur CD (ou MP3)**. La musique tel qu'on la connait plus globalement a un effet sur nos émotions : on peut être touché par une mélodie, on peut retrouver l'énergie avec un morceau dynamque, les options sont nombreuses. Des tests scientifiques ont assez souvent demontrés les effets sur notre humeur mais aussi sur notre cerveau. Une musique dédiée pour vous "relaxer" est également une thérapie de son.
 
-D'autres formes plus poussées existent aussi. Par exemple la "sonopuncture", la thérapie de diapason, pour travailler sur les équilibres par exemples, ou des thérapies "accoustic- vibratoire" avec de l'aide d'appareils et qui permettent de travailler sur le stress et niveau de conscience. 
+D'autres formes plus poussées existent aussi. Par exemple la "sonopuncture", la thérapie de diapason, pour travailler sur les équilibres par exemples, ou des thérapies "accoustic- vibratoire" avec de l'aide d'appareils et qui permettent de travailler sur le stress et niveau de conscience.
 
 ### Et le Gong dans tout cela ?
 
@@ -46,6 +46,6 @@ J'adore l'instant de partage après une séance de Bain de Gong, car les moments
 
 Difficile de bien transmettre  le son et les virations avec un simple enregistrement d'un Bain de Gong. Toutefois, j'ai eu envie de vous partager un courte expérience pour vous donner un aperçu de l'étendu possible. Le moment que vous pourrez écouter ici, je l'ai fait dans une démarche d'essai d'enregistrement, sans aucune prétention, simplement pour le plaisir de partager l'instant spontané.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lcABQNErvXc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1120" height="630" style="max-width: 100%" src="https://www.youtube.com/embed/lcABQNErvXc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Laissez-vous bercer, belle découverte, et expérimenter ensuite les Bains de Gong en vrai. Chaque séance de Bain de Gong est différent, car vous êtes chaque fois différent.
