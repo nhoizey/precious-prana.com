@@ -6,17 +6,19 @@ poster: ''
 published: false
 
 ---
-Sur le site vous avez vu que je donne des séances de relaxation vibratoire au Gon. Lle "Bain de Gong" car je vous berce - comme baigner - par les vibrations sonores. Mais ce Bain de Gong, laisse encore pas mal de personnes interrogatives. Est-ce le mot "bain" qui perturbe ? Est-ce l'appréhension au son "ah, ca risque d'être fort non?" Les raisons sont variées, et avant tout c'est l'inconnu qui crée cette méfiance, cette hésitation. Pire encore, si on utilise le terme "Guérison par le son". Alors, comment l'aprivoisir pour apprécier les effets ?
+Sur le site vous avez vu que je donne des séances de relaxation vibratoire au Gong. Cela s'appelle un "Bain de Gong" car je vous berce - comme baigner - par les vibrations sonores. Mais ce Bain de Gong, laisse encore pas mal de personnes interrogatives. 
+
+Est-ce le mot "bain" qui perturbe ? Est-ce l'appréhension au son "ah, ca risque d'être fort non?" Les raisons sont variées, et avant tout c'est l'inconnu qui crée cette méfiance, cette hésitation. Pire encore, si on utilise le terme "Guérison par le son". Alors, comment l'aprivoisir pour apprécier les effets ?
 
 ### La thérapie de guérison par le son ?
 
-On entend de plus en plus parler des thérapies de son et des thérapies vibratoires. C'est souvent dans le souhait d'apporter du bien-être, mais c'est aussi influencé par ce qui sort de l'ordinaire, voir des effets de mode. Et comme toujours, on peut trouver de tout sur le marché. Le Bain de Gong se trouve dans ce mélange de son et de vibrations et fait partie de ce qu'on peut appeler "Sound Healing" thérapie de guérison par le son. C'est une méthode de guérison bien ancien au final mais qui a été oublié pour certaines parties et qui revient de force. Pour demystifier le terme "guérison par le son", j'ai envie de vous rappeler d'autres formes de guérison par le son, auquel vous ne pensez pas forcément mais qui sont intéressant et aident d'apprivoiser l'approche.
+On entend de plus en plus parler des thérapies de son et des thérapies vibratoires. C'est souvent dans le souhait d'apporter du bien-être, mais c'est aussi influencé par ce qui sort de l'ordinaire, voir des effets de mode. Et comme toujours, on peut trouver de tout sur le marché. Le Bain de Gong se trouve dans ce mélange de son et de vibrations et fait partie de ce qu'on peut appeler "Sound Healing" thérapie de guérison par le son. C'est une méthode de guérison bien ancien au final mais qui a été oublié pour certaines parties et qui revient de force. Pour demystifier le terme "guérison par le son", j'ai envie de vous rappeler d'autres formes de guérison par le son, auquel vous ne pensez pas forcément mais qui sont intéressants et aident d'apprivoiser l'approche.
 
-D'ailleurs, pourquoi on parle de "son" et non de "musique" ? car il ne s'agit pas forécement d'une mélodie qu'on joue et il n'y a pas de notes. Mais aussi, un bruitage est un son, un cri est un son. Tout est vibration, tout est son.
+D'ailleurs, pourquoi on parle de "son" et non de "musique" ? Car il ne s'agit pas forécement d'une mélodie qu'on joue et il n'y a pas obligatoirement des notes. Un bruitage est un son, un cri est un son. Tout est vibration, tout est son, mais tout n'est pas musique.
 
 ### Quelques exemples
 
-Le plus connu dans ce catégories bien-être à la mode est actuellement les **bols tibétains**, ou les bols en quartz. Ils vous donnent ce son agréable, vous bercent, comme j'aime dire, dans un forêt de contes de fées, et vous vous y laissez très facilement amener. Leur son dépend non seulement du matériel utilisé, mais aussi du moment de leur fabrication. Il y a par exemple des bols tibétains fait une nuit de pleine lune et leur son est très différent. ON appelle des sons dans cette catégorie des "sons accoustiques".
+Le plus connu dans ce catégories bien-être et à la mode est actuellement les **bols tibétains**, ou les bols en quartz. Ils vous donnent ce son agréable, vous bercent, comme j'aime dire, dans un forêt de contes de fées, et vous vous y laissez très facilement amener. Leur son dépend non seulement du matériel utilisé, mais aussi du moment de leur fabrication. Il y a par exemple des bols tibétains fait une nuit de pleine lune et leur son est très différent. ON appelle des sons dans cette catégorie des "sons accoustiques".
 
 Une autre forme de thérapie de guérison par le son - que vous connaissez certainement - ces sont les méditations chantéses avec des mantras. Saviez-vous que **notre voix** est un instrument très puissant de guérison par le son ? La plupart de personnes ne savent plus se servir de la voix pour se guerir, mais pensez tout simplement à l'effet d'une berceuse pour un enfant chanté par une proche (mère, père ou autre). La voix apaise, résonne, vibre. De plus en plus de personnes découvrent d'ailleurs les chorales et découvrent à quel point chanter fait du bien. Et rappelez-vous que chanter dans sa salle de bain, est excellent pour se libérer et se détendre. Vous voyez que il y a une large spectre possible avec notre voix entre chanter des mantras sacrés, et chanter sous la douche.
 
@@ -31,6 +33,8 @@ Le son du Gong qu'on perçoit est un "son d'origine", certains disent que c'est 
 ### Au délà des contrées des contes de fées, y il a les dragons et barbe rousse vous attendent.
 
 Vous pourrez à ce moment découvrir les contrées où rôdent les dragons, les méchants et les barbes rousses qui vous ont données des échecs, des blessures et des blocages. Votre Ego, qui est à ce moment dans la phase "d'accord" car toujours en confiance, accèpte que les vibrations accèdent à ce zône plus sombre où sont stockés ces blessures et blocages. C'est à ce moment que les sons et vibrations pourront y  lever les résistances et remettre la douceur et fluidité pour guérir.
+
+![](/images/Canva_Mountain_During_Cloudy_Sky.jpg)
 
 Il n'est pas rare que pendant une séance une blessure vous ravive la douleur, pour ensuite disparaître pour de vrai, ou que vous vous sentez comme envahi par un nuage sombre puis de tomber d'une falaise pour arriver dans une zône plus lumineuse et paisible.
 
