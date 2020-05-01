@@ -12,17 +12,17 @@ navorder: 7
 
 Precious Prana propose des ateliers, des workshops et un accompagnement sur la durée, suivant des thématiques qui allient lâcher pris, création et action, et qui sont toujours accompagnés par un moment de partage. Ces séances vous apportent détente, prise de recul, ouverture d’esprit et dialogue pour mieux contruire votre équilibre, votre activité ou votre projet.
 
-### Offre pour entreprises, salariés et entrepreneurs
+## Offre pour entreprises, salariés et entrepreneurs
 
 Les activités s’adressent aux salariés en entreprises dans le cadre d’un accompagnement au changement et pour l’équilibre de vie au travail. Elles réduisent le stress, les incompréhensions et redonnent le sens au travail et aux équipes. Les activités s’adressent également aux groupes d’entrepreneurs et aux particuliers. C’est votre moment de repos dans un environnement réceptif pour créer des échanges et préparer vos idées et envie à faire germer demain, ressentir la joie et vous mettre en action.
 
-### Une seconde offre dédiée aux mères actives
+## Une seconde offre dédiée aux mères actives
 
 **Notre seconde offre dédiée aux mères actives** permet aux femmes qui travaillent et qui en rentrant  prennent la suite à la maison avec les enfant, de se ressourcer, de savoir auto-gérer leur énergie et réussir l'équilibre entre vie personnelle, professionnelle et familiale. Nous travaillons avec des intervenants pour une offre complète et nous avons un réseau fermé pour partager et s’encourager en dehors des événements. Ensemble on ira plus loin.
 
 Ces ateliers peuvent avoir lieu en entreprise, dans un réseau de femmes existants, dans les quartiers ou organisé en direct par la communauté de Precious Prana. Les ateliers ouverts au public sont [affichés dans l'agenda]().
 
-### Jacqueline Oud, fondatrice de Precious Prana
+## Jacqueline Oud, fondatrice de Precious Prana
 
 ![Jacqueline Oud](/images/portraits/jacqueline-oud.jpg){.onethird .round}
 **Jacqueline Oud** est d’origine néerlandaise et a trois enfants. Elle a travaillé pendant 15 ans en gestion de projet sur des sujets transverses et internationaux, puis elle a géré une équipe en accompagnement au changement en entreprise pendant 4 ans.
