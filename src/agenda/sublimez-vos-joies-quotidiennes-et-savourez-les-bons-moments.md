@@ -8,7 +8,6 @@ lieu: src/lieux/atelier-en-direct-live-streaming.md
 form_url: 'https://forms.gle/VaQAUugkgVoiVFye8 '
 poster: "/images/Happy-Woman-dandelion-small.jpg"
 moodboard: ''
-published: false
 
 ---
 Savourer c'et bien plus que vivre le moment présent. C'est aussi faire perdurer les moments de joies, les encrer et les intensifier. Et c'est bien bénéfique pour notre système immunitaire. Encore faut-il savoir le faire. Avec l'atelier vous le saurez. 
