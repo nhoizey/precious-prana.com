@@ -32,7 +32,7 @@ module.exports = {
       minWidth: 240,
       maxWidth: 1120,
       sizes: '(min-width: 66rem) 40rem, 60vw',
-      classes: ['twothirds', 'right']
+      classes: ['twothirds']
     },
     poster: {
       fallbackWidth: 200,
