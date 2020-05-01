@@ -236,14 +236,6 @@ figure {
 .poster,
 .onethird {
   width: 33%;
-  float: right;
-  margin: 1em 0 1em 1em;
-}
-
-.onethird {
-  width: 33%;
-  float: right;
-  margin: 1em 0 1em 1em;
 }
 
 .onehalf {
@@ -288,6 +280,11 @@ figure {
   .onethird {
     width: calc(33% - 1em);
   }
+}
+
+.right {
+  float: right;
+  margin: 1em 0 1em 1em;
 }
 
 .round {
