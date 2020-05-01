@@ -15,7 +15,7 @@ Pour en saovir plus, contactez-moi directement pour échanger sur votre besoin e
 
 ::: note
 
-J'ai près de 20 ans d'expérience en gestion des projets internationaux et en accompagnement au changement dans des contextes internationales et multiculturelles. Formé par ESCP-EAP et l'ESSEC, j'ai complété mes connaissances avec des nouvelles méthodes comme le co-développement, le Design Thinking et l'utilisation des outils à distance.
+J'ai près de 20 ans d'expérience en gestion des projets internationaux et en accompagnement au changement dans des contextes internationales et multiculturelles. Formé par ESCP-EAP (Gestion des Projets Internationaux) et l'ESSEC (Réussir le Changement), j'ai complété mes connaissances avec des nouvelles méthodes comme le Co-développement, le Design Thinking, Lean et l'utilisation des outils à distance.
 
 Mon accompagnement peut se faire en français, anglais et néerlandais. Je suis totalement à l'aise dans un environnement de transformation international. 
 
