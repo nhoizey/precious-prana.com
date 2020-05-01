@@ -24,6 +24,7 @@ Ces ateliers peuvent avoir lieu en entreprise, dans un réseau de femmes existan
 
 ### Jacqueline Oud, fondatrice de Precious Prana
 
+![Jacqueline Oud](/images/portraits/portrait-jacqueline-oud-rond.jpg){.onethird .round}
 **Jacqueline Oud** est d’origine néerlandaise et a trois enfants. Elle a travaillé pendant 15 ans en gestion de projet sur des sujets transverses et internationaux, puis elle a géré une équipe en accompagnement au changement en entreprise pendant 4 ans.
 
 Ses expériences professionnelles et personnelles l’ont motivée à mettre l’humain et son épanouissement au centre de sa démarche. Elle est convaincue que l’épanouissement et l’équilibre personnel sont, tant pour les entreprises que pour les individus et leur entourage, **un facteur clef de réussite et de progrès**.
