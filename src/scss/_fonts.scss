@@ -14,7 +14,7 @@
     url("/fonts/roboto-regular.woff") format("woff");
   font-weight: normal;
   font-style: normal;
-  font-display: swap;
+  font-display: fallback;
 }
 
 @font-face {
@@ -24,7 +24,7 @@
     url("/fonts/roboto-bold.woff") format("woff");
   font-weight: bold;
   font-style: normal;
-  font-display: swap;
+  font-display: fallback;
 }
 
 // @font-face {
