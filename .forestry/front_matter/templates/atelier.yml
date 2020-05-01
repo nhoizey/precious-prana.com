@@ -8,3 +8,5 @@ fields:
   label: Titre
   config:
     required: true
+pages:
+- src/ateliers/co-développement.md
