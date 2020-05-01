@@ -1,6 +1,6 @@
 ---
 show_homepage: true
-date: 
+date: 2020-05-14
 title: 'Le travail à distance : développez cette opportunité dans votre entreprise'
 ateliers:
 - src/ateliers/accompagnement-au-changement-transformation-en-entreprises.md
@@ -17,3 +17,5 @@ Suite au succès des deux webinars précédents, je propose une nouvelle séance
 Que vous ayez des équipes à gérer, des partenaires ou des formations à développer, **il faut se réinventer, s'adapter et communiquer autrement**. Questionnaires, animation/brainstorming, visio conférences, suivi et échanges, co-construction et tableaux blancs, stockage et gestion de projets... : quelles solutions numériques mettre en œuvre et comment gérer les relations à distance ?
 
 Cette nouvelle séance est toujours co-animée par Marie Aude Lagâche et Jacqueline Oud.
+
+**Lieu et date :**  Jeudi 14 mai de 10h à 12h, via Zoom, inscription au préalable.
