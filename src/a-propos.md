@@ -31,3 +31,5 @@ Ses expériences professionnelles et personnelles l’ont motivée à mettre l�
 > Je suis pragmatique et comme beaucoup parmi vous, j'allie depuis longtemps ma vie de famille avec un carrière professionnel. Ce n'est pas toujours facile, mais c'est important pour moi, donc je me donne les moyens et j'ai trouvé les astuces pour garder l'équilibre et l'énergie. Je n'ai pas envie de dépasser mes limites, ni de me retrouver avec de gros soucis de santé ou un burn-out parce que je ne me suis pas écoutée. 
 >
 > C'est pour cela que je partage mes compétences, ainsi que mes expériences dans l'accompagnement des salariés et des individus. Dans les turbulances des changements, restez acteurs et actrices de votre vie. Pétillez.
+
+![](/images/illustrations/woman-blowing-glitters-on-her-hands.jpg)
