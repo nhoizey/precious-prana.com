@@ -24,8 +24,10 @@ Ces ateliers peuvent avoir lieu en entreprise, dans un réseau de femmes existan
 
 ### Jacqueline Oud, fondatrice de Precious Prana
 
-**Jacqueline Oud, Fondatrice de Precious Prana**, est d’origine néerlandaise et a trois enfants. Elle a travaillé pendant 15 ans en gestion de projet sur des sujets transverses et internationaux, puis elle a géré une équipe en accompagnement au changement en entreprise pendant 4 ans.
+**Jacqueline Oud** est d’origine néerlandaise et a trois enfants. Elle a travaillé pendant 15 ans en gestion de projet sur des sujets transverses et internationaux, puis elle a géré une équipe en accompagnement au changement en entreprise pendant 4 ans.
 
 Ses expériences professionnelles et personnelles l’ont motivée à mettre l’humain et son épanouissement au centre de sa démarche. Elle est convaincue que l’épanouissement et l’équilibre personnel sont, tant pour les entreprises que pour les individus et leur entourage, **un facteur clef de réussite et de progrès**.
 
-> Je suis pragmatique et comme beaucoup parmi vous, j'allie depuis longtemps ma vie de famille avec un carrière professionnel. Ce n'est pas toujours facile, mais c'est important pour moi, donc je me donne les moyens et j'ai trouvé les astuces pour garder l'équilibre et l'énergie. Je n'ai pas envie de dépasser mes limites, ni de me retrouver avec de gros soucis de santé ou un burn-out parce que je ne me suis pas écoutée. C'est pour cela que je partage mes compétences, ainsi que mes expériences dans l'accompagnement des salariés et des individus. Dans les turbulances des changements, restez acteurs et actrices de votre vie. Pétillez.
+> Je suis pragmatique et comme beaucoup parmi vous, j'allie depuis longtemps ma vie de famille avec un carrière professionnel. Ce n'est pas toujours facile, mais c'est important pour moi, donc je me donne les moyens et j'ai trouvé les astuces pour garder l'équilibre et l'énergie. Je n'ai pas envie de dépasser mes limites, ni de me retrouver avec de gros soucis de santé ou un burn-out parce que je ne me suis pas écoutée. 
+>
+> C'est pour cela que je partage mes compétences, ainsi que mes expériences dans l'accompagnement des salariés et des individus. Dans les turbulances des changements, restez acteurs et actrices de votre vie. Pétillez.
