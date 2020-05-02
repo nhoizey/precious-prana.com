@@ -9,7 +9,6 @@
     "start": "ELEVENTY_ENV=development yarn run build && yarn run serve",
     "startdebug": "DEBUG=Eleventy* ELEVENTY_ENV=development yarn run build && yarn run serve",
     "build": "gulp build",
-    "build:local": "gulp build:local",
     "serve": "ELEVENTY_ENV=development gulp watch & gulp serve"
   },
   "repository": {
