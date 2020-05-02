@@ -25,11 +25,11 @@
     "gulp-clean": "~0.4",
     "gulp-concat": "~2.6",
     "gulp-rename": "~2.0",
-    "gulp-sass": "~4.0",
+    "gulp-sass": "~4.1",
     "gulp-serve": "~1.4",
     "gulp-shell": "~0.8",
     "gulp-uglify": "~3.0",
-    "luxon": "~1.22",
+    "luxon": "~1.23",
     "markdown-it": "~10.0",
     "markdown-it-anchor": "~5.2",
     "markdown-it-container": "~2.0",
@@ -40,6 +40,6 @@
     "@jlengstorf/get-share-image": "^0.7.0",
     "deepmerge": "^4.2.2",
     "image-size": "^0.8.3",
-    "jsdom": "^16.2.1"
+    "jsdom": "^16.2.2"
   }
 }
