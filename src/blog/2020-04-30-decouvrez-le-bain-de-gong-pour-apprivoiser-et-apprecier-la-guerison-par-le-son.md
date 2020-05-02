@@ -3,7 +3,7 @@ date: 2020-04-30
 title: 'Découvrez le Bain de Gong pour apprivoiser et apprécier la guérison par le
   son  '
 poster: ''
-
+slug: ''
 ---
 Sur le site, vous avez vu que je donne des séances de relaxation vibratoire au Gong. Cela s'appelle un "Bain de Gong" car je vous baigne dans les vibrations sonores. Mais ce Bain de Gong laisse encore pas mal de personnes interrogatives.
 
