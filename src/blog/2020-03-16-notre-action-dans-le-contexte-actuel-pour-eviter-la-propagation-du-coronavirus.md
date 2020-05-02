@@ -4,7 +4,7 @@ title: Notre action dans le contexte actuel pour éviter la propagation du Coron
 poster: ''
 
 ---
-Face à la situation et en accord avec les consignes pour éviter de propager le Coronavirus, nous avons décidé de ne pas assurer nos ateliers en présentiel et de trouver d’autres solutions. 
+Face à la situation et en accord avec les consignes pour éviter de propager le Coronavirus, nous avons décidé de ne pas assurer nos ateliers en présentiel et de trouver d’autres solutions.
 
 Concrètement, **pour l’atelier « Savourer les bons moments »**, ou comment apporter plus de joie, prévu ce vendredi, nous avons décidé de modifier certaines parties de l’atelier pour pouvoir **vous le proposer en ligne**. Pour vous inscrire, le parcours reste le même : allez sur notre site, partie « agenda », sélectionnez l’atelier du 20 mars et choisissez « Inscrivez-vous ». Remplissez les informations demandées et vous recevrez le lien avec les instructions pour la préparation. Allez-y : [Atelier Savourer les bons moments par ici](https://precious-prana.com/agenda/2020/03/20/atelier-savourer-les-bons-moments/)
 
