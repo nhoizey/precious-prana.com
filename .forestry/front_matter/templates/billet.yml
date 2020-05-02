@@ -17,6 +17,9 @@ fields:
 - type: text
   name: title
   label: Titre
+- type: text
+  name: slug
+  label: "Slug (titre pour l'URL)"
 - name: poster
   type: file
   config:
