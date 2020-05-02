@@ -1,3 +1,14 @@
+---
+permalink: _redirects
+---
+
+{% for billet in collections.blog | reverse %}
+{%- set autoslug = billet.data.title | slugify -%}
+{%- if billet.data.slug and billet.data.slug !== '' and billet.data.slug !== autoslug %}
+/blog/{{ billet.date | permalinkDate }}/{{ autoslug }}/ /blog/{{ billet.date | permalinkDate }}/{{ billet.data.slug }}/ 301!
+{% endif -%}
+{% endfor %}
+
 /evenements/2019/03/28/atelier-journal-creatif/interview-maud-carroue-bisval/   /interviews/maud-carroue-bisval/ 301!
 /evenements/2019/03/28/interview-de-maud-carroue-bisval/                        /interviews/maud-carroue-bisval/ 301!
 /evenements/2019/05/21/interview-de-marie-duhammel/                             /interviews/marie-duhammel/ 301!
