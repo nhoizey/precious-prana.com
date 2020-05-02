@@ -21,4 +21,4 @@ gulp.task("assets", gulp.parallel("styles", "scripts"));
 /*
   Let's gwt the data we need and then build this sucker.
 */
-gulp.task("build", gulp.series("clean-build", "assets", "generate"));
+gulp.task("build", gulp.series("assets", "generate"));

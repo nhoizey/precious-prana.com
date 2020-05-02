@@ -6,8 +6,9 @@
   "license": "MIT",
   "scripts": {
     "gen": "gulp generate",
-    "start": "ELEVENTY_ENV=development yarn run build && yarn run serve",
-    "startdebug": "DEBUG=Eleventy* ELEVENTY_ENV=development yarn run build && yarn run serve",
+    "clean": "gulp clean-build",
+    "start": "ELEVENTY_ENV=development yarn run clean && yarn run build && yarn run serve",
+    "startdebug": "DEBUG=Eleventy* yarn run start",
     "build": "gulp build",
     "serve": "ELEVENTY_ENV=development gulp watch & gulp serve"
   },
