@@ -19,14 +19,13 @@ fields:
   label: Titre
 - type: text
   name: slug
-  label: "Slug (titre pour l'URL)"
+  label: Slug (titre pour l'URL)
+  config:
+    min: 1
+  description: Titre en minuscules, sans accent, apostrophe, cédille, ni espace. Par
+    exemple "c-est-comme-ca-qu-il-faut-faire".
 - name: poster
   type: file
   config:
     maxSize: 10
   label: Poster
-pages:
-- src/blog/conférence-sublimez-vos-joies-quotidiennes-au-salon-vivre-autrement-à-brunoy.md
-- src/blog/découvrez-le-bain-de-gong-pour-apprivoiser-et-apprécier-la-guérison-par-le-son.md
-- src/blog/le-yoga-du-rire-en-ligne-ça-fait-du-bien.md
-- src/blog/notre-action-dans-le-contexte-actuel-pour-éviter-la-propagation-du-coronavirus.md
