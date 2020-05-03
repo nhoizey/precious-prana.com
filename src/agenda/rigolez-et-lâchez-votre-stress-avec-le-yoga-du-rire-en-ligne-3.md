@@ -8,7 +8,6 @@ lieu: src/lieux/atelier-en-direct-live-streaming.md
 form_url: https://forms.gle/Cq1xVSjzrXG1QMWT7
 poster: "/images/Yoga-du-Rire-mai 2020FB.png"
 moodboard: ''
-published: false
 
 ---
 Pendant le confinement, notre niveau de stress monte et nous avons besoin de retrouver des moments pour lâcher prise et pour retrouver l'humour. C'est possible avec cet atelier Yoga du Rire. Je continue donc d'animer les séances de Yoga du Rire à tout public en ligne toutes les deux semaines. 
