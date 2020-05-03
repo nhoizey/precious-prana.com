@@ -21,7 +21,8 @@ fields:
   name: slug
   label: Slug (titre pour l'URL)
   config:
-    min: 1
+    min: 
+    required: false
   description: Titre en minuscules, sans accent, apostrophe, cédille, ni espace. Par
     exemple "c-est-comme-ca-qu-il-faut-faire".
 - name: poster
