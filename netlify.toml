@@ -1,4 +1,5 @@
 [build]
+  ignore = "git log -1 --pretty=%B | grep dependabot"
   command = "yarn run build"
   publish = "dist"
   NODE_ENV = "8.9.0"
