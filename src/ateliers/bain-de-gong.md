@@ -16,7 +16,7 @@ Voici des témoignages de participantes :
 
 > Je ne savais pas du tout à quoi m'attendre en allant à la séance. Et au final, j'ai vécu un moment incroyable et j'ai adoré. Au-delà de la détente et de la relaxation ressenties longtemps après, j'ai trouvé l'expérience sonore très belle. Le mélange d'harmoniques et de graves du gong m'a fait voyager loin dans l'espace et le temps. J'espère le refaire un jour et faire découvrir cette expérience autour de moi, aux amis et à la famille. (G.Q.)
 
-### Nouveau - séances individuelles
+### Séances individuelles
 
 Il est possible de profiter d'une séance de relaxation vibratoire "Bain de Gong" individuelle. Il y a deux durées possibles :
 
@@ -29,6 +29,27 @@ Il est possible de profiter d'une séance de relaxation vibratoire "Bain de Gong
 * Pour prendez rdv: au téléphone 06.33.96.84.83 ou via mail : contact@precious-prana.com
 * Les précautions de sécurité sont pris en compte (masque,visière, gel hydro-alcoolique, distanciation. Pas de toucher necéssaire)
 * Le règlement se fait en espèces ou chèque
+
+### Séances en groupes 
+
+Des séances en groupe sont proposées tout au long de l'année. 
+
+Toutefois, actuellement, dans le contexte du COVID-19, les séances en groupes sont mise en attente. 
+
+### Séances en entreprise
+
+Les séances en entreprise sont également possible et très bénéfique pour vos salariés.  Vos salariés se détendent très rapidement et profitent d'une vrai pause ressourçante pendant la journée de travail, ou bien pour terminer la journée de travail. Après une séance de Bain de Gong, on est plus alerte, plus créatif et plus productif. N'ayez pas de inquiétude quant au besoin d'insonorisation.
+
+**Deux formules en entreprise** : 
+
+* Des séances individuelles : souvent dans une espace infirmerie ou un autre espace dédiée aux soins bien-être.
+* Des séances en groupes : généralement dans une espace sport, une salle collective dans les parties collectives de l'entreprise. 
+
+**Quelques témoignages d'intervention en entreprise** 
+
+> Je ne pensais pas m'endormir aussi facilement pendant ce Bain de Gong, surtout en pleine journée entre les réunions. (V.B.)
+>
+> C'est apaisant, et je sens comme un flottement. Je suis très analytique et j'avais peur du niveau sonor et la gêne. Mais c'est justement quand c'est plus fort que j'apprécie car mon mental lâche. (N.C)
 
 ![](/images/illustrations/circle-waves-on-water-bleu.jpg)
 
