@@ -162,6 +162,10 @@ a:visited {
   color: $brand-blue;
   text-decoration: underline solid $brand-blue-light;
 
+  footer & {
+    color: #fff;
+  }
+
   &.facebook {
     color: $facebook-color;
     text-decoration: underline solid mix($facebook-color, $page-background, 60%);
