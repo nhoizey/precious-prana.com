@@ -210,6 +210,7 @@ module.exports = function (eleventyConfig) {
     .addPassthroughCopy("src/fonts")
     .addPassthroughCopy("src/images")
     .addPassthroughCopy("src/_redirects")
+    .addPassthroughCopy("src/_headers")
     .addPassthroughCopy("src/robots")
     .addPassthroughCopy("src/favicon.ico");
 
