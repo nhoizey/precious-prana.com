@@ -211,7 +211,7 @@ module.exports = function (eleventyConfig) {
     .addPassthroughCopy("src/images")
     .addPassthroughCopy("src/_redirects")
     .addPassthroughCopy("src/_headers")
-    .addPassthroughCopy("src/robots")
+    .addPassthroughCopy("src/robots.txt")
     .addPassthroughCopy("src/favicon.ico");
 
   /* Forestry instant previews */
