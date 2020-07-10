@@ -40,6 +40,6 @@
     "@jlengstorf/get-share-image": "^0.7.0",
     "deepmerge": "^4.2.2",
     "image-size": "^0.8.3",
-    "jsdom": "^16.2.2"
+    "jsdom": "^16.3.0"
   }
 }
