@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@11ty/eleventy": "~0.10",
-    "@sindresorhus/slugify": "~0.11",
+    "@sindresorhus/slugify": "~1.1",
     "concurrent-transform": "~1.0",
     "gravatar": "~1.8",
     "gulp": "~4.0",
