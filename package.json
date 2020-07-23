@@ -17,8 +17,8 @@
     "url": "https://github.com/nhoizey/precious-prana.com"
   },
   "dependencies": {
-    "@11ty/eleventy": "~0.10",
-    "@sindresorhus/slugify": "~0.11",
+    "@11ty/eleventy": "~0.11",
+    "@sindresorhus/slugify": "~1.1",
     "concurrent-transform": "~1.0",
     "gravatar": "~1.8",
     "gulp": "~4.0",
@@ -29,17 +29,17 @@
     "gulp-serve": "~1.4",
     "gulp-shell": "~0.8",
     "gulp-uglify": "~3.0",
-    "luxon": "~1.23",
-    "markdown-it": "~10.0",
-    "markdown-it-anchor": "~5.2",
-    "markdown-it-container": "~2.0",
-    "markdown-it-attrs": "^3.0.2",
+    "luxon": "~1.24",
+    "markdown-it": "~11.0",
+    "markdown-it-anchor": "~5.3",
+    "markdown-it-container": "~3.0",
+    "markdown-it-attrs": "^3.0.3",
     "pump": "~3.0",
     "require-dir": "~1.2",
     "clean-css": "^4.2.3",
-    "@jlengstorf/get-share-image": "^0.7.0",
+    "@jlengstorf/get-share-image": "^0.7.1",
     "deepmerge": "^4.2.2",
     "image-size": "^0.8.3",
-    "jsdom": "^16.2.2"
+    "jsdom": "^16.3.0"
   }
 }
