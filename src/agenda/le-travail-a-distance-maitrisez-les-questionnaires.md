@@ -17,8 +17,8 @@ Suite au succès de nos webinars précédents, je propose une séance autour de 
 
 **Les objectifs de cet atelier** 
 
-1. Choisir, utiliser, paramétrer et tester de questionnaires
-2. Différents outils du marché, pour vous familiariser avec les différentes approches ( Google Forms, Zoom et Klaxoon et autres outils du marché) 
+1. Choisir, utiliser, paramétrer et tester des questionnaires
+2. Différents outils du marché, pour vous familiariser avec les différentes approches (Google Forms, Zoom et Klaxoon et autres outils du marché) 
 3. Mise en pratique de vos besoins concrets pour une capitalisation immédiate
 
 **Les points forts de cet atelier**
