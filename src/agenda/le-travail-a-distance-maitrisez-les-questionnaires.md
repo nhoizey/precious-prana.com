@@ -1,7 +1,7 @@
 ---
 show_homepage: true
-date: 2020-05-14
-title: 'Le travail à distance : maîtrisez les questionnaires '
+date: 2020-08-26
+title: 'Le travail à distance : maîtrisez les questionnaires et leur animation'
 ateliers:
 - src/ateliers/accompagnement-au-changement-transformation-en-entreprises.md
 lieu: src/lieux/atelier-en-direct-live-streaming.md
