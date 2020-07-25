@@ -17,7 +17,9 @@ Nous proposons des **ateliers et workshops**, suivant des thématiques, qui alli
 
 ::: note
 
-Face à la situation et en accord avec les consignes pour éviter de propager le Coronavirus, j'ai décidé d'animer les ateliers en ligne afin de pouvoir vous proposer les séances variés et vous apporter un moment de joie et de positif.  Ceci s'applique tant pour l'offre auprès des particuliers comme celle pour les entreprises.
+Face à la situation et en accord avec les consignes pour éviter de propager le Coronavirus, j'ai décidé de continuer l'animation des ateliers en ligne afin de pouvoir vous proposer les séances variés et vous apporter un moment de joie et de positif.  Ceci s'applique tant pour l'offre auprès des particuliers comme celle pour les entreprises. 
+
+A l'exception des séances individuelles [de relaxation "Bain de Gong"]() , qui sont de nouveau possible sur rdv. 
 
 :::
 
