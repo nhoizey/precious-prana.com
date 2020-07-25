@@ -17,15 +17,17 @@ Nous proposons des **ateliers et workshops**, suivant des thématiques, qui alli
 
 ::: note
 
-Face à la situation et en accord avec les consignes pour éviter de propager le Coronavirus, j'ai décidé de continuer l'animation des ateliers en ligne afin de pouvoir vous proposer les séances variés et vous apporter un moment de joie et de positif.  Ceci s'applique tant pour l'offre auprès des particuliers comme celle pour les entreprises. 
+En accord avec les consignes pour éviter de propager le Coronavirus, j'ai décidé de continuer l'animation de certains ateliers en ligne afin de pouvoir vous proposer les séances variés et vous apporter un moment de joie et de lâcher prise.  A l'exception des séances individuelles [de relaxation "Bain de Gong"](), qui sont de nouveau possible sur rdv. 
 
-A l'exception des séances individuelles [de relaxation "Bain de Gong"]() , qui sont de nouveau possible sur rdv. 
+Ceci s'applique tant pour l'offre auprès des particuliers comme celle pour les entreprises. 
 
 :::
 
 Ces ateliers s’adressent aux salariés en **entreprise**, mais aussi aux **entrepreneurs** et aux **particuliers**. C’est votre moment de repos dans un environnement réceptif, pour créer des échanges et préparer vos idées et envies à faire germer demain, ressentir la joie et vous mettre en action.
 
-Découvrez [nos types d’ateliers](/ateliers/) et découvrez également notre [offre de services spécifiques pour les entreprises](precious-prana.com/files/Precious-Prana-flyer-entreprise.pdf)
+Les séances de **Yoga du Rire en ligne** pendant le confinement ont démontré leur éfficacité en lâcher pris et détente. Et même leur éfficacité quant à la cohésion d'équipe.  [Voici quelques témoignages]() Envie de tenter ? Contactez-moi directement [par mail]() .
+
+Découvrez [tous les types d'ateliers](/ateliers/) et découvrez également notre [offre de services spécifiques pour les entreprises](precious-prana.com/files/Precious-Prana-flyer-entreprise.pdf)
 
 Nous avons également **une offre dédiée spécialement aux femmes actives**. Pour cette communauté, des rencontres ont actuellement lieu dans l’Essonne, Paris suivra sous peu. Au-delà des ateliers et leur cadre, ces femmes bénéficient des astuces qui leurs correspondent, pour retrouver l’énergie et être moteur.
 
