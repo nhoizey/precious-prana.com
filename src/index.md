@@ -17,15 +17,15 @@ Nous proposons des **ateliers et workshops**, suivant des thématiques, qui alli
 
 ::: note
 
-En accord avec les consignes pour éviter de propager le Coronavirus, j'ai décidé de continuer l'animation de certains ateliers en ligne afin de pouvoir vous proposer les séances variés et vous apporter un moment de joie et de lâcher prise.  A l'exception des séances individuelles [de relaxation "Bain de Gong"](), qui sont de nouveau possible sur rdv. 
+En accord avec les consignes pour éviter de propager le Coronavirus, j'ai décidé de continuer l'animation de certains ateliers en ligne afin de pouvoir vous proposer les séances variés et vous apporter un moment de joie et de lâcher prise.  A l'exception des séances individuelles [de relaxation "Bain de Gong"](), qui sont de nouveau possible sur rdv.
 
-Ceci s'applique tant pour l'offre auprès des particuliers comme celle pour les entreprises. 
+Ceci s'applique tant pour l'offre auprès des particuliers comme celle pour les entreprises.
 
 :::
 
 Ces ateliers s’adressent aux salariés en **entreprise**, mais aussi aux **entrepreneurs** et aux **particuliers**. C’est votre moment de repos dans un environnement réceptif, pour créer des échanges et préparer vos idées et envies à faire germer demain, ressentir la joie et vous mettre en action.
 
-Les séances de **Yoga du Rire en ligne** pendant le confinement ont démontré leur éfficacité en lâcher pris et détente. Et même leur éfficacité quant à la cohésion d'équipe.  [Voici quelques témoignages](). Envie de tenter ? Contactez-moi directement [par mail]() .
+Les séances de Yoga du Rire en ligne pendant le confinement ont démontré leur éfficacité en lâcher pris et détente. Et même leur éfficacité quant à la cohésion d'équipe.  Voici quelques témoignages. Envie de tenter ? Contactez-moi directement par mail.
 
 ![](/images/lake-pixabay-michael_kleinsasser.jpg "Photo par Michael Kleinsasser - Pixabay")
 
