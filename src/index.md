@@ -25,7 +25,7 @@ Ceci s'applique tant pour l'offre auprès des particuliers comme celle pour les 
 
 Ces ateliers s’adressent aux salariés en **entreprise**, mais aussi aux **entrepreneurs** et aux **particuliers**. C’est votre moment de repos dans un environnement réceptif, pour créer des échanges et préparer vos idées et envies à faire germer demain, ressentir la joie et vous mettre en action.
 
-Les séances de **Yoga du Rire en ligne** pendant le confinement ont démontré leur éfficacité en lâcher pris et détente. Et même leur éfficacité quant à la cohésion d'équipe.  [Voici quelques témoignages]() Envie de tenter ? Contactez-moi directement [par mail]() .
+Les séances de **Yoga du Rire en ligne** pendant le confinement ont démontré leur éfficacité en lâcher pris et détente. Et même leur éfficacité quant à la cohésion d'équipe.  [Voici quelques témoignages](). Envie de tenter ? Contactez-moi directement [par mail]() .
 
 ![](/images/lake-pixabay-michael_kleinsasser.jpg "Photo par Michael Kleinsasser - Pixabay")
 
