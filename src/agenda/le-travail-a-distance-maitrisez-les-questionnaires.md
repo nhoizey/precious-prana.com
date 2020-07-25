@@ -5,18 +5,18 @@ title: 'Le travail à distance : maîtrisez les questionnaires '
 ateliers:
 - src/ateliers/accompagnement-au-changement-transformation-en-entreprises.md
 lieu: src/lieux/atelier-en-direct-live-streaming.md
-form_url: https://www.weezevent.com/les-outils-pour-travailler-a-distance
-poster: "/images/AndreyBukreev-Design Thinking-business-small.jpg"
+form_url: https://www.weezevent.com/atelier-questionnaires
+poster: "/images/atelier-maitrisez-les-questionnaires-26082020.jpg"
 moodboard: ''
 published: false
 
 ---
-La période actuelle nous oblige à nous réinventer, à adapter nos offres de services, nos prestations. Cela passe par une nécessaire digitalisation de nos interventions et interactions avec nos clients, fournisseurs et partenaires. Questionnaires, animation, suivi et échanges, co-construction (et cartes mentales), stockage et gestion de projets : quelles solutions numériques existent sur le marché ?
+Vous êtes consultant, formateur ? Vous animez des groupes de travail? Vous souhaitez rendre vos questionnaires plus interactifs et utilisables en distanciel ? Alors ce nouvel atelier est fait pour vous !
 
-Suite au succès des deux webinars précédents, je propose une nouvelle séance autour des outils et méthodes de travail à distance. Car on voit le besoin de plus en plus confirmé. Travailler à distance n'est pas juste avoir des outils, c'est aussi une façon d'animer, de communiquer et de suivre, une vraie méthode de travail.
+Suite au succès de nos webinars précédents, je propose une séance autour de cette problématique spécifique des questionnaires et leur animation. Co-animé avec Marie-Aude LAGACHE du CABINET LAGACHE, nous allons travailler avec vous en direct sur l'aisance d'utiliser les outils pour les questionnaires, que ce soit en direct ou en différé.  
 
-Que vous ayez des équipes à gérer, des partenaires ou des formations à développer, **il faut se réinventer, s'adapter et communiquer autrement**. Questionnaires, animation/brainstorming, visio conférences, suivi et échanges, co-construction et tableaux blancs, stockage et gestion de projets... : quelles solutions numériques mettre en œuvre et comment gérer les relations à distance ?
+Cet atelier vous apprendra à choisir, utiliser, paramétrer et tester les outils - Google Forms, Zoom et Klaxoon et autres outils du marché - en assurant la mise en pratique de vos besoins concrets.
 
-Cette nouvelle séance est toujours co-animée par Marie Aude Lagâche et Jacqueline Oud.
+Que vous ayez des équipes à gérer, des partenaires ou des formations à développer, **il faut se réinventer, s'adapter et communiquer autrement**. Le besoin de savoir travailler à distance, assurer des formations et le suivi à distance est plus en plus confirmé. Travailler à distance n'est pas juste avoir des outils, c'est aussi une façon d'animer, de communiquer et de suivre, une vraie méthode de travail.
 
-**Lieu et date :**  Jeudi 14 mai de 10h à 12h, via Zoom, inscription au préalable.
+**Lieu et date :**  Mercredi 26 août à 18h30, via Zoom, inscription au préalable. Prix 30€
