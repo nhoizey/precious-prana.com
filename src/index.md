@@ -27,6 +27,8 @@ Ces ateliers s’adressent aux salariés en **entreprise**, mais aussi aux **ent
 
 Les séances de **Yoga du Rire en ligne** pendant le confinement ont démontré leur éfficacité en lâcher pris et détente. Et même leur éfficacité quant à la cohésion d'équipe.  [Voici quelques témoignages]() Envie de tenter ? Contactez-moi directement [par mail]() .
 
+![](/images/canva-mathisa-s-transformation-of-lime-butterfly.jpg)
+
 Découvrez [tous les types d'ateliers](/ateliers/) et découvrez également notre [offre de services spécifiques pour les entreprises](precious-prana.com/files/Precious-Prana-flyer-entreprise.pdf)
 
 Nous avons également **une offre dédiée spécialement aux femmes actives**. Pour cette communauté, des rencontres ont actuellement lieu dans l’Essonne, Paris suivra sous peu. Au-delà des ateliers et leur cadre, ces femmes bénéficient des astuces qui leurs correspondent, pour retrouver l’énergie et être moteur.
