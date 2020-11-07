@@ -56,8 +56,7 @@ module.exports = function (eleventyConfig) {
     const fullUrl = `https://precious-prana.com${path}`;
     return `
 <video autoplay loop muted playsinline>
-  <source src="https://res.cloudinary.com/nho/image/fetch/f_webm/${fullUrl}" type="video/webm">
-  <source src="https://res.cloudinary.com/nho/image/fetch/f_mp4/${fullUrl}" type="video/mp4">
+  <source src="${fullUrl}" type="video/mp4">
   <p>Votre navigateur ne supporte pas les vidéos, vous pouvez <a href="${fullUrl}">la télécharger</a>.</p>
 </video>`;
   });
