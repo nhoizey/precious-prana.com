@@ -1,7 +1,7 @@
 ---
 show_homepage: true
 date: 2020-11-14
-title: Yoga du Rire en ligne samedi 14 novembre
+title: Yoga du Rire en ligne
 ateliers:
 - src/ateliers/yoga-du-rire.md
 lieu: src/lieux/atelier-en-direct-live-streaming.md
