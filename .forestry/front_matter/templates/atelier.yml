@@ -8,6 +8,16 @@ fields:
   label: Titre
   config:
     required: true
+- name: ordre
+  type: number
+  label: Ordre
+  description: Numéro d'ordre, le plus petit apparaît en premier
+  default: 1
+  required: true
+  config:
+    min: 1
+    max: 99
+    step: 1
 pages:
 - src/ateliers/accompagnement-au-changement-transformation-en-entreprises.md
 - src/ateliers/autres-ateliers.md
