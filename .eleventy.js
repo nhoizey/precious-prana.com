@@ -107,7 +107,8 @@ module.exports = function (eleventyConfig) {
         return process.env.ELEVENTY_ENV === 'development' || item.data.published || item.data.published === undefined;
       })
       .sort((a, b) => {
-        return a.data.title.localeCompare(b.data.title);
+        console.dir(a.data);
+        return parseInt(a.data.ordre, 10) - parseInt(b.data.ordre, 10);
       });
   });
 
