@@ -1,5 +1,5 @@
 ---
-title: Nos ateliers avec partenaires
+title: Autres ateliers
 ordre: 99
 
 ---
