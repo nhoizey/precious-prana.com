@@ -1,9 +1,8 @@
 ---
 title: Autres Ateliers
-published: false
 
 ---
-Nous organisons également d'autres types d'ateliers pontuels grâce aux partenaires qualifié dans leur domaine. Aromathérapie, Journal Créatif ou Oser la voix, tous ces ateliers visent toujours à vous faire pétiller, à être pleine d'énergie et améliorer votre équilibre entre vie personnelle et vie professionnelle.
+Nous organisons également d'autres types d'ateliers pontuels grâce aux partenaires qualifié.e.s dans leur domaine. Aromathérapie, Journal Créatif ou Oser la voix, tous ces ateliers visent toujours à vous faire pétiller, à être pleine d'énergie et améliorer votre équilibre entre vie personnelle et vie professionnelle.
 
 ## Aromathérapie
 
