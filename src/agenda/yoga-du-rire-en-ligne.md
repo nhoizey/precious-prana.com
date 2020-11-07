@@ -6,8 +6,8 @@ ateliers:
 - src/ateliers/yoga-du-rire.md
 lieu: src/lieux/atelier-en-direct-live-streaming.md
 form_url: http://bit.ly/YogaduRire14novembre
-poster: "/images/fb-yoga-du-rire-enligne-14-novembre.mp4"
-moodboard: "/images/fb-yoga-du-rire-enligne-14-novembre.png"
+poster: "/images/fb-yoga-du-rire-enligne-14-novembre.png"
+moodboard: ''
 
 ---
 Pendant le confinement, notre niveau de stress monte et nous avons besoin de retrouver des moments pour lâcher prise et pour retrouver l'humour. C'est possible avec cet atelier Yoga du Rire. Je continue donc d'animer les séances de Yoga du Rire à tout public en ligne.
