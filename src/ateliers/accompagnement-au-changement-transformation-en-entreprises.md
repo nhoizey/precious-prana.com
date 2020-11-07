@@ -1,5 +1,6 @@
 ---
 title: Accompagnement au changement - Transformation en entreprises
+ordre: 70
 
 ---
 Accompagner les équipes, le cadre dirigeant et les acteurs de manière efficae dans un processus de changement et transformation, nécessite une vrai démarche qui englobe l'analyse d'impact, la communication, la formation et la coordination et suivi. Toufefois, cela ne suffit souvent pas.
