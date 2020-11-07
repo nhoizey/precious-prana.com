@@ -1,5 +1,6 @@
 ---
 title: 'Co-développement '
+ordre: 7
 
 ---
 Le co-développement réunit un groupe de personnes - des pairs - qui cherchent à améliorer leur propre pratique professionnelle avec une attitude d’apprentissage, mais également à contribuer à l’amélioration de celle des autres, par l’attitude pédagogique. Le groupe cultive ainsi, ensemble, une « intelligence collective » et crée une véritable communauté d’apprentissage.
