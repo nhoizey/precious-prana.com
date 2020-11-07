@@ -4,7 +4,7 @@ poster: "/images/2019-03-28-atelier-journal-creatif.jpg"
 form_url: http://bit.ly/JournalCreatif-PreciousPrana
 show_homepage: true
 ateliers:
-- src/ateliers/journal-creatif.md
+- src/ateliers/autres-ateliers.md
 lieu: src/lieux/espace-evolution.md
 
 ---
