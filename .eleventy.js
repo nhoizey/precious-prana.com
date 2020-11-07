@@ -52,6 +52,16 @@ module.exports = function (eleventyConfig) {
     return `<figure class="video"><iframe width="784" height="441" src="https://www.youtube.com/embed/${id}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>`;
   });
 
+  eleventyConfig.addNunjucksShortcode("video", function (url) {
+    return `
+<video autoplay loop muted playsinline>
+  <source src="https://res.cloudinary.com/nho/image/fetch/f_webm/${url}" type="video/webm">
+  <source src="https://res.cloudinary.com/nho/image/fetch/f_mp4/${url}" type="video/mp4">
+  <p>Votre navigateur ne supporte pas les vidéos, vous pouvez <a href="${url}">la télécharger</a>.</p>
+</video>`;
+  });
+
+  // TODO: replace with markdown-it-container
   eleventyConfig.addPairedShortcode("note", function (content) {
     return `<div class="note">${content}</div>`;
   });
