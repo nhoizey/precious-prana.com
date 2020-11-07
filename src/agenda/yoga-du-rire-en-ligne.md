@@ -1,7 +1,7 @@
 ---
 show_homepage: true
 date: 2020-11-14
-title: Yoga du Rire en ligne
+title: 'Yoga du Rire en ligne pour rigoler et lâcher son stress '
 ateliers:
 - src/ateliers/yoga-du-rire.md
 lieu: src/lieux/atelier-en-direct-live-streaming.md
