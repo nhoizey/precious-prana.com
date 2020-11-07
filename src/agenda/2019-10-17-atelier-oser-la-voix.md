@@ -5,7 +5,7 @@ show_homepage: true
 poster: "/images/evenements/2019-10-17-atelier-oser-la-voix.png"
 moodboard: ''
 ateliers:
-- src/ateliers/oser-la-voix.md
+- src/ateliers/autres-ateliers.md
 lieu: src/lieux/espace-evolution.md
 
 ---
