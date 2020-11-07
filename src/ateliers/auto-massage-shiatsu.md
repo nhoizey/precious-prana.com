@@ -1,5 +1,5 @@
 ---
-title: Auto-massage Shiatsu
+title: Shiatsu Auto-massage - Do-In
 ordre: 8
 
 ---
