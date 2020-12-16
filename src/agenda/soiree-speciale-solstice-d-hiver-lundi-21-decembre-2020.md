@@ -1,13 +1,12 @@
 ---
 title: Soirée spéciale « Solstice d'hiver » lundi 21 décembre 2020
 poster: "/images/solsticedhiver2020.jpg"
-form_url: https://www.weezevent.com/atelier-solstice-d-hiver-2
+form_url: https://forms.gle/cdx8WCR8EQgBjPm68
 show_homepage: true
 lieu: src/lieux/atelier-en-direct-live-streaming.md
 date: 2019-12-21
 ateliers:
 - src/ateliers/autres-ateliers.md
-published: false
 
 ---
 Le solstice d’hiver est un moment clef dans l’année et se célèbre depuis longtemps dans de nombreuses traditions. C’est le moment de transition entre un cycle qui se termine et un nouveau qui va démarrer.
