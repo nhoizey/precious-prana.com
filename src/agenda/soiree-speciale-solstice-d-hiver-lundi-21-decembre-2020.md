@@ -4,7 +4,7 @@ poster: "/images/solsticedhiver2020.jpg"
 form_url: https://forms.gle/cdx8WCR8EQgBjPm68
 show_homepage: true
 lieu: src/lieux/atelier-en-direct-live-streaming.md
-date: 2019-12-21
+date: 2020-12-21
 ateliers:
 - src/ateliers/autres-ateliers.md
 
