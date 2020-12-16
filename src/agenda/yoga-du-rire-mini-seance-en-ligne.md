@@ -1,6 +1,6 @@
 ---
 show_homepage: true
-date: 2020-12-21
+date: 2020-12-22
 title: Yoga du Rire - mini séance en ligne
 ateliers:
 - src/ateliers/yoga-du-rire.md
@@ -8,7 +8,6 @@ lieu: src/lieux/atelier-en-direct-live-streaming.md
 form_url: ''
 poster: "/images/yogadurire-rireenligne-calendrierdec2020.jpg"
 moodboard: ''
-published: false
 
 ---
 Depuis septembre, nous participons aux séances de Yoga du Rire en ligne avec l'institut Français du Yoga du Rire. Ainsi, tous les mardis soirs nous proposons ainsi des séances de 15 minutes de rire en-ligne. 
