@@ -33,7 +33,7 @@
     "markdown-it": "~11.0",
     "markdown-it-anchor": "~5.3",
     "markdown-it-container": "~3.0",
-    "markdown-it-attrs": "^3.0.3",
+    "markdown-it-attrs": "^4.0.0",
     "pump": "~3.0",
     "require-dir": "~1.2",
     "clean-css": "^4.2.3",
