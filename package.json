@@ -29,7 +29,7 @@
     "gulp-serve": "~1.4",
     "gulp-shell": "~0.8",
     "gulp-uglify": "~3.0",
-    "luxon": "~1.24",
+    "luxon": "~1.26",
     "markdown-it": "~11.0",
     "markdown-it-anchor": "~5.3",
     "markdown-it-container": "~3.0",
