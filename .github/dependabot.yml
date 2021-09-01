@@ -2,8 +2,9 @@ version: 2
 updates:
   - package-ecosystem: npm
     directory: '/'
+    versioning-strategy: lockfile-only
     schedule:
-      interval: 'monthly'
+      interval: monthly
     open-pull-requests-limit: 10
     labels:
       - 'type: dependencies 🔗'
