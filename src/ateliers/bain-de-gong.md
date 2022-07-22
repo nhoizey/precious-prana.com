@@ -29,24 +29,22 @@ Il est possible de profiter d'une séance de relaxation vibratoire "Bain de Gong
 * Deux lieux de rendez-vous : Viry-Châtillon ([Rooftop de Viry](https://www.lerooftopdeviry.fr/ "Le Rooftop de Viry")) et Yerres ([Le Terrier du Lapin Bleu](https://leterrierdulapinbleu.com/ "Le Terrier du Lapin Bleu"))
 * Pour prendez rdv: au téléphone 06.33.96.84.83 ou via mail : contact@precious-prana.com
 * Les précautions de sécurité sont pris en compte (masque,visière, gel hydro-alcoolique, distanciation. Pas de toucher necéssaire)
-* Le règlement se fait en espèces ou chèque
+* Le règlement se fait en espèces, carte bleu ou chèque
 
-### Séances en groupes 
+### Séances en groupes
 
-Des séances en groupe sont proposées tout au long de l'année. 
-
-Toutefois, actuellement, dans le contexte du COVID-19, les séances en groupes sont mise en attente. 
+Des séances en groupe sont proposées tout au long de l'année.
 
 ### Séances en entreprise
 
-Les séances en entreprise sont également possible et très bénéfique pour vos salariés.  Vos salariés se détendent très rapidement et profitent d'une vrai pause ressourçante pendant la journée de travail, ou bien pour terminer la journée de travail. Après une séance de Bain de Gong, on est plus alerte, plus créatif et plus productif. N'ayez pas de inquiétude quant au besoin d'insonorisation. C'est un vrai cadeau que vous faites à vos salariés. 
+Les séances en entreprise sont également possible et très bénéfique pour vos salariés.  Vos salariés se détendent très rapidement et profitent d'une vrai pause ressourçante pendant la journée de travail, ou bien pour terminer la journée de travail. Après une séance de Bain de Gong, on est plus alerte, plus créatif et plus productif. N'ayez pas de inquiétude quant au besoin d'insonorisation. C'est un vrai cadeau que vous faites à vos salariés.
 
 **Deux formules en entreprise**
 
 * Des séances individuelles : souvent dans une espace infirmerie ou un autre espace dédiée aux soins bien-être.
-* Des séances en groupes : généralement dans une espace sport, une salle collective dans les parties collectives de l'entreprise. 
+* Des séances en groupes : généralement dans une espace sport, une salle collective dans les parties collectives de l'entreprise.
 
-**Quelques témoignages d'intervention en entreprise** 
+**Quelques témoignages d'intervention en entreprise**
 
 > Je ne pensais pas m'endormir aussi facilement pendant ce Bain de Gong, surtout en pleine journée entre les réunions. (V.B.)
 
