@@ -1,6 +1,6 @@
 ---
 show_homepage: true
-date: 2020-03-28
+date: 2023-06-03
 title: 'Ateliers Bain de Gong et Yoga du Rire à Montgeron'
 ateliers:
 - src/ateliers/bain-de-gong.md
