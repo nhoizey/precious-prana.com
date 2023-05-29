@@ -2,8 +2,7 @@ require('dotenv').config();
 const fetch = require('node-fetch');
 const { schedule } = require('@netlify/functions');
 
-// https://crontab.guru/#0_5_*_*_*
-const handler = schedule('0 5 * * *', async () => {
+const handler = async (event, context) => {
   await fetch(process.env.BUILD_HOOK, {
     method: 'POST'
   }).then(response => {
@@ -14,6 +13,7 @@ const handler = schedule('0 5 * * *', async () => {
     statusCode: 200,
     body: 'Build triggered'
   };
-});
+};
 
-module.exports.handler = handler;
+// https://crontab.guru/#0_5_*_*_*
+exports.handler = schedule('0 5 * * *', handler);
