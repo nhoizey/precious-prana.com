@@ -22,7 +22,7 @@ Et dans cette ordre vous serez vraiment en mode relaxation 😍. Même si vous p
 
 Inscription au au choix :
 
-- Téléphone/sms (pas Whatsapp) : 06 33 96 84 83 (toujours le même numéro)
+- Téléphone/SMS (pas Whatsapp) : [06 33 96 84 83](tel:0633968483) (toujours le même numéro)
 - Mail: contact@precious-prana.com
 - Lien: <https://bit.ly/baindegong-rooftopnovdec>
 
