@@ -5,13 +5,14 @@ title: 'Atelier Bain de Gong à Viry Chatillon'
 lieu: src/lieux/le-rooftop-de-viry.md
 ateliers:
 - src/ateliers/bain-de-gong.md
-poster: "/images/evenements/2023-11-30-bain-de-gong.png"
+poster: "/images/evenements/2023-11-30-bain-de-gong.jpg"
 moodboard: ''
 ---
 
-Profitez des 2 dernières séances de Bain de Gong avant la fin d'année:
+**Profitez des 2 dernières séances de Bain de Gong avant la fin d'année !**
+
 - Jeudi 30 novembre à 20h
-- Mardi 12 décembre à 20h
+- [Mardi 12 décembre à 20h](/agenda/2023/12/12/atelier-bain-de-gong-a-viry-chatillon/)
 
 Où? Le Rooftop de Viry : https://bit.ly/Rooftop-Viry-Plan
 
