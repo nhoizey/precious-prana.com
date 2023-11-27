@@ -22,6 +22,5 @@ Pour vous inscrire:
 - Téléphone/SMS (pas Whatsapp) : [06 33 96 84 83](tel:0633968483)
 - Mail: contact@precious-prana.com
 
-Vous ne connaissez pas le bain de Gong? Pour en savoir plus, c'est par ici et
-inclut également des témoignages 👍
-https://precious-prana.com/ateliers/bain-de-gong/
+Vous ne connaissez pas le bain de Gong? [Pour en savoir plus, c'est par
+ici](/ateliers/bain-de-gong/) et cela inclut également des témoignages 👍
