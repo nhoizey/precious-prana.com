@@ -14,8 +14,6 @@ moodboard: ''
 - [Jeudi 30 novembre à 20h](/agenda/2023/11/30/atelier-bain-de-gong-a-viry-chatillon/)
 - Mardi 12 décembre à 20h
 
-Où? Le Rooftop de Viry : https://bit.ly/Rooftop-Viry-Plan
-
 🎁 Et petite offre : venez à 2 profitez de 10 % de réduction, venez à 3 ou plus
 et profitez de 20 % de réduction 😍.
 
