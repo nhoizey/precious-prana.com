@@ -20,7 +20,7 @@ C'est une après-midi unique ce dimanche avec deux séances de relaxation qui se
 
 Et dans cette ordre vous serez vraiment en mode relaxation 😍. Même si vous pouvez choisir d'en faire une seule, évidemment. A ne pas manquer, même la lune est dans la bonne disposition pour accompagner cette relaxation 🌙
 
-Inscription au au choix :
+Inscription au choix :
 
 - Téléphone/SMS (pas Whatsapp) : [06 33 96 84 83](tel:0633968483) (toujours le même numéro)
 - Mail: contact@precious-prana.com
