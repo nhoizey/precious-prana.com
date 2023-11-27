@@ -16,7 +16,8 @@ moodboard: ''
 
 Où? Le Rooftop de Viry : https://bit.ly/Rooftop-Viry-Plan
 
-🎁 Et petite offre : venez à 2 profitez de 10% de réduction, venez à 3 ou plus et profitez de 20 de réduction 😍.
+🎁 Et petite offre : venez à 2 profitez de 10 % de réduction, venez à 3 ou plus
+et profitez de 20 % de réduction 😍.
 
 Pour vous inscrire:
 - Téléphone/SMS (pas Whatsapp) : [06 33 96 84 83](tel:0633968483)
