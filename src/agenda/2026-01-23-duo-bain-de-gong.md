@@ -1,6 +1,6 @@
 ---
 show_homepage: true
-date: 2023-11-30
+date: 2026-01-23
 title: 'Duo Bain de Gong à Draveil'
 lieu: src/lieux/cercle-de-mainville.md
 ateliers:
